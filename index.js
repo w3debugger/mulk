@@ -1,22 +1,30 @@
-const mapping = require('./data/countries/mapping.json');
+const meta = require('./data/meta');
 
-function mulk(name, format) {
-  const nameToLowerCase = (name || '').toLowerCase();
-  let file = {};
+/**
+ * Finds the country details for the given country name or code
+ *
+ * @param {string} name Name or country code
+ * @param {string|null} field Optionally enter the field to get
+ * @param {null|*} defaultValue Value to return if the given country/field is not found
+ *
+ * @returns {null|*}
+ */
+function mulk(name, field = null, defaultValue = null) {
+  const normalizedName = (name || '').toLowerCase();
 
-  mapping.forEach(country => {
-    if ((country.name || []).includes(nameToLowerCase)) {
-      const fileName = country.name[1];
+  // Find the first country matching the details
+  const foundMatch = meta.find(metaObj => metaObj.match.includes(normalizedName));
 
-      file = require(`./countries/${fileName}`) || {};
-    }
-  });
-
-  if (name) {
-    return format ? file[format] : file;
-  } else {
-    return require(`./data.json`) || {};
+  if (!foundMatch) {
+    return defaultValue;
   }
+
+  const countryDetails = require(`./data/countries/${foundMatch.fileName}`) || {};
+  if (!field) {
+    return countryDetails || defaultValue;
+  }
+
+  return countryDetails[field] || defaultValue;
 }
 
 module.exports = mulk;

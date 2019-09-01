@@ -1,7 +1,7 @@
 {
   "name": "mulk",
   "version": "1.0.8",
-  "description": "Get data of all the countries",
+  "description": "Get details for countries by country code or name",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/w3debugger/mulk"
   },
   "scripts": {
-    "meta": "node bin/generate-meta.js"
+    "meta": "node scripts/generate-meta.js"
   },
   "keywords": [
     "country",
