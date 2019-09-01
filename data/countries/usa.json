@@ -1,0 +1,33 @@
+{
+  "capital": "Washington",
+  "continent": "NA",
+  "name": "US",
+  "officialName": "United States of America",
+  "distSign": "USA",
+  "dialCode": "1",
+  "edgar": null,
+  "fifa": "USA",
+  "fips": "US",
+  "gaul": "259",
+  "geoNameId": "6252001",
+  "olympicsId": "USA",
+  "iso2": "US",
+  "iso3": "USA",
+  "currencyCode": "USD",
+  "currencyCountryName": "UNITED STATES",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "USA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-US",
+    "es-US",
+    "haw",
+    "fr"
+  ],
+  "m49": 840,
+  "marc": "xxu",
+  "tld": ".us",
+  "wmo": "US"
+}

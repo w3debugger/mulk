@@ -1,0 +1,31 @@
+{
+  "capital": "Bujumbura",
+  "continent": "AF",
+  "name": "Burundi",
+  "officialName": "Burundi",
+  "distSign": "RU",
+  "dialCode": "257",
+  "edgar": "E2",
+  "fifa": "BDI",
+  "fips": "BY",
+  "gaul": "43",
+  "geoNameId": "433561",
+  "olympicsId": "BDI",
+  "iso2": "BI",
+  "iso3": "BDI",
+  "currencyCode": "BIF",
+  "currencyCountryName": "BURUNDI",
+  "currencyMinorUnit": 0,
+  "currencyName": "Burundi Franc",
+  "currencyNumericCode": 108,
+  "itu": "BDI",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-BI",
+    "rn"
+  ],
+  "m49": 108,
+  "marc": "bd",
+  "tld": ".bi",
+  "wmo": "BI"
+}

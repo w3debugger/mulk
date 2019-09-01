@@ -1,0 +1,32 @@
+{
+  "capital": "Nicosia",
+  "continent": "EU",
+  "name": "Cyprus",
+  "officialName": "Cyprus",
+  "distSign": "CY",
+  "dialCode": "357",
+  "edgar": "G4",
+  "fifa": "CYP",
+  "fips": "CY",
+  "gaul": "64",
+  "geoNameId": "146669",
+  "olympicsId": "CYP",
+  "iso2": "CY",
+  "iso3": "CYP",
+  "currencyCode": "EUR",
+  "currencyCountryName": "CYPRUS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "CYP",
+  "isIndependent": "Yes",
+  "languages": [
+    "el-CY",
+    "tr-CY",
+    "en"
+  ],
+  "m49": 196,
+  "marc": "cy",
+  "tld": ".cy",
+  "wmo": "CY"
+}

@@ -1,0 +1,31 @@
+{
+  "capital": "Tunis",
+  "continent": "AF",
+  "name": "Tunisia",
+  "officialName": "Tunisia",
+  "distSign": "TN",
+  "dialCode": "216",
+  "edgar": "W6",
+  "fifa": "TUN",
+  "fips": "TS",
+  "gaul": "248",
+  "geoNameId": "2464461",
+  "olympicsId": "TUN",
+  "iso2": "TN",
+  "iso3": "TUN",
+  "currencyCode": "TND",
+  "currencyCountryName": "TUNISIA",
+  "currencyMinorUnit": 3,
+  "currencyName": "Tunisian Dinar",
+  "currencyNumericCode": 788,
+  "itu": "TUN",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-TN",
+    "fr"
+  ],
+  "m49": 788,
+  "marc": "ti",
+  "tld": ".tn",
+  "wmo": "TS"
+}

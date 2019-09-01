@@ -1,0 +1,30 @@
+{
+  "capital": "Santo Domingo",
+  "continent": "NA",
+  "name": "Dominican Republic",
+  "officialName": "Dominican Republic",
+  "distSign": "DOM",
+  "dialCode": "1-809,1-829,1-849",
+  "edgar": "G8",
+  "fifa": "DOM",
+  "fips": "DR",
+  "gaul": "72",
+  "geoNameId": "3508796",
+  "olympicsId": "DOM",
+  "iso2": "DO",
+  "iso3": "DOM",
+  "currencyCode": "DOP",
+  "currencyCountryName": "DOMINICAN REPUBLIC",
+  "currencyMinorUnit": 2,
+  "currencyName": "Dominican Peso",
+  "currencyNumericCode": 214,
+  "itu": "DOM",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-DO"
+  ],
+  "m49": 214,
+  "marc": "dr",
+  "tld": ".do",
+  "wmo": "DR"
+}

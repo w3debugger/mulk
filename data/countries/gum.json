@@ -1,0 +1,31 @@
+{
+  "capital": "Hagatna",
+  "continent": "OC",
+  "name": "Guam",
+  "officialName": "Guam",
+  "distSign": "USA",
+  "dialCode": "1-671",
+  "edgar": "GU",
+  "fifa": "GUM",
+  "fips": "GQ",
+  "gaul": "101",
+  "geoNameId": "4043988",
+  "olympicsId": "GUM",
+  "iso2": "GU",
+  "iso3": "GUM",
+  "currencyCode": "USD",
+  "currencyCountryName": "GUAM",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "GUM",
+  "isIndependent": "Territory of US",
+  "languages": [
+    "en-GU",
+    "ch-GU"
+  ],
+  "m49": 316,
+  "marc": "gu",
+  "tld": ".gu",
+  "wmo": "GM"
+}

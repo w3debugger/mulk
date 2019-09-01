@@ -1,0 +1,30 @@
+{
+  "capital": "Cayenne",
+  "continent": "SA",
+  "name": "French Guiana",
+  "officialName": "French Guiana",
+  "distSign": "F",
+  "dialCode": "594",
+  "edgar": "I3",
+  "fifa": "GUF",
+  "fips": "FG",
+  "gaul": "86",
+  "geoNameId": "3381670",
+  "olympicsId": "FGU",
+  "iso2": "GF",
+  "iso3": "GUF",
+  "currencyCode": "EUR",
+  "currencyCountryName": "FRENCH GUIANA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "GUF",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-GF"
+  ],
+  "m49": 254,
+  "marc": "fg",
+  "tld": ".gf",
+  "wmo": "FG"
+}

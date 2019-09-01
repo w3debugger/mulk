@@ -1,0 +1,30 @@
+{
+  "capital": "Andorra la Vella",
+  "continent": "EU",
+  "name": "Andorra",
+  "officialName": "Andorra",
+  "distSign": "AND",
+  "dialCode": "376",
+  "edgar": "B6",
+  "fifa": "AND",
+  "fips": "AN",
+  "gaul": "7",
+  "geoNameId": "3041565",
+  "olympicsId": "AND",
+  "iso2": "AD",
+  "iso3": "AND",
+  "currencyCode": "EUR",
+  "currencyCountryName": "ANDORRA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "AND",
+  "isIndependent": "Yes",
+  "languages": [
+    "ca"
+  ],
+  "m49": 20,
+  "marc": "an",
+  "tld": ".ad",
+  "wmo": null
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Yerevan",
+  "continent": "AS",
+  "name": "Armenia",
+  "officialName": "Armenia",
+  "distSign": "AM",
+  "dialCode": "374",
+  "edgar": "1B",
+  "fifa": "ARM",
+  "fips": "AM",
+  "gaul": "13",
+  "geoNameId": "174982",
+  "olympicsId": "ARM",
+  "iso2": "AM",
+  "iso3": "ARM",
+  "currencyCode": "AMD",
+  "currencyCountryName": "ARMENIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Armenian Dram",
+  "currencyNumericCode": 51,
+  "itu": "ARM",
+  "isIndependent": "Yes",
+  "languages": [
+    "hy"
+  ],
+  "m49": 51,
+  "marc": "ai",
+  "tld": ".am",
+  "wmo": "AY"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Rabat",
+  "continent": "AF",
+  "name": "Morocco",
+  "officialName": "Morocco",
+  "distSign": "MA",
+  "dialCode": "212",
+  "edgar": "P2",
+  "fifa": "MAR",
+  "fips": "MO",
+  "gaul": "169",
+  "geoNameId": "2542007",
+  "olympicsId": "MAR",
+  "iso2": "MA",
+  "iso3": "MAR",
+  "currencyCode": "MAD",
+  "currencyCountryName": "MOROCCO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Moroccan Dirham",
+  "currencyNumericCode": 504,
+  "itu": "MRC",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-MA",
+    "ber",
+    "fr"
+  ],
+  "m49": 504,
+  "marc": "mr",
+  "tld": ".ma",
+  "wmo": "MC"
+}

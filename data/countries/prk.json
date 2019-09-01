@@ -1,0 +1,30 @@
+{
+  "capital": "Pyongyang",
+  "continent": "AS",
+  "name": "North Korea",
+  "officialName": "Democratic People's Republic of Korea",
+  "distSign": null,
+  "dialCode": "850",
+  "edgar": null,
+  "fifa": "PRK",
+  "fips": "KN",
+  "gaul": "67",
+  "geoNameId": "1873107",
+  "olympicsId": "PRK",
+  "iso2": "KP",
+  "iso3": "PRK",
+  "currencyCode": "KPW",
+  "currencyCountryName": "KOREA, DEMOCRATIC PEOPLEâ€™S REPUBLIC OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "North Korean Won",
+  "currencyNumericCode": 408,
+  "itu": "KRE",
+  "isIndependent": "Yes",
+  "languages": [
+    "ko-KP"
+  ],
+  "m49": 408,
+  "marc": "kn",
+  "tld": ".kp",
+  "wmo": "KR"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Mexico City",
+  "continent": "NA",
+  "name": "Mexico",
+  "officialName": "Mexico",
+  "distSign": "MEX",
+  "dialCode": "52",
+  "edgar": "O5",
+  "fifa": "MEX",
+  "fips": "MX",
+  "gaul": "162",
+  "geoNameId": "3996063",
+  "olympicsId": "MEX",
+  "iso2": "MX",
+  "iso3": "MEX",
+  "currencyCode": "MXN",
+  "currencyCountryName": "MEXICO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Mexican Peso",
+  "currencyNumericCode": 484,
+  "itu": "MEX",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-MX"
+  ],
+  "m49": 484,
+  "marc": "mx",
+  "tld": ".mx",
+  "wmo": "MX"
+}

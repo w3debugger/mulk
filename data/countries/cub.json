@@ -1,0 +1,30 @@
+{
+  "capital": "Havana",
+  "continent": "NA",
+  "name": "Cuba",
+  "officialName": "Cuba",
+  "distSign": "C",
+  "dialCode": "53",
+  "edgar": "G3",
+  "fifa": "CUB",
+  "fips": "CU",
+  "gaul": "63",
+  "geoNameId": "3562981",
+  "olympicsId": "CUB",
+  "iso2": "CU",
+  "iso3": "CUB",
+  "currencyCode": "CUP",
+  "currencyCountryName": "CUBA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Cuban Peso",
+  "currencyNumericCode": 192,
+  "itu": "CUB",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-CU"
+  ],
+  "m49": 192,
+  "marc": "cu",
+  "tld": ".cu",
+  "wmo": "CU"
+}

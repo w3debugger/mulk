@@ -1,0 +1,33 @@
+{
+  "capital": "Gibraltar",
+  "continent": "EU",
+  "name": "Gibraltar",
+  "officialName": "Gibraltar",
+  "distSign": "GBZ",
+  "dialCode": "350",
+  "edgar": "J1",
+  "fifa": "GBZ",
+  "fips": "GI",
+  "gaul": "95",
+  "geoNameId": "2411586",
+  "olympicsId": "GIB",
+  "iso2": "GI",
+  "iso3": "GIB",
+  "currencyCode": "GIP",
+  "currencyCountryName": "GIBRALTAR",
+  "currencyMinorUnit": 2,
+  "currencyName": "Gibraltar Pound",
+  "currencyNumericCode": 292,
+  "itu": "GIB",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-GI",
+    "es",
+    "it",
+    "pt"
+  ],
+  "m49": 292,
+  "marc": "gi",
+  "tld": ".gi",
+  "wmo": "GI"
+}

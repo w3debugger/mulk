@@ -1,0 +1,30 @@
+{
+  "capital": "Roseau",
+  "continent": "NA",
+  "name": "Dominica",
+  "officialName": "Dominica",
+  "distSign": "WD",
+  "dialCode": "1-767",
+  "edgar": "G9",
+  "fifa": "DMA",
+  "fips": "DO",
+  "gaul": "71",
+  "geoNameId": "3575830",
+  "olympicsId": "DMA",
+  "iso2": "DM",
+  "iso3": "DMA",
+  "currencyCode": "XCD",
+  "currencyCountryName": "DOMINICA",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "DMA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-DM"
+  ],
+  "m49": 212,
+  "marc": "dq",
+  "tld": ".dm",
+  "wmo": "DO"
+}

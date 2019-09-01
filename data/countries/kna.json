@@ -1,0 +1,30 @@
+{
+  "capital": "Basseterre",
+  "continent": "NA",
+  "name": "St. Kitts & Nevis",
+  "officialName": "Saint Kitts and Nevis",
+  "distSign": "KN",
+  "dialCode": "1-869",
+  "edgar": "U7",
+  "fifa": "SKN",
+  "fips": "SC",
+  "gaul": "208",
+  "geoNameId": "3575174",
+  "olympicsId": "SKN",
+  "iso2": "KN",
+  "iso3": "KNA",
+  "currencyCode": "XCD",
+  "currencyCountryName": "SAINT KITTS AND NEVIS",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "KNA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-KN"
+  ],
+  "m49": 659,
+  "marc": "xd",
+  "tld": ".kn",
+  "wmo": "AT"
+}

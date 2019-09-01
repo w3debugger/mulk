@@ -1,0 +1,30 @@
+{
+  "capital": "Budapest",
+  "continent": "EU",
+  "name": "Hungary",
+  "officialName": "Hungary",
+  "distSign": "H",
+  "dialCode": "36",
+  "edgar": "K5",
+  "fifa": "HUN",
+  "fips": "HU",
+  "gaul": "113",
+  "geoNameId": "719819",
+  "olympicsId": "HUN",
+  "iso2": "HU",
+  "iso3": "HUN",
+  "currencyCode": "HUF",
+  "currencyCountryName": "HUNGARY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Forint",
+  "currencyNumericCode": 348,
+  "itu": "HNG",
+  "isIndependent": "Yes",
+  "languages": [
+    "hu-HU"
+  ],
+  "m49": 348,
+  "marc": "hu",
+  "tld": ".hu",
+  "wmo": "HU"
+}

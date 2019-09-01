@@ -1,0 +1,30 @@
+{
+  "capital": "Bogota",
+  "continent": "SA",
+  "name": "Colombia",
+  "officialName": "Colombia",
+  "distSign": "CO",
+  "dialCode": "57",
+  "edgar": "F8",
+  "fifa": "COL",
+  "fips": "CO",
+  "gaul": "57",
+  "geoNameId": "3686110",
+  "olympicsId": "COL",
+  "iso2": "CO",
+  "iso3": "COL",
+  "currencyCode": "COP",
+  "currencyCountryName": "COLOMBIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Colombian Peso",
+  "currencyNumericCode": 170,
+  "itu": "CLM",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-CO"
+  ],
+  "m49": 170,
+  "marc": "ck",
+  "tld": ".co",
+  "wmo": "CO"
+}

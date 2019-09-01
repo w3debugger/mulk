@@ -1,0 +1,30 @@
+{
+  "capital": null,
+  "continent": "AN",
+  "name": "Bouvet Island",
+  "officialName": null,
+  "distSign": "BV",
+  "dialCode": "47",
+  "edgar": null,
+  "fifa": null,
+  "fips": "BV",
+  "gaul": "36",
+  "geoNameId": "3371123",
+  "olympicsId": null,
+  "iso2": "BV",
+  "iso3": "BVT",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Territory of NO",
+  "languages": [
+    ""
+  ],
+  "m49": 74,
+  "marc": "bv",
+  "tld": ".bv",
+  "wmo": "BV"
+}

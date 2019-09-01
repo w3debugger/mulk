@@ -1,0 +1,30 @@
+{
+  "capital": "East Jerusalem",
+  "continent": "AS",
+  "name": "Palestine",
+  "officialName": "State of Palestine",
+  "distSign": null,
+  "dialCode": "970",
+  "edgar": null,
+  "fifa": "PLE",
+  "fips": "GZ,WE",
+  "gaul": "91,267",
+  "geoNameId": "6254930",
+  "olympicsId": "PLE",
+  "iso2": "PS",
+  "iso3": "PSE",
+  "currencyCode": null,
+  "currencyCountryName": "PALESTINE, STATE OF",
+  "currencyMinorUnit": null,
+  "currencyName": "No universal currency",
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "In contention",
+  "languages": [
+    "ar-PS"
+  ],
+  "m49": 275,
+  "marc": "gz,wj",
+  "tld": ".ps",
+  "wmo": null
+}

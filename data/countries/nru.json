@@ -1,0 +1,31 @@
+{
+  "capital": "Yaren",
+  "continent": "OC",
+  "name": "Nauru",
+  "officialName": "Nauru",
+  "distSign": "NAU",
+  "dialCode": "674",
+  "edgar": "P5",
+  "fifa": "NRU",
+  "fips": "NR",
+  "gaul": "173",
+  "geoNameId": "2110425",
+  "olympicsId": "NRU",
+  "iso2": "NR",
+  "iso3": "NRU",
+  "currencyCode": "AUD",
+  "currencyCountryName": "NAURU",
+  "currencyMinorUnit": 2,
+  "currencyName": "Australian Dollar",
+  "currencyNumericCode": 36,
+  "itu": "NRU",
+  "isIndependent": "Yes",
+  "languages": [
+    "na",
+    "en-NR"
+  ],
+  "m49": 520,
+  "marc": "nu",
+  "tld": ".nr",
+  "wmo": "NW"
+}

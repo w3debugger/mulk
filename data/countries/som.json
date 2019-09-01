@@ -1,0 +1,33 @@
+{
+  "capital": "Mogadishu",
+  "continent": "AF",
+  "name": "Somalia",
+  "officialName": "Somalia",
+  "distSign": "SO",
+  "dialCode": "252",
+  "edgar": "U1",
+  "fifa": "SOM",
+  "fips": "SO",
+  "gaul": "226",
+  "geoNameId": "51537",
+  "olympicsId": "SOM",
+  "iso2": "SO",
+  "iso3": "SOM",
+  "currencyCode": "SOS",
+  "currencyCountryName": "SOMALIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Somali Shilling",
+  "currencyNumericCode": 706,
+  "itu": "SOM",
+  "isIndependent": "Yes",
+  "languages": [
+    "so-SO",
+    "ar-SO",
+    "it",
+    "en-SO"
+  ],
+  "m49": 706,
+  "marc": "so",
+  "tld": ".so",
+  "wmo": "SI"
+}

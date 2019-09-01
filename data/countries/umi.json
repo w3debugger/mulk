@@ -1,0 +1,30 @@
+{
+  "capital": null,
+  "continent": "OC",
+  "name": "U.S. Outlying Islands",
+  "officialName": null,
+  "distSign": "USA",
+  "dialCode": null,
+  "edgar": null,
+  "fifa": null,
+  "fips": "FQ,HQ,DQ,JQ,KQ,MQ,BQ,LQ,WQ",
+  "gaul": null,
+  "geoNameId": "5854968",
+  "olympicsId": null,
+  "iso2": "UM",
+  "iso3": "UMI",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Territories of US",
+  "languages": [
+    "en-UM"
+  ],
+  "m49": 581,
+  "marc": "ji,xf,wk,uc,up",
+  "tld": ".um",
+  "wmo": null
+}

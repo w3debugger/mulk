@@ -1,0 +1,31 @@
+{
+  "capital": "El-Aaiun",
+  "continent": "AF",
+  "name": "Western Sahara",
+  "officialName": "Western Sahara",
+  "distSign": null,
+  "dialCode": "212",
+  "edgar": "U5",
+  "fifa": "SAH",
+  "fips": "WI",
+  "gaul": "268",
+  "geoNameId": "2461445",
+  "olympicsId": null,
+  "iso2": "EH",
+  "iso3": "ESH",
+  "currencyCode": "MAD",
+  "currencyCountryName": "WESTERN SAHARA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Moroccan Dirham",
+  "currencyNumericCode": 504,
+  "itu": "AOE",
+  "isIndependent": "In contention",
+  "languages": [
+    "ar",
+    "mey"
+  ],
+  "m49": 732,
+  "marc": "ss",
+  "tld": ".eh",
+  "wmo": null
+}

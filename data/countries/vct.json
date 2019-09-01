@@ -1,0 +1,31 @@
+{
+  "capital": "Kingstown",
+  "continent": "NA",
+  "name": "St. Vincent & Grenadines",
+  "officialName": "Saint Vincent and the Grenadines",
+  "distSign": "WV",
+  "dialCode": "1-784",
+  "edgar": "V1",
+  "fifa": "VIN",
+  "fips": "VC",
+  "gaul": "211",
+  "geoNameId": "3577815",
+  "olympicsId": "VIN",
+  "iso2": "VC",
+  "iso3": "VCT",
+  "currencyCode": "XCD",
+  "currencyCountryName": "SAINT VINCENT AND THE GRENADINES",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "VCT",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-VC",
+    "fr"
+  ],
+  "m49": 670,
+  "marc": "xm",
+  "tld": ".vc",
+  "wmo": "VG"
+}

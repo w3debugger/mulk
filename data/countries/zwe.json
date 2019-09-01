@@ -1,0 +1,33 @@
+{
+  "capital": "Harare",
+  "continent": "AF",
+  "name": "Zimbabwe",
+  "officialName": "Zimbabwe",
+  "distSign": "ZW",
+  "dialCode": "263",
+  "edgar": "Y5",
+  "fifa": "ZIM",
+  "fips": "ZI",
+  "gaul": "271",
+  "geoNameId": "878675",
+  "olympicsId": "ZIM",
+  "iso2": "ZW",
+  "iso3": "ZWE",
+  "currencyCode": "ZWL",
+  "currencyCountryName": "ZIMBABWE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Zimbabwe Dollar",
+  "currencyNumericCode": 932,
+  "itu": "ZWE",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-ZW",
+    "sn",
+    "nr",
+    "nd"
+  ],
+  "m49": 716,
+  "marc": "rh",
+  "tld": ".zw",
+  "wmo": "ZW"
+}

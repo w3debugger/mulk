@@ -1,0 +1,32 @@
+{
+  "capital": "Baku",
+  "continent": "AS",
+  "name": "Azerbaijan",
+  "officialName": "Azerbaijan",
+  "distSign": "AZ",
+  "dialCode": "994",
+  "edgar": "1D",
+  "fifa": "AZE",
+  "fips": "AJ",
+  "gaul": "19",
+  "geoNameId": "587116",
+  "olympicsId": "AZE",
+  "iso2": "AZ",
+  "iso3": "AZE",
+  "currencyCode": "AZN",
+  "currencyCountryName": "AZERBAIJAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Azerbaijanian Manat",
+  "currencyNumericCode": 944,
+  "itu": "AZE",
+  "isIndependent": "Yes",
+  "languages": [
+    "az",
+    "ru",
+    "hy"
+  ],
+  "m49": 31,
+  "marc": "aj",
+  "tld": ".az",
+  "wmo": "AJ"
+}

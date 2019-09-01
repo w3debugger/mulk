@@ -1,0 +1,31 @@
+{
+  "capital": "Nairobi",
+  "continent": "AF",
+  "name": "Kenya",
+  "officialName": "Kenya",
+  "distSign": "EAK",
+  "dialCode": "254",
+  "edgar": "M3",
+  "fifa": "KEN",
+  "fips": "KE",
+  "gaul": "133",
+  "geoNameId": "192950",
+  "olympicsId": "KEN",
+  "iso2": "KE",
+  "iso3": "KEN",
+  "currencyCode": "KES",
+  "currencyCountryName": "KENYA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kenyan Shilling",
+  "currencyNumericCode": 404,
+  "itu": "KEN",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-KE",
+    "sw-KE"
+  ],
+  "m49": 404,
+  "marc": "ke",
+  "tld": ".ke",
+  "wmo": "KN"
+}

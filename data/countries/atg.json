@@ -1,0 +1,30 @@
+{
+  "capital": "St. John's",
+  "continent": "NA",
+  "name": "Antigua & Barbuda",
+  "officialName": "Antigua and Barbuda",
+  "distSign": null,
+  "dialCode": "1-268",
+  "edgar": "B9",
+  "fifa": "ATG",
+  "fips": "AC",
+  "gaul": "11",
+  "geoNameId": "3576396",
+  "olympicsId": "ANT",
+  "iso2": "AG",
+  "iso3": "ATG",
+  "currencyCode": "XCD",
+  "currencyCountryName": "ANTIGUA AND BARBUDA",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "ATG",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-AG"
+  ],
+  "m49": 28,
+  "marc": "aq",
+  "tld": ".ag",
+  "wmo": "AT"
+}

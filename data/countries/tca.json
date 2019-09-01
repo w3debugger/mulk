@@ -1,0 +1,30 @@
+{
+  "capital": "Cockburn Town",
+  "continent": "NA",
+  "name": "Turks & Caicos Islands",
+  "officialName": "Turks and Caicos Islands",
+  "distSign": null,
+  "dialCode": "1-649",
+  "edgar": "W7",
+  "fifa": "TCA",
+  "fips": "TK",
+  "gaul": "251",
+  "geoNameId": "3576916",
+  "olympicsId": "TKS",
+  "iso2": "TC",
+  "iso3": "TCA",
+  "currencyCode": "USD",
+  "currencyCountryName": "TURKS AND CAICOS ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "TCA",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-TC"
+  ],
+  "m49": 796,
+  "marc": "tc",
+  "tld": ".tc",
+  "wmo": "TI"
+}

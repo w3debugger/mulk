@@ -1,0 +1,31 @@
+{
+  "capital": "San Jose",
+  "continent": "NA",
+  "name": "Costa Rica",
+  "officialName": "Costa Rica",
+  "distSign": "CR",
+  "dialCode": "506",
+  "edgar": "G2",
+  "fifa": "CRC",
+  "fips": "CS",
+  "gaul": "61",
+  "geoNameId": "3624060",
+  "olympicsId": "CRC",
+  "iso2": "CR",
+  "iso3": "CRI",
+  "currencyCode": "CRC",
+  "currencyCountryName": "COSTA RICA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Costa Rican Colon",
+  "currencyNumericCode": 188,
+  "itu": "CTR",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-CR",
+    "en"
+  ],
+  "m49": 188,
+  "marc": "cr",
+  "tld": ".cr",
+  "wmo": "CS"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Tokyo",
+  "continent": "AS",
+  "name": "Japan",
+  "officialName": "Japan",
+  "distSign": "J",
+  "dialCode": "81",
+  "edgar": "M0",
+  "fifa": "JPN",
+  "fips": "JA",
+  "gaul": "126",
+  "geoNameId": "1861060",
+  "olympicsId": "JPN",
+  "iso2": "JP",
+  "iso3": "JPN",
+  "currencyCode": "JPY",
+  "currencyCountryName": "JAPAN",
+  "currencyMinorUnit": 0,
+  "currencyName": "Yen",
+  "currencyNumericCode": 392,
+  "itu": "J",
+  "isIndependent": "Yes",
+  "languages": [
+    "ja"
+  ],
+  "m49": 392,
+  "marc": "ja",
+  "tld": ".jp",
+  "wmo": "JP"
+}

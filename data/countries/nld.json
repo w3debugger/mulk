@@ -1,0 +1,31 @@
+{
+  "capital": "Amsterdam",
+  "continent": "EU",
+  "name": "Netherlands",
+  "officialName": "Netherlands",
+  "distSign": "NL",
+  "dialCode": "31",
+  "edgar": "P7",
+  "fifa": "NED",
+  "fips": "NL",
+  "gaul": "177",
+  "geoNameId": "2750405",
+  "olympicsId": "NED",
+  "iso2": "NL",
+  "iso3": "NLD",
+  "currencyCode": "EUR",
+  "currencyCountryName": "NETHERLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "HOL",
+  "isIndependent": "Yes",
+  "languages": [
+    "nl-NL",
+    "fy-NL"
+  ],
+  "m49": 528,
+  "marc": "ne",
+  "tld": ".nl",
+  "wmo": "NL"
+}

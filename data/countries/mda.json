@@ -1,0 +1,33 @@
+{
+  "capital": "Chisinau",
+  "continent": "EU",
+  "name": "Moldova",
+  "officialName": "Republic of Moldova",
+  "distSign": "MD",
+  "dialCode": "373",
+  "edgar": "1S",
+  "fifa": "MDA",
+  "fips": "MD",
+  "gaul": "165",
+  "geoNameId": "617790",
+  "olympicsId": "MDA",
+  "iso2": "MD",
+  "iso3": "MDA",
+  "currencyCode": "MDL",
+  "currencyCountryName": "MOLDOVA, REPUBLIC OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "Moldovan Leu",
+  "currencyNumericCode": 498,
+  "itu": "MDA",
+  "isIndependent": "Yes",
+  "languages": [
+    "ro",
+    "ru",
+    "gag",
+    "tr"
+  ],
+  "m49": 498,
+  "marc": "mv",
+  "tld": ".md",
+  "wmo": "RM"
+}

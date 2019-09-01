@@ -1,0 +1,30 @@
+{
+  "capital": "Porto-Novo",
+  "continent": "AF",
+  "name": "Benin",
+  "officialName": "Benin",
+  "distSign": "DY",
+  "dialCode": "229",
+  "edgar": "G6",
+  "fifa": "BEN",
+  "fips": "BN",
+  "gaul": "29",
+  "geoNameId": "2395170",
+  "olympicsId": "BEN",
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "currencyCode": "XOF",
+  "currencyCountryName": "BENIN",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "BEN",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-BJ"
+  ],
+  "m49": 204,
+  "marc": "dm",
+  "tld": ".bj",
+  "wmo": "BJ"
+}

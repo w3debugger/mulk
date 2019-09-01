@@ -1,0 +1,30 @@
+{
+  "capital": "Kingston",
+  "continent": "OC",
+  "name": "Norfolk Island",
+  "officialName": "Norfolk Island",
+  "distSign": "AUS",
+  "dialCode": "672",
+  "edgar": "Q7",
+  "fifa": "NFK",
+  "fips": "NF",
+  "gaul": "184",
+  "geoNameId": "2155115",
+  "olympicsId": "NFI",
+  "iso2": "NF",
+  "iso3": "NFK",
+  "currencyCode": "AUD",
+  "currencyCountryName": "NORFOLK ISLAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Australian Dollar",
+  "currencyNumericCode": 36,
+  "itu": "NFK",
+  "isIndependent": "Territory of AU",
+  "languages": [
+    "en-NF"
+  ],
+  "m49": 574,
+  "marc": "nx",
+  "tld": ".nf",
+  "wmo": "NF"
+}

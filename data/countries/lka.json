@@ -1,0 +1,32 @@
+{
+  "capital": "Colombo",
+  "continent": "AS",
+  "name": "Sri Lanka",
+  "officialName": "Sri Lanka",
+  "distSign": "CL",
+  "dialCode": "94",
+  "edgar": "F1",
+  "fifa": "SRI",
+  "fips": "CE",
+  "gaul": "231",
+  "geoNameId": "1227603",
+  "olympicsId": "SRI",
+  "iso2": "LK",
+  "iso3": "LKA",
+  "currencyCode": "LKR",
+  "currencyCountryName": "SRI LANKA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Sri Lanka Rupee",
+  "currencyNumericCode": 144,
+  "itu": "CLN",
+  "isIndependent": "Yes",
+  "languages": [
+    "si",
+    "ta",
+    "en"
+  ],
+  "m49": 144,
+  "marc": "ce",
+  "tld": ".lk",
+  "wmo": "SB"
+}

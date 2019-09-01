@@ -1,0 +1,32 @@
+{
+  "capital": "Bishkek",
+  "continent": "AS",
+  "name": "Kyrgyzstan",
+  "officialName": "Kyrgyzstan",
+  "distSign": "KS",
+  "dialCode": "996",
+  "edgar": "1N",
+  "fifa": "KGZ",
+  "fips": "KG",
+  "gaul": "138",
+  "geoNameId": "1527747",
+  "olympicsId": "KGZ",
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "currencyCode": "KGS",
+  "currencyCountryName": "KYRGYZSTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Som",
+  "currencyNumericCode": 417,
+  "itu": "KGZ",
+  "isIndependent": "Yes",
+  "languages": [
+    "ky",
+    "uz",
+    "ru"
+  ],
+  "m49": 417,
+  "marc": "kg",
+  "tld": ".kg",
+  "wmo": "KG"
+}

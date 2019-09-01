@@ -1,0 +1,31 @@
+{
+  "capital": "Lisbon",
+  "continent": "EU",
+  "name": "Portugal",
+  "officialName": "Portugal",
+  "distSign": "P",
+  "dialCode": "351",
+  "edgar": "S1",
+  "fifa": "POR",
+  "fips": "PO",
+  "gaul": "199",
+  "geoNameId": "2264397",
+  "olympicsId": "POR",
+  "iso2": "PT",
+  "iso3": "PRT",
+  "currencyCode": "EUR",
+  "currencyCountryName": "PORTUGAL",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "POR",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-PT",
+    "mwl"
+  ],
+  "m49": 620,
+  "marc": "po",
+  "tld": ".pt",
+  "wmo": "PO"
+}

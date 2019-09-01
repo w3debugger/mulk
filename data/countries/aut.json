@@ -1,0 +1,33 @@
+{
+  "capital": "Vienna",
+  "continent": "EU",
+  "name": "Austria",
+  "officialName": "Austria",
+  "distSign": "A",
+  "dialCode": "43",
+  "edgar": "C4",
+  "fifa": "AUT",
+  "fips": "AU",
+  "gaul": "18",
+  "geoNameId": "2782113",
+  "olympicsId": "AUT",
+  "iso2": "AT",
+  "iso3": "AUT",
+  "currencyCode": "EUR",
+  "currencyCountryName": "AUSTRIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "AUT",
+  "isIndependent": "Yes",
+  "languages": [
+    "de-AT",
+    "hr",
+    "hu",
+    "sl"
+  ],
+  "m49": 40,
+  "marc": "au",
+  "tld": ".at",
+  "wmo": "OS"
+}

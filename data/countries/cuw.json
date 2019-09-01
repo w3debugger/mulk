@@ -1,0 +1,31 @@
+{
+  "capital": "Willemstad",
+  "continent": "NA",
+  "name": "Curaçao",
+  "officialName": "Curaçao",
+  "distSign": null,
+  "dialCode": "599",
+  "edgar": null,
+  "fifa": null,
+  "fips": "UC",
+  "gaul": null,
+  "geoNameId": "7626836",
+  "olympicsId": null,
+  "iso2": "CW",
+  "iso3": "CUW",
+  "currencyCode": "ANG",
+  "currencyCountryName": "CURAÇAO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Netherlands Antillean Guilder",
+  "currencyNumericCode": 532,
+  "itu": null,
+  "isIndependent": "Part of NL",
+  "languages": [
+    "nl",
+    "pap"
+  ],
+  "m49": 531,
+  "marc": "co",
+  "tld": ".cw",
+  "wmo": null
+}

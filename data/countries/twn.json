@@ -1,0 +1,33 @@
+{
+  "capital": "Taipei",
+  "continent": "AS",
+  "name": "Taiwan",
+  "officialName": null,
+  "distSign": "RC",
+  "dialCode": "886",
+  "edgar": null,
+  "fifa": "TPE",
+  "fips": "TW",
+  "gaul": "925",
+  "geoNameId": "1668284",
+  "olympicsId": "TPE",
+  "iso2": "TW",
+  "iso3": "TWN",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Yes",
+  "languages": [
+    "zh-TW",
+    "zh",
+    "nan",
+    "hak"
+  ],
+  "m49": 158,
+  "marc": "ch",
+  "tld": ".tw",
+  "wmo": null
+}

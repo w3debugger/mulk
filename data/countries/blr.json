@@ -1,0 +1,31 @@
+{
+  "capital": "Minsk",
+  "continent": "EU",
+  "name": "Belarus",
+  "officialName": "Belarus",
+  "distSign": "BY",
+  "dialCode": "375",
+  "edgar": "1F",
+  "fifa": "BLR",
+  "fips": "BO",
+  "gaul": "26",
+  "geoNameId": "630336",
+  "olympicsId": "BLR",
+  "iso2": "BY",
+  "iso3": "BLR",
+  "currencyCode": "BYR",
+  "currencyCountryName": "BELARUS",
+  "currencyMinorUnit": 0,
+  "currencyName": "Belarussian Ruble",
+  "currencyNumericCode": 974,
+  "itu": "BLR",
+  "isIndependent": "Yes",
+  "languages": [
+    "be",
+    "ru"
+  ],
+  "m49": 112,
+  "marc": "bw",
+  "tld": ".by",
+  "wmo": "BY"
+}

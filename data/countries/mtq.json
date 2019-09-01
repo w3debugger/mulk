@@ -1,0 +1,30 @@
+{
+  "capital": "Fort-de-France",
+  "continent": "NA",
+  "name": "Martinique",
+  "officialName": "Martinique",
+  "distSign": "F",
+  "dialCode": "596",
+  "edgar": "O2",
+  "fifa": "MTQ",
+  "fips": "MB",
+  "gaul": "158",
+  "geoNameId": "3570311",
+  "olympicsId": "MRT",
+  "iso2": "MQ",
+  "iso3": "MTQ",
+  "currencyCode": "EUR",
+  "currencyCountryName": "MARTINIQUE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "MRT",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-MQ"
+  ],
+  "m49": 474,
+  "marc": "mq",
+  "tld": ".mq",
+  "wmo": "MR"
+}

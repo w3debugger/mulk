@@ -1,0 +1,31 @@
+{
+  "capital": "Honiara",
+  "continent": "OC",
+  "name": "Solomon Islands",
+  "officialName": "Solomon Islands",
+  "distSign": "SB",
+  "dialCode": "677",
+  "edgar": "D7",
+  "fifa": "SOL",
+  "fips": "BP",
+  "gaul": "225",
+  "geoNameId": "2103350",
+  "olympicsId": "SOL",
+  "iso2": "SB",
+  "iso3": "SLB",
+  "currencyCode": "SBD",
+  "currencyCountryName": "SOLOMON ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Solomon Islands Dollar",
+  "currencyNumericCode": 90,
+  "itu": "SLM",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-SB",
+    "tpi"
+  ],
+  "m49": 90,
+  "marc": "bp",
+  "tld": ".sb",
+  "wmo": "SO"
+}

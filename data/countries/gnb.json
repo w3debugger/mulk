@@ -1,0 +1,31 @@
+{
+  "capital": "Bissau",
+  "continent": "AF",
+  "name": "Guinea-Bissau",
+  "officialName": "Guinea-Bissau",
+  "distSign": "GW",
+  "dialCode": "245",
+  "edgar": "S0",
+  "fifa": "GNB",
+  "fips": "PU",
+  "gaul": "105",
+  "geoNameId": "2372248",
+  "olympicsId": "GBS",
+  "iso2": "GW",
+  "iso3": "GNB",
+  "currencyCode": "XOF",
+  "currencyCountryName": "GUINEA-BISSAU",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "GNB",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-GW",
+    "pov"
+  ],
+  "m49": 624,
+  "marc": "pg",
+  "tld": ".gw",
+  "wmo": "GW"
+}

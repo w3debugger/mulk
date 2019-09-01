@@ -1,0 +1,32 @@
+{
+  "capital": "Brussels",
+  "continent": "EU",
+  "name": "Belgium",
+  "officialName": "Belgium",
+  "distSign": "B",
+  "dialCode": "32",
+  "edgar": "C9",
+  "fifa": "BEL",
+  "fips": "BE",
+  "gaul": "27",
+  "geoNameId": "2802361",
+  "olympicsId": "BEL",
+  "iso2": "BE",
+  "iso3": "BEL",
+  "currencyCode": "EUR",
+  "currencyCountryName": "BELGIUM",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "BEL",
+  "isIndependent": "Yes",
+  "languages": [
+    "nl-BE",
+    "fr-BE",
+    "de-BE"
+  ],
+  "m49": 56,
+  "marc": "be",
+  "tld": ".be",
+  "wmo": "BX"
+}

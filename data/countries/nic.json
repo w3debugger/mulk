@@ -1,0 +1,31 @@
+{
+  "capital": "Managua",
+  "continent": "NA",
+  "name": "Nicaragua",
+  "officialName": "Nicaragua",
+  "distSign": "NIC",
+  "dialCode": "505",
+  "edgar": "Q3",
+  "fifa": "NCA",
+  "fips": "NU",
+  "gaul": "180",
+  "geoNameId": "3617476",
+  "olympicsId": "NCA",
+  "iso2": "NI",
+  "iso3": "NIC",
+  "currencyCode": "NIO",
+  "currencyCountryName": "NICARAGUA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Cordoba Oro",
+  "currencyNumericCode": 558,
+  "itu": "NCG",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-NI",
+    "en"
+  ],
+  "m49": 558,
+  "marc": "nq",
+  "tld": ".ni",
+  "wmo": "NK"
+}

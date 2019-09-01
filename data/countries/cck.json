@@ -1,0 +1,31 @@
+{
+  "capital": "West Island",
+  "continent": "AS",
+  "name": "Cocos (Keeling) Islands",
+  "officialName": null,
+  "distSign": "AUS",
+  "dialCode": "61",
+  "edgar": null,
+  "fifa": "CCK",
+  "fips": "CK",
+  "gaul": "56",
+  "geoNameId": "1547376",
+  "olympicsId": null,
+  "iso2": "CC",
+  "iso3": "CCK",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "ICO",
+  "isIndependent": "Territory of AU",
+  "languages": [
+    "ms-CC",
+    "en"
+  ],
+  "m49": 166,
+  "marc": "xb",
+  "tld": ".cc",
+  "wmo": "KK"
+}

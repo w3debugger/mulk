@@ -1,0 +1,31 @@
+{
+  "capital": "Suva",
+  "continent": "OC",
+  "name": "Fiji",
+  "officialName": "Fiji",
+  "distSign": "FJI",
+  "dialCode": "679",
+  "edgar": "H8",
+  "fifa": "FIJ",
+  "fips": "FJ",
+  "gaul": "83",
+  "geoNameId": "2205218",
+  "olympicsId": "FIJ",
+  "iso2": "FJ",
+  "iso3": "FJI",
+  "currencyCode": "FJD",
+  "currencyCountryName": "FIJI",
+  "currencyMinorUnit": 2,
+  "currencyName": "Fiji Dollar",
+  "currencyNumericCode": 242,
+  "itu": "FJI",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-FJ",
+    "fj"
+  ],
+  "m49": 242,
+  "marc": "fj",
+  "tld": ".fj",
+  "wmo": "FJ"
+}

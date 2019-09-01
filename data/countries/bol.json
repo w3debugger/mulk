@@ -1,0 +1,32 @@
+{
+  "capital": "Sucre",
+  "continent": "SA",
+  "name": "Bolivia",
+  "officialName": "Bolivia (Plurinational State of)",
+  "distSign": "BOL",
+  "dialCode": "591",
+  "edgar": null,
+  "fifa": "BOL",
+  "fips": "BL",
+  "gaul": "33",
+  "geoNameId": "3923057",
+  "olympicsId": "BOL",
+  "iso2": "BO",
+  "iso3": "BOL",
+  "currencyCode": "BOB",
+  "currencyCountryName": "BOLIVIA, PLURINATIONAL STATE OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "Boliviano",
+  "currencyNumericCode": 68,
+  "itu": "BOL",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-BO",
+    "qu",
+    "ay"
+  ],
+  "m49": 68,
+  "marc": "bo",
+  "tld": ".bo",
+  "wmo": "BO"
+}

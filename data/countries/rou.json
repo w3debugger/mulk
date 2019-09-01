@@ -1,0 +1,32 @@
+{
+  "capital": "Bucharest",
+  "continent": "EU",
+  "name": "Romania",
+  "officialName": "Romania",
+  "distSign": "RO",
+  "dialCode": "40",
+  "edgar": "S5",
+  "fifa": "ROU",
+  "fips": "RO",
+  "gaul": "203",
+  "geoNameId": "798549",
+  "olympicsId": "ROU",
+  "iso2": "RO",
+  "iso3": "ROU",
+  "currencyCode": "RON",
+  "currencyCountryName": "ROMANIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Romanian Leu",
+  "currencyNumericCode": 946,
+  "itu": "ROU",
+  "isIndependent": "Yes",
+  "languages": [
+    "ro",
+    "hu",
+    "rom"
+  ],
+  "m49": 642,
+  "marc": "rm",
+  "tld": ".ro",
+  "wmo": "RO"
+}

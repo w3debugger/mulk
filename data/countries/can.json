@@ -1,0 +1,32 @@
+{
+  "capital": "Ottawa",
+  "continent": "NA",
+  "name": "Canada",
+  "officialName": "Canada",
+  "distSign": "CDN",
+  "dialCode": "1",
+  "edgar": null,
+  "fifa": "CAN",
+  "fips": "CA",
+  "gaul": "46",
+  "geoNameId": "6251999",
+  "olympicsId": "CAN",
+  "iso2": "CA",
+  "iso3": "CAN",
+  "currencyCode": "CAD",
+  "currencyCountryName": "CANADA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Canadian Dollar",
+  "currencyNumericCode": 124,
+  "itu": "CAN",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-CA",
+    "fr-CA",
+    "iu"
+  ],
+  "m49": 124,
+  "marc": "xxc",
+  "tld": ".ca",
+  "wmo": "CN"
+}

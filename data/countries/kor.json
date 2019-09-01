@@ -1,0 +1,31 @@
+{
+  "capital": "Seoul",
+  "continent": "AS",
+  "name": "South Korea",
+  "officialName": "Republic of Korea",
+  "distSign": "ROK",
+  "dialCode": "82",
+  "edgar": "M5",
+  "fifa": "KOR",
+  "fips": "KS",
+  "gaul": "202",
+  "geoNameId": "1835841",
+  "olympicsId": "KOR",
+  "iso2": "KR",
+  "iso3": "KOR",
+  "currencyCode": "KRW",
+  "currencyCountryName": "KOREA, REPUBLIC OF",
+  "currencyMinorUnit": 0,
+  "currencyName": "Won",
+  "currencyNumericCode": 410,
+  "itu": "KOR",
+  "isIndependent": "Yes",
+  "languages": [
+    "ko-KR",
+    "en"
+  ],
+  "m49": 410,
+  "marc": "ko",
+  "tld": ".kr",
+  "wmo": "KO"
+}

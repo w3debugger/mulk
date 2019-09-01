@@ -1,0 +1,32 @@
+{
+  "capital": "Vatican City",
+  "continent": "EU",
+  "name": "Vatican City",
+  "officialName": "Holy See",
+  "distSign": "V",
+  "dialCode": "39-06",
+  "edgar": "X4",
+  "fifa": "VAT",
+  "fips": "VT",
+  "gaul": "110",
+  "geoNameId": "3164670",
+  "olympicsId": null,
+  "iso2": "VA",
+  "iso3": "VAT",
+  "currencyCode": "EUR",
+  "currencyCountryName": "HOLY SEE (VATICAN CITY STATE)",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "CVA",
+  "isIndependent": "Yes",
+  "languages": [
+    "la",
+    "it",
+    "fr"
+  ],
+  "m49": 336,
+  "marc": "vc",
+  "tld": ".va",
+  "wmo": null
+}

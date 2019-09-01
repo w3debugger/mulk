@@ -1,0 +1,31 @@
+{
+  "capital": "Nuku'alofa",
+  "continent": "OC",
+  "name": "Tonga",
+  "officialName": "Tonga",
+  "distSign": "TO",
+  "dialCode": "676",
+  "edgar": "W4",
+  "fifa": "TGA",
+  "fips": "TN",
+  "gaul": "245",
+  "geoNameId": "4032283",
+  "olympicsId": "TGA",
+  "iso2": "TO",
+  "iso3": "TON",
+  "currencyCode": "TOP",
+  "currencyCountryName": "TONGA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Paâ€™anga",
+  "currencyNumericCode": 776,
+  "itu": "TON",
+  "isIndependent": "Yes",
+  "languages": [
+    "to",
+    "en-TO"
+  ],
+  "m49": 776,
+  "marc": "to",
+  "tld": ".to",
+  "wmo": "TO"
+}

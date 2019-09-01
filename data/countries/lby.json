@@ -1,0 +1,32 @@
+{
+  "capital": "Tripoli",
+  "continent": "AF",
+  "name": "Libya",
+  "officialName": "Libya",
+  "distSign": "LAR",
+  "dialCode": "218",
+  "edgar": null,
+  "fifa": "LBY",
+  "fips": "LY",
+  "gaul": "145",
+  "geoNameId": "2215636",
+  "olympicsId": "LBA",
+  "iso2": "LY",
+  "iso3": "LBY",
+  "currencyCode": "LYD",
+  "currencyCountryName": "LIBYA",
+  "currencyMinorUnit": 3,
+  "currencyName": "Libyan Dinar",
+  "currencyNumericCode": 434,
+  "itu": "LBY",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-LY",
+    "it",
+    "en"
+  ],
+  "m49": 434,
+  "marc": "ly",
+  "tld": ".ly",
+  "wmo": "LY"
+}

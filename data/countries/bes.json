@@ -1,0 +1,32 @@
+{
+  "capital": null,
+  "continent": "NA",
+  "name": "Caribbean Netherlands",
+  "officialName": "Bonaire, Sint Eustatius and Saba",
+  "distSign": "NA",
+  "dialCode": "599",
+  "edgar": null,
+  "fifa": "ANT",
+  "fips": "NL",
+  "gaul": "176",
+  "geoNameId": "7626844",
+  "olympicsId": "AHO",
+  "iso2": "BQ",
+  "iso3": "BES",
+  "currencyCode": "USD",
+  "currencyCountryName": "BONAIRE, SINT EUSTATIUS AND SABA",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "ATN",
+  "isIndependent": "Part of NL",
+  "languages": [
+    "nl",
+    "pap",
+    "en"
+  ],
+  "m49": 535,
+  "marc": "ca",
+  "tld": ".bq",
+  "wmo": "NU"
+}

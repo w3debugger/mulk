@@ -1,0 +1,31 @@
+{
+  "capital": "Saint Helier",
+  "continent": "EU",
+  "name": "Jersey",
+  "officialName": "Jersey",
+  "distSign": "GBJ",
+  "dialCode": "44",
+  "edgar": "Y9",
+  "fifa": "GBJ",
+  "fips": "JE",
+  "gaul": "128",
+  "geoNameId": "3042142",
+  "olympicsId": null,
+  "iso2": "JE",
+  "iso3": "JEY",
+  "currencyCode": "GBP",
+  "currencyCountryName": "JERSEY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pound Sterling",
+  "currencyNumericCode": 826,
+  "itu": null,
+  "isIndependent": "Crown dependency of GB",
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "m49": 832,
+  "marc": "uik",
+  "tld": ".je",
+  "wmo": null
+}

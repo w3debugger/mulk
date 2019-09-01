@@ -1,0 +1,30 @@
+{
+  "capital": "Basse-Terre",
+  "continent": "NA",
+  "name": "Guadeloupe",
+  "officialName": "Guadeloupe",
+  "distSign": "F",
+  "dialCode": "590",
+  "edgar": "J6",
+  "fifa": "GLP",
+  "fips": "GP",
+  "gaul": "100",
+  "geoNameId": "3579143",
+  "olympicsId": "GUD",
+  "iso2": "GP",
+  "iso3": "GLP",
+  "currencyCode": "EUR",
+  "currencyCountryName": "GUADELOUPE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "GDL",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-GP"
+  ],
+  "m49": 312,
+  "marc": "gp",
+  "tld": ".gp",
+  "wmo": "MF"
+}

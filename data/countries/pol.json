@@ -1,0 +1,30 @@
+{
+  "capital": "Warsaw",
+  "continent": "EU",
+  "name": "Poland",
+  "officialName": "Poland",
+  "distSign": "PL",
+  "dialCode": "48",
+  "edgar": "R9",
+  "fifa": "POL",
+  "fips": "PL",
+  "gaul": "198",
+  "geoNameId": "798544",
+  "olympicsId": "POL",
+  "iso2": "PL",
+  "iso3": "POL",
+  "currencyCode": "PLN",
+  "currencyCountryName": "POLAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Zloty",
+  "currencyNumericCode": 985,
+  "itu": "POL",
+  "isIndependent": "Yes",
+  "languages": [
+    "pl"
+  ],
+  "m49": 616,
+  "marc": "pl",
+  "tld": ".pl",
+  "wmo": "PL"
+}

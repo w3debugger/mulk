@@ -1,0 +1,30 @@
+{
+  "capital": "Marigot",
+  "continent": "NA",
+  "name": "St. Martin",
+  "officialName": "Saint Martin (French part)",
+  "distSign": null,
+  "dialCode": "590",
+  "edgar": null,
+  "fifa": null,
+  "fips": "RN",
+  "gaul": null,
+  "geoNameId": "3578421",
+  "olympicsId": null,
+  "iso2": "MF",
+  "iso3": "MAF",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SAINT MARTIN (FRENCH PART)",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": null,
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr"
+  ],
+  "m49": 663,
+  "marc": "st",
+  "tld": ".gp",
+  "wmo": null
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Grytviken",
+  "continent": "AN",
+  "name": "South Georgia & South Sandwich Islands",
+  "officialName": null,
+  "distSign": null,
+  "dialCode": "500",
+  "edgar": null,
+  "fifa": null,
+  "fips": "SX",
+  "gaul": "228",
+  "geoNameId": "3474415",
+  "olympicsId": null,
+  "iso2": "GS",
+  "iso3": "SGS",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en"
+  ],
+  "m49": 239,
+  "marc": "xs",
+  "tld": ".gs",
+  "wmo": null
+}

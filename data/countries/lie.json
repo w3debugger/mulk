@@ -1,0 +1,30 @@
+{
+  "capital": "Vaduz",
+  "continent": "EU",
+  "name": "Liechtenstein",
+  "officialName": "Liechtenstein",
+  "distSign": "FL",
+  "dialCode": "423",
+  "edgar": "N2",
+  "fifa": "LIE",
+  "fips": "LS",
+  "gaul": "146",
+  "geoNameId": "3042058",
+  "olympicsId": "LIE",
+  "iso2": "LI",
+  "iso3": "LIE",
+  "currencyCode": "CHF",
+  "currencyCountryName": "LIECHTENSTEIN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Swiss Franc",
+  "currencyNumericCode": 756,
+  "itu": "LIE",
+  "isIndependent": "Yes",
+  "languages": [
+    "de-LI"
+  ],
+  "m49": 438,
+  "marc": "lh",
+  "tld": ".li",
+  "wmo": null
+}

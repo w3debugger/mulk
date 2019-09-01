@@ -1,0 +1,32 @@
+{
+  "capital": "Flying Fish Cove",
+  "continent": "AS",
+  "name": "Christmas Island",
+  "officialName": null,
+  "distSign": "AUS",
+  "dialCode": "61",
+  "edgar": null,
+  "fifa": "CXR",
+  "fips": "KT",
+  "gaul": "54",
+  "geoNameId": "2078138",
+  "olympicsId": null,
+  "iso2": "CX",
+  "iso3": "CXR",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "CHR",
+  "isIndependent": "Territory of AU",
+  "languages": [
+    "en",
+    "zh",
+    "ms-CC"
+  ],
+  "m49": 162,
+  "marc": "xa",
+  "tld": ".cx",
+  "wmo": "KI"
+}

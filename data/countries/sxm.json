@@ -1,0 +1,31 @@
+{
+  "capital": "Philipsburg",
+  "continent": "NA",
+  "name": "Sint Maarten",
+  "officialName": "Sint Maarten (Dutch part)",
+  "distSign": null,
+  "dialCode": "1-721",
+  "edgar": null,
+  "fifa": null,
+  "fips": "NN",
+  "gaul": null,
+  "geoNameId": "7609695",
+  "olympicsId": null,
+  "iso2": "SX",
+  "iso3": "SXM",
+  "currencyCode": "ANG",
+  "currencyCountryName": "SINT MAARTEN (DUTCH PART)",
+  "currencyMinorUnit": 2,
+  "currencyName": "Netherlands Antillean Guilder",
+  "currencyNumericCode": 532,
+  "itu": null,
+  "isIndependent": "Part of NL",
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "m49": 534,
+  "marc": "sn",
+  "tld": ".sx",
+  "wmo": null
+}

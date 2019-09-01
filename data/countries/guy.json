@@ -1,0 +1,30 @@
+{
+  "capital": "Georgetown",
+  "continent": "SA",
+  "name": "Guyana",
+  "officialName": "Guyana",
+  "distSign": "GUY",
+  "dialCode": "592",
+  "edgar": "K0",
+  "fifa": "GUY",
+  "fips": "GY",
+  "gaul": "107",
+  "geoNameId": "3378535",
+  "olympicsId": "GUY",
+  "iso2": "GY",
+  "iso3": "GUY",
+  "currencyCode": "GYD",
+  "currencyCountryName": "GUYANA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Guyana Dollar",
+  "currencyNumericCode": 328,
+  "itu": "GUY",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-GY"
+  ],
+  "m49": 328,
+  "marc": "gy",
+  "tld": ".gy",
+  "wmo": "GY"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Nassau",
+  "continent": "NA",
+  "name": "Bahamas",
+  "officialName": "Bahamas",
+  "distSign": "BS",
+  "dialCode": "1-242",
+  "edgar": "C5",
+  "fifa": "BAH",
+  "fips": "BF",
+  "gaul": "20",
+  "geoNameId": "3572887",
+  "olympicsId": "BAH",
+  "iso2": "BS",
+  "iso3": "BHS",
+  "currencyCode": "BSD",
+  "currencyCountryName": "BAHAMAS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Bahamian Dollar",
+  "currencyNumericCode": 44,
+  "itu": "BAH",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-BS"
+  ],
+  "m49": 44,
+  "marc": "bf",
+  "tld": ".bs",
+  "wmo": "BA"
+}

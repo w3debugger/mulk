@@ -1,0 +1,32 @@
+{
+  "capital": "Lima",
+  "continent": "SA",
+  "name": "Peru",
+  "officialName": "Peru",
+  "distSign": "PE",
+  "dialCode": "51",
+  "edgar": "R5",
+  "fifa": "PER",
+  "fips": "PE",
+  "gaul": "195",
+  "geoNameId": "3932488",
+  "olympicsId": "PER",
+  "iso2": "PE",
+  "iso3": "PER",
+  "currencyCode": "PEN",
+  "currencyCountryName": "PERU",
+  "currencyMinorUnit": 2,
+  "currencyName": "Nuevo Sol",
+  "currencyNumericCode": 604,
+  "itu": "PRU",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-PE",
+    "qu",
+    "ay"
+  ],
+  "m49": 604,
+  "marc": "pe",
+  "tld": ".pe",
+  "wmo": "PR"
+}

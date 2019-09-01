@@ -1,0 +1,31 @@
+{
+  "capital": "Alofi",
+  "continent": "OC",
+  "name": "Niue",
+  "officialName": "Niue",
+  "distSign": "NZ",
+  "dialCode": "683",
+  "edgar": "Q6",
+  "fifa": "NIU",
+  "fips": "NE",
+  "gaul": "183",
+  "geoNameId": "4036232",
+  "olympicsId": "NIU",
+  "iso2": "NU",
+  "iso3": "NIU",
+  "currencyCode": "NZD",
+  "currencyCountryName": "NIUE",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Zealand Dollar",
+  "currencyNumericCode": 554,
+  "itu": "NIU",
+  "isIndependent": "Associated with NZ",
+  "languages": [
+    "niu",
+    "en-NU"
+  ],
+  "m49": 570,
+  "marc": "xh",
+  "tld": ".nu",
+  "wmo": null
+}

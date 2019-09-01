@@ -1,0 +1,32 @@
+{
+  "capital": "Mata Utu",
+  "continent": "OC",
+  "name": "Wallis & Futuna",
+  "officialName": "Wallis and Futuna Islands",
+  "distSign": "F",
+  "dialCode": "681",
+  "edgar": "X8",
+  "fifa": "WLF",
+  "fips": "WF",
+  "gaul": "266",
+  "geoNameId": "4034749",
+  "olympicsId": "WAF",
+  "iso2": "WF",
+  "iso3": "WLF",
+  "currencyCode": "XPF",
+  "currencyCountryName": "WALLIS AND FUTUNA",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFP Franc",
+  "currencyNumericCode": 953,
+  "itu": "WAL",
+  "isIndependent": "Territory of FR",
+  "languages": [
+    "wls",
+    "fud",
+    "fr-WF"
+  ],
+  "m49": 876,
+  "marc": "wf",
+  "tld": ".wf",
+  "wmo": "FW"
+}

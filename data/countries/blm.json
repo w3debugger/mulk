@@ -1,0 +1,30 @@
+{
+  "capital": "Gustavia",
+  "continent": "NA",
+  "name": "Saint Barthélemy",
+  "officialName": "Saint Barthélemy",
+  "distSign": null,
+  "dialCode": "590",
+  "edgar": null,
+  "fifa": null,
+  "fips": "TB",
+  "gaul": null,
+  "geoNameId": "3578476",
+  "olympicsId": null,
+  "iso2": "BL",
+  "iso3": "BLM",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SAINT BARTHÃ‰LEMY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": null,
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr"
+  ],
+  "m49": 652,
+  "marc": "sc",
+  "tld": ".gp",
+  "wmo": null
+}

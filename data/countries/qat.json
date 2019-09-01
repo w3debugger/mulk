@@ -1,0 +1,31 @@
+{
+  "capital": "Doha",
+  "continent": "AS",
+  "name": "Qatar",
+  "officialName": "Qatar",
+  "distSign": "Q",
+  "dialCode": "974",
+  "edgar": "S3",
+  "fifa": "QAT",
+  "fips": "QA",
+  "gaul": "201",
+  "geoNameId": "289688",
+  "olympicsId": "QAT",
+  "iso2": "QA",
+  "iso3": "QAT",
+  "currencyCode": "QAR",
+  "currencyCountryName": "QATAR",
+  "currencyMinorUnit": 2,
+  "currencyName": "Qatari Rial",
+  "currencyNumericCode": 634,
+  "itu": "QAT",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-QA",
+    "es"
+  ],
+  "m49": 634,
+  "marc": "qa",
+  "tld": ".qa",
+  "wmo": "QT"
+}

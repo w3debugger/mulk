@@ -1,0 +1,32 @@
+{
+  "capital": "Phnom Penh",
+  "continent": "AS",
+  "name": "Cambodia",
+  "officialName": "Cambodia",
+  "distSign": "K",
+  "dialCode": "855",
+  "edgar": "E3",
+  "fifa": "CAM",
+  "fips": "CB",
+  "gaul": "44",
+  "geoNameId": "1831722",
+  "olympicsId": "CAM",
+  "iso2": "KH",
+  "iso3": "KHM",
+  "currencyCode": "KHR",
+  "currencyCountryName": "CAMBODIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Riel",
+  "currencyNumericCode": 116,
+  "itu": "CBG",
+  "isIndependent": "Yes",
+  "languages": [
+    "km",
+    "fr",
+    "en"
+  ],
+  "m49": 116,
+  "marc": "cb",
+  "tld": ".kh",
+  "wmo": "KP"
+}

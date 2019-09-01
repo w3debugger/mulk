@@ -1,0 +1,30 @@
+{
+  "capital": "Libreville",
+  "continent": "AF",
+  "name": "Gabon",
+  "officialName": "Gabon",
+  "distSign": "G",
+  "dialCode": "241",
+  "edgar": "I5",
+  "fifa": "GAB",
+  "fips": "GB",
+  "gaul": "89",
+  "geoNameId": "2400553",
+  "olympicsId": "GAB",
+  "iso2": "GA",
+  "iso3": "GAB",
+  "currencyCode": "XAF",
+  "currencyCountryName": "GABON",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "GAB",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-GA"
+  ],
+  "m49": 266,
+  "marc": "go",
+  "tld": ".ga",
+  "wmo": "GO"
+}

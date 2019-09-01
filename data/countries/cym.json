@@ -1,0 +1,30 @@
+{
+  "capital": "George Town",
+  "continent": "NA",
+  "name": "Cayman Islands",
+  "officialName": "Cayman Islands",
+  "distSign": "KY",
+  "dialCode": "1-345",
+  "edgar": "E9",
+  "fifa": "CAY",
+  "fips": "CJ",
+  "gaul": "48",
+  "geoNameId": "3580718",
+  "olympicsId": "CAY",
+  "iso2": "KY",
+  "iso3": "CYM",
+  "currencyCode": "KYD",
+  "currencyCountryName": "CAYMAN ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Cayman Islands Dollar",
+  "currencyNumericCode": 136,
+  "itu": "CYM",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-KY"
+  ],
+  "m49": 136,
+  "marc": "cj",
+  "tld": ".ky",
+  "wmo": "GC"
+}

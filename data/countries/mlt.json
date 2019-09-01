@@ -1,0 +1,31 @@
+{
+  "capital": "Valletta",
+  "continent": "EU",
+  "name": "Malta",
+  "officialName": "Malta",
+  "distSign": "M",
+  "dialCode": "356",
+  "edgar": "O1",
+  "fifa": "MLT",
+  "fips": "MT",
+  "gaul": "156",
+  "geoNameId": "2562770",
+  "olympicsId": "MLT",
+  "iso2": "MT",
+  "iso3": "MLT",
+  "currencyCode": "EUR",
+  "currencyCountryName": "MALTA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "MLT",
+  "isIndependent": "Yes",
+  "languages": [
+    "mt",
+    "en-MT"
+  ],
+  "m49": 470,
+  "marc": "mm",
+  "tld": ".mt",
+  "wmo": "ML"
+}

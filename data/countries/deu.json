@@ -1,0 +1,30 @@
+{
+  "capital": "Berlin",
+  "continent": "EU",
+  "name": "Germany",
+  "officialName": "Germany",
+  "distSign": "D",
+  "dialCode": "49",
+  "edgar": "2M",
+  "fifa": "GER",
+  "fips": "GM",
+  "gaul": "93",
+  "geoNameId": "2921044",
+  "olympicsId": "GER",
+  "iso2": "DE",
+  "iso3": "DEU",
+  "currencyCode": "EUR",
+  "currencyCountryName": "GERMANY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "D",
+  "isIndependent": "Yes",
+  "languages": [
+    "de"
+  ],
+  "m49": 276,
+  "marc": "gw",
+  "tld": ".de",
+  "wmo": "DL"
+}

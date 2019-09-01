@@ -1,0 +1,33 @@
+{
+  "capital": "Funafuti",
+  "continent": "OC",
+  "name": "Tuvalu",
+  "officialName": "Tuvalu",
+  "distSign": "TV",
+  "dialCode": "688",
+  "edgar": "2G",
+  "fifa": "TUV",
+  "fips": "TV",
+  "gaul": "252",
+  "geoNameId": "2110297",
+  "olympicsId": "TUV",
+  "iso2": "TV",
+  "iso3": "TUV",
+  "currencyCode": "AUD",
+  "currencyCountryName": "TUVALU",
+  "currencyMinorUnit": 2,
+  "currencyName": "Australian Dollar",
+  "currencyNumericCode": 36,
+  "itu": "TUV",
+  "isIndependent": "Yes",
+  "languages": [
+    "tvl",
+    "en",
+    "sm",
+    "gil"
+  ],
+  "m49": 798,
+  "marc": "tv",
+  "tld": ".tv",
+  "wmo": "TV"
+}

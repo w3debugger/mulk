@@ -1,0 +1,31 @@
+{
+  "capital": "Bangkok",
+  "continent": "AS",
+  "name": "Thailand",
+  "officialName": "Thailand",
+  "distSign": "T",
+  "dialCode": "66",
+  "edgar": "W1",
+  "fifa": "THA",
+  "fips": "TH",
+  "gaul": "240",
+  "geoNameId": "1605651",
+  "olympicsId": "THA",
+  "iso2": "TH",
+  "iso3": "THA",
+  "currencyCode": "THB",
+  "currencyCountryName": "THAILAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Baht",
+  "currencyNumericCode": 764,
+  "itu": "THA",
+  "isIndependent": "Yes",
+  "languages": [
+    "th",
+    "en"
+  ],
+  "m49": 764,
+  "marc": "th",
+  "tld": ".th",
+  "wmo": "TH"
+}

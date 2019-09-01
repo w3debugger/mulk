@@ -1,0 +1,31 @@
+{
+  "capital": "Mbabane",
+  "continent": "AF",
+  "name": "Swaziland",
+  "officialName": "Swaziland",
+  "distSign": "SD",
+  "dialCode": "268",
+  "edgar": "V6",
+  "fifa": "SWZ",
+  "fips": "WZ",
+  "gaul": "235",
+  "geoNameId": "934841",
+  "olympicsId": "SWZ",
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "currencyCode": "SZL",
+  "currencyCountryName": "SWAZILAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Lilangeni",
+  "currencyNumericCode": 748,
+  "itu": "SWZ",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-SZ",
+    "ss-SZ"
+  ],
+  "m49": 748,
+  "marc": "sq",
+  "tld": ".sz",
+  "wmo": "SV"
+}

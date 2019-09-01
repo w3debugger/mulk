@@ -1,0 +1,31 @@
+{
+  "capital": "Hamilton",
+  "continent": "NA",
+  "name": "Bermuda",
+  "officialName": "Bermuda",
+  "distSign": "BM",
+  "dialCode": "1-441",
+  "edgar": "D0",
+  "fifa": "BER",
+  "fips": "BD",
+  "gaul": "30",
+  "geoNameId": "3573345",
+  "olympicsId": "BER",
+  "iso2": "BM",
+  "iso3": "BMU",
+  "currencyCode": "BMD",
+  "currencyCountryName": "BERMUDA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Bermudian Dollar",
+  "currencyNumericCode": 60,
+  "itu": "BER",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-BM",
+    "pt"
+  ],
+  "m49": 60,
+  "marc": "bm",
+  "tld": ".bm",
+  "wmo": "BE"
+}

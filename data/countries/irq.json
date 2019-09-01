@@ -1,0 +1,32 @@
+{
+  "capital": "Baghdad",
+  "continent": "AS",
+  "name": "Iraq",
+  "officialName": "Iraq",
+  "distSign": "IRQ",
+  "dialCode": "964",
+  "edgar": "L0",
+  "fifa": "IRQ",
+  "fips": "IZ",
+  "gaul": "118",
+  "geoNameId": "99237",
+  "olympicsId": "IRQ",
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "currencyCode": "IQD",
+  "currencyCountryName": "IRAQ",
+  "currencyMinorUnit": 3,
+  "currencyName": "Iraqi Dinar",
+  "currencyNumericCode": 368,
+  "itu": "IRQ",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-IQ",
+    "ku",
+    "hy"
+  ],
+  "m49": 368,
+  "marc": "iq",
+  "tld": ".iq",
+  "wmo": "IQ"
+}

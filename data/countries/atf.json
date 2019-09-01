@@ -1,0 +1,30 @@
+{
+  "capital": "Port-aux-Francais",
+  "continent": "AN",
+  "name": "French Southern Territories",
+  "officialName": null,
+  "distSign": "F",
+  "dialCode": "262",
+  "edgar": null,
+  "fifa": null,
+  "fips": "FS",
+  "gaul": "88",
+  "geoNameId": "1546748",
+  "olympicsId": null,
+  "iso2": "TF",
+  "iso3": "ATF",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Territory of FR",
+  "languages": [
+    "fr"
+  ],
+  "m49": 260,
+  "marc": "fs",
+  "tld": ".tf",
+  "wmo": null
+}

@@ -1,0 +1,31 @@
+{
+  "capital": "Port-au-Prince",
+  "continent": "NA",
+  "name": "Haiti",
+  "officialName": "Haiti",
+  "distSign": "RH",
+  "dialCode": "509",
+  "edgar": "K1",
+  "fifa": "HAI",
+  "fips": "HA",
+  "gaul": "108",
+  "geoNameId": "3723988",
+  "olympicsId": "HAI",
+  "iso2": "HT",
+  "iso3": "HTI",
+  "currencyCode": "USD",
+  "currencyCountryName": "HAITI",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "HTI",
+  "isIndependent": "Yes",
+  "languages": [
+    "ht",
+    "fr-HT"
+  ],
+  "m49": 332,
+  "marc": "ht",
+  "tld": ".ht",
+  "wmo": "HA"
+}

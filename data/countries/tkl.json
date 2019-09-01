@@ -1,0 +1,31 @@
+{
+  "capital": null,
+  "continent": "OC",
+  "name": "Tokelau",
+  "officialName": "Tokelau",
+  "distSign": "NZ",
+  "dialCode": "690",
+  "edgar": "W3",
+  "fifa": "TKL",
+  "fips": "TL",
+  "gaul": "244",
+  "geoNameId": "4031074",
+  "olympicsId": null,
+  "iso2": "TK",
+  "iso3": "TKL",
+  "currencyCode": "NZD",
+  "currencyCountryName": "TOKELAU",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Zealand Dollar",
+  "currencyNumericCode": 554,
+  "itu": "TKL",
+  "isIndependent": "Territory of NZ",
+  "languages": [
+    "tkl",
+    "en-TK"
+  ],
+  "m49": 772,
+  "marc": "tl",
+  "tld": ".tk",
+  "wmo": "TK"
+}

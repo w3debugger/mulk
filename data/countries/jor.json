@@ -1,0 +1,31 @@
+{
+  "capital": "Amman",
+  "continent": "AS",
+  "name": "Jordan",
+  "officialName": "Jordan",
+  "distSign": "HKJ",
+  "dialCode": "962",
+  "edgar": "M2",
+  "fifa": "JOR",
+  "fips": "JO",
+  "gaul": "130",
+  "geoNameId": "248816",
+  "olympicsId": "JOR",
+  "iso2": "JO",
+  "iso3": "JOR",
+  "currencyCode": "JOD",
+  "currencyCountryName": "JORDAN",
+  "currencyMinorUnit": 3,
+  "currencyName": "Jordanian Dinar",
+  "currencyNumericCode": 400,
+  "itu": "JOR",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-JO",
+    "en"
+  ],
+  "m49": 400,
+  "marc": "jo",
+  "tld": ".jo",
+  "wmo": "JD"
+}

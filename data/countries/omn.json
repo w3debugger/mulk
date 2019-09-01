@@ -1,0 +1,33 @@
+{
+  "capital": "Muscat",
+  "continent": "AS",
+  "name": "Oman",
+  "officialName": "Oman",
+  "distSign": null,
+  "dialCode": "968",
+  "edgar": "P4",
+  "fifa": "OMA",
+  "fips": "MU",
+  "gaul": "187",
+  "geoNameId": "286963",
+  "olympicsId": "OMA",
+  "iso2": "OM",
+  "iso3": "OMN",
+  "currencyCode": "OMR",
+  "currencyCountryName": "OMAN",
+  "currencyMinorUnit": 3,
+  "currencyName": "Rial Omani",
+  "currencyNumericCode": 512,
+  "itu": "OMA",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-OM",
+    "en",
+    "bal",
+    "ur"
+  ],
+  "m49": 512,
+  "marc": "mk",
+  "tld": ".om",
+  "wmo": "OM"
+}

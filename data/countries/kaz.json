@@ -1,0 +1,31 @@
+{
+  "capital": "Astana",
+  "continent": "AS",
+  "name": "Kazakhstan",
+  "officialName": "Kazakhstan",
+  "distSign": "KZ",
+  "dialCode": "7",
+  "edgar": null,
+  "fifa": "KAZ",
+  "fips": "KZ",
+  "gaul": "132",
+  "geoNameId": "1522867",
+  "olympicsId": "KAZ",
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "currencyCode": "KZT",
+  "currencyCountryName": "KAZAKHSTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Tenge",
+  "currencyNumericCode": 398,
+  "itu": "KAZ",
+  "isIndependent": "Yes",
+  "languages": [
+    "kk",
+    "ru"
+  ],
+  "m49": 398,
+  "marc": "kz",
+  "tld": ".kz",
+  "wmo": "KZ"
+}

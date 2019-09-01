@@ -1,0 +1,30 @@
+{
+  "capital": "Nay Pyi Taw",
+  "continent": "AS",
+  "name": "Myanmar",
+  "officialName": "Myanmar",
+  "distSign": "BUR",
+  "dialCode": "95",
+  "edgar": "E1",
+  "fifa": "MYA",
+  "fips": "BM",
+  "gaul": "171",
+  "geoNameId": "1327865",
+  "olympicsId": "MYA",
+  "iso2": "MM",
+  "iso3": "MMR",
+  "currencyCode": "MMK",
+  "currencyCountryName": "MYANMAR",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kyat",
+  "currencyNumericCode": 104,
+  "itu": "MYA",
+  "isIndependent": "Yes",
+  "languages": [
+    "my"
+  ],
+  "m49": 104,
+  "marc": "br",
+  "tld": ".mm",
+  "wmo": "BM"
+}

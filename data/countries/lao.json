@@ -1,0 +1,32 @@
+{
+  "capital": "Vientiane",
+  "continent": "AS",
+  "name": "Laos",
+  "officialName": "Lao People's Democratic Republic",
+  "distSign": "LAO",
+  "dialCode": "856",
+  "edgar": null,
+  "fifa": "LAO",
+  "fips": "LA",
+  "gaul": "139",
+  "geoNameId": "1655842",
+  "olympicsId": "LAO",
+  "iso2": "LA",
+  "iso3": "LAO",
+  "currencyCode": "LAK",
+  "currencyCountryName": "LAO PEOPLEâ€™S DEMOCRATIC REPUBLIC",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kip",
+  "currencyNumericCode": 418,
+  "itu": "LAO",
+  "isIndependent": "Yes",
+  "languages": [
+    "lo",
+    "fr",
+    "en"
+  ],
+  "m49": 418,
+  "marc": "ls",
+  "tld": ".la",
+  "wmo": "LA"
+}

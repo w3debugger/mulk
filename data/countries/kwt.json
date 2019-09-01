@@ -1,0 +1,31 @@
+{
+  "capital": "Kuwait City",
+  "continent": "AS",
+  "name": "Kuwait",
+  "officialName": "Kuwait",
+  "distSign": "KWT",
+  "dialCode": "965",
+  "edgar": "M6",
+  "fifa": "KUW",
+  "fips": "KU",
+  "gaul": "137",
+  "geoNameId": "285570",
+  "olympicsId": "KUW",
+  "iso2": "KW",
+  "iso3": "KWT",
+  "currencyCode": "KWD",
+  "currencyCountryName": "KUWAIT",
+  "currencyMinorUnit": 3,
+  "currencyName": "Kuwaiti Dinar",
+  "currencyNumericCode": 414,
+  "itu": "KWT",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-KW",
+    "en"
+  ],
+  "m49": 414,
+  "marc": "ku",
+  "tld": ".kw",
+  "wmo": "KW"
+}

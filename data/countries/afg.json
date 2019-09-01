@@ -1,0 +1,33 @@
+{
+  "capital": "Kabul",
+  "continent": "AS",
+  "name": "Afghanistan",
+  "officialName": "Afghanistan",
+  "distSign": "AFG",
+  "dialCode": "93",
+  "edgar": "B2",
+  "fifa": "AFG",
+  "fips": "AF",
+  "gaul": "1",
+  "geoNameId": "1149361",
+  "olympicsId": "AFG",
+  "iso2": "AF",
+  "iso3": "AFG",
+  "currencyCode": "AFN",
+  "currencyCountryName": "AFGHANISTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Afghani",
+  "currencyNumericCode": 971,
+  "itu": "AFG",
+  "isIndependent": "Yes",
+  "languages": [
+    "fa-AF",
+    "ps",
+    "uz-AF",
+    "tk"
+  ],
+  "m49": 4,
+  "marc": "af",
+  "tld": ".af",
+  "wmo": "AF"
+}

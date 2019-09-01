@@ -1,0 +1,30 @@
+{
+  "capital": "Guatemala City",
+  "continent": "NA",
+  "name": "Guatemala",
+  "officialName": "Guatemala",
+  "distSign": "GCA",
+  "dialCode": "502",
+  "edgar": "J8",
+  "fifa": "GUA",
+  "fips": "GT",
+  "gaul": "103",
+  "geoNameId": "3595528",
+  "olympicsId": "GUA",
+  "iso2": "GT",
+  "iso3": "GTM",
+  "currencyCode": "GTQ",
+  "currencyCountryName": "GUATEMALA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Quetzal",
+  "currencyNumericCode": 320,
+  "itu": "GTM",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-GT"
+  ],
+  "m49": 320,
+  "marc": "gt",
+  "tld": ".gt",
+  "wmo": "GU"
+}

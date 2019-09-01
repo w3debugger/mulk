@@ -1,0 +1,32 @@
+{
+  "capital": "Brazzaville",
+  "continent": "AF",
+  "name": "Congo - Brazzaville",
+  "officialName": "Congo",
+  "distSign": "RCB",
+  "dialCode": "242",
+  "edgar": "G0",
+  "fifa": "CGO",
+  "fips": "CF",
+  "gaul": "59",
+  "geoNameId": "2260494",
+  "olympicsId": "CGO",
+  "iso2": "CG",
+  "iso3": "COG",
+  "currencyCode": "XAF",
+  "currencyCountryName": "CONGO",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "COG",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-CG",
+    "kg",
+    "ln-CG"
+  ],
+  "m49": 178,
+  "marc": "cf",
+  "tld": ".cg",
+  "wmo": "CG"
+}

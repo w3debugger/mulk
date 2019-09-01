@@ -1,0 +1,31 @@
+{
+  "capital": "Torshavn",
+  "continent": "EU",
+  "name": "Faroe Islands",
+  "officialName": "Faeroe Islands",
+  "distSign": "FO",
+  "dialCode": "298",
+  "edgar": null,
+  "fifa": "FRO",
+  "fips": "FO",
+  "gaul": "82",
+  "geoNameId": "2622320",
+  "olympicsId": "FAR",
+  "iso2": "FO",
+  "iso3": "FRO",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "FRO",
+  "isIndependent": "Part of DK",
+  "languages": [
+    "fo",
+    "da-FO"
+  ],
+  "m49": 234,
+  "marc": "fa",
+  "tld": ".fo",
+  "wmo": "FA"
+}

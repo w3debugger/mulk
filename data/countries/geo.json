@@ -1,0 +1,33 @@
+{
+  "capital": "Tbilisi",
+  "continent": "AS",
+  "name": "Georgia",
+  "officialName": "Georgia",
+  "distSign": "GE",
+  "dialCode": "995",
+  "edgar": "2Q",
+  "fifa": "GEO",
+  "fips": "GG",
+  "gaul": "92",
+  "geoNameId": "614540",
+  "olympicsId": "GEO",
+  "iso2": "GE",
+  "iso3": "GEO",
+  "currencyCode": "GEL",
+  "currencyCountryName": "GEORGIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Lari",
+  "currencyNumericCode": 981,
+  "itu": "GEO",
+  "isIndependent": "Yes",
+  "languages": [
+    "ka",
+    "ru",
+    "hy",
+    "az"
+  ],
+  "m49": 268,
+  "marc": "gs",
+  "tld": ".ge",
+  "wmo": "GG"
+}

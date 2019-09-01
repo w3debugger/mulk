@@ -1,0 +1,32 @@
+{
+  "capital": "Pago Pago",
+  "continent": "OC",
+  "name": "American Samoa",
+  "officialName": "American Samoa",
+  "distSign": "USA",
+  "dialCode": "1-684",
+  "edgar": "B5",
+  "fifa": "ASA",
+  "fips": "AQ",
+  "gaul": "5",
+  "geoNameId": "5880801",
+  "olympicsId": "ASA",
+  "iso2": "AS",
+  "iso3": "ASM",
+  "currencyCode": "USD",
+  "currencyCountryName": "AMERICAN SAMOA",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "SMA",
+  "isIndependent": "Territory of US",
+  "languages": [
+    "en-AS",
+    "sm",
+    "to"
+  ],
+  "m49": 16,
+  "marc": "as",
+  "tld": ".as",
+  "wmo": null
+}

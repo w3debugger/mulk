@@ -1,0 +1,31 @@
+{
+  "capital": "Antananarivo",
+  "continent": "AF",
+  "name": "Madagascar",
+  "officialName": "Madagascar",
+  "distSign": "RM",
+  "dialCode": "261",
+  "edgar": "N6",
+  "fifa": "MAD",
+  "fips": "MA",
+  "gaul": "150",
+  "geoNameId": "1062947",
+  "olympicsId": "MAD",
+  "iso2": "MG",
+  "iso3": "MDG",
+  "currencyCode": "MGA",
+  "currencyCountryName": "MADAGASCAR",
+  "currencyMinorUnit": 2,
+  "currencyName": "Malagasy Ariary",
+  "currencyNumericCode": 969,
+  "itu": "MDG",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-MG",
+    "mg"
+  ],
+  "m49": 450,
+  "marc": "mg",
+  "tld": ".mg",
+  "wmo": "MG"
+}

@@ -1,0 +1,31 @@
+{
+  "capital": "Asuncion",
+  "continent": "SA",
+  "name": "Paraguay",
+  "officialName": "Paraguay",
+  "distSign": "PY",
+  "dialCode": "595",
+  "edgar": "R4",
+  "fifa": "PAR",
+  "fips": "PA",
+  "gaul": "194",
+  "geoNameId": "3437598",
+  "olympicsId": "PAR",
+  "iso2": "PY",
+  "iso3": "PRY",
+  "currencyCode": "PYG",
+  "currencyCountryName": "PARAGUAY",
+  "currencyMinorUnit": 0,
+  "currencyName": "Guarani",
+  "currencyNumericCode": 600,
+  "itu": "PRG",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-PY",
+    "gn"
+  ],
+  "m49": 600,
+  "marc": "py",
+  "tld": ".py",
+  "wmo": "PY"
+}

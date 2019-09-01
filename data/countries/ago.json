@@ -1,0 +1,30 @@
+{
+  "capital": "Luanda",
+  "continent": "AF",
+  "name": "Angola",
+  "officialName": "Angola",
+  "distSign": "AO",
+  "dialCode": "244",
+  "edgar": "B7",
+  "fifa": "ANG",
+  "fips": "AO",
+  "gaul": "8",
+  "geoNameId": "3351879",
+  "olympicsId": "ANG",
+  "iso2": "AO",
+  "iso3": "AGO",
+  "currencyCode": "AOA",
+  "currencyCountryName": "ANGOLA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kwanza",
+  "currencyNumericCode": 973,
+  "itu": "AGL",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-AO"
+  ],
+  "m49": 24,
+  "marc": "ao",
+  "tld": ".ao",
+  "wmo": "AN"
+}

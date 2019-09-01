@@ -1,0 +1,31 @@
+{
+  "capital": "Longyearbyen",
+  "continent": "EU",
+  "name": "Svalbard & Jan Mayen",
+  "officialName": "Svalbard and Jan Mayen Islands",
+  "distSign": null,
+  "dialCode": "47",
+  "edgar": "L9",
+  "fifa": null,
+  "fips": "SV,JN",
+  "gaul": "234",
+  "geoNameId": "607072",
+  "olympicsId": null,
+  "iso2": "SJ",
+  "iso3": "SJM",
+  "currencyCode": "NOK",
+  "currencyCountryName": "SVALBARD AND JAN MAYEN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Norwegian Krone",
+  "currencyNumericCode": 578,
+  "itu": "NOR",
+  "isIndependent": "Territory of NO",
+  "languages": [
+    "no",
+    "ru"
+  ],
+  "m49": 744,
+  "marc": null,
+  "tld": ".sj",
+  "wmo": "SZ"
+}

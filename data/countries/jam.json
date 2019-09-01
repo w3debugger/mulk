@@ -1,0 +1,30 @@
+{
+  "capital": "Kingston",
+  "continent": "NA",
+  "name": "Jamaica",
+  "officialName": "Jamaica",
+  "distSign": "JA",
+  "dialCode": "1-876",
+  "edgar": "L8",
+  "fifa": "JAM",
+  "fips": "JM",
+  "gaul": "123",
+  "geoNameId": "3489940",
+  "olympicsId": "JAM",
+  "iso2": "JM",
+  "iso3": "JAM",
+  "currencyCode": "JMD",
+  "currencyCountryName": "JAMAICA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Jamaican Dollar",
+  "currencyNumericCode": 388,
+  "itu": "JMC",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-JM"
+  ],
+  "m49": 388,
+  "marc": "jm",
+  "tld": ".jm",
+  "wmo": "JM"
+}

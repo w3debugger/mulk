@@ -1,0 +1,31 @@
+{
+  "capital": "Victoria",
+  "continent": "AF",
+  "name": "Seychelles",
+  "officialName": "Seychelles",
+  "distSign": "SY",
+  "dialCode": "248",
+  "edgar": "T2",
+  "fifa": "SEY",
+  "fips": "SE",
+  "gaul": "220",
+  "geoNameId": "241170",
+  "olympicsId": "SEY",
+  "iso2": "SC",
+  "iso3": "SYC",
+  "currencyCode": "SCR",
+  "currencyCountryName": "SEYCHELLES",
+  "currencyMinorUnit": 2,
+  "currencyName": "Seychelles Rupee",
+  "currencyNumericCode": 690,
+  "itu": "SEY",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-SC",
+    "fr-SC"
+  ],
+  "m49": 690,
+  "marc": "se",
+  "tld": ".sc",
+  "wmo": "SC"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": null,
+  "continent": "AN",
+  "name": "Antarctica",
+  "officialName": null,
+  "distSign": null,
+  "dialCode": "672",
+  "edgar": null,
+  "fifa": "ROS",
+  "fips": "AY",
+  "gaul": "10",
+  "geoNameId": "6697173",
+  "olympicsId": null,
+  "iso2": "AQ",
+  "iso3": "ATA",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "International",
+  "languages": [
+    ""
+  ],
+  "m49": 10,
+  "marc": "ay",
+  "tld": ".aq",
+  "wmo": "AA"
+}

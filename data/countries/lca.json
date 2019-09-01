@@ -1,0 +1,30 @@
+{
+  "capital": "Castries",
+  "continent": "NA",
+  "name": "St. Lucia",
+  "officialName": "Saint Lucia",
+  "distSign": "WL",
+  "dialCode": "1-758",
+  "edgar": "U9",
+  "fifa": "LCA",
+  "fips": "ST",
+  "gaul": "209",
+  "geoNameId": "3576468",
+  "olympicsId": "LCA",
+  "iso2": "LC",
+  "iso3": "LCA",
+  "currencyCode": "XCD",
+  "currencyCountryName": "SAINT LUCIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "LCA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-LC"
+  ],
+  "m49": 662,
+  "marc": "xk",
+  "tld": ".lc",
+  "wmo": "LC"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Sarajevo",
+  "continent": "EU",
+  "name": "Bosnia",
+  "officialName": "Bosnia and Herzegovina",
+  "distSign": "BIH",
+  "dialCode": "387",
+  "edgar": "1E",
+  "fifa": "BIH",
+  "fips": "BK",
+  "gaul": "34",
+  "geoNameId": "3277605",
+  "olympicsId": "BIH",
+  "iso2": "BA",
+  "iso3": "BIH",
+  "currencyCode": "BAM",
+  "currencyCountryName": "BOSNIA AND HERZEGOVINA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Convertible Mark",
+  "currencyNumericCode": 977,
+  "itu": "BIH",
+  "isIndependent": "Yes",
+  "languages": [
+    "bs",
+    "hr-BA",
+    "sr-BA"
+  ],
+  "m49": 70,
+  "marc": "bn",
+  "tld": ".ba",
+  "wmo": "BG"
+}

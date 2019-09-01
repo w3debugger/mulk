@@ -1,0 +1,31 @@
+{
+  "capital": "Male",
+  "continent": "AS",
+  "name": "Maldives",
+  "officialName": "Maldives",
+  "distSign": "MV",
+  "dialCode": "960",
+  "edgar": "N9",
+  "fifa": "MDV",
+  "fips": "MV",
+  "gaul": "154",
+  "geoNameId": "1282028",
+  "olympicsId": "MDV",
+  "iso2": "MV",
+  "iso3": "MDV",
+  "currencyCode": "MVR",
+  "currencyCountryName": "MALDIVES",
+  "currencyMinorUnit": 2,
+  "currencyName": "Rufiyaa",
+  "currencyNumericCode": 462,
+  "itu": "MLD",
+  "isIndependent": "Yes",
+  "languages": [
+    "dv",
+    "en"
+  ],
+  "m49": 462,
+  "marc": "xc",
+  "tld": ".mv",
+  "wmo": "MV"
+}

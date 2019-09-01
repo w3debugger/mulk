@@ -1,0 +1,33 @@
+{
+  "capital": "Accra",
+  "continent": "AF",
+  "name": "Ghana",
+  "officialName": "Ghana",
+  "distSign": "GH",
+  "dialCode": "233",
+  "edgar": "J0",
+  "fifa": "GHA",
+  "fips": "GH",
+  "gaul": "94",
+  "geoNameId": "2300660",
+  "olympicsId": "GHA",
+  "iso2": "GH",
+  "iso3": "GHA",
+  "currencyCode": "GHS",
+  "currencyCountryName": "GHANA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Ghana Cedi",
+  "currencyNumericCode": 936,
+  "itu": "GHA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-GH",
+    "ak",
+    "ee",
+    "tw"
+  ],
+  "m49": 288,
+  "marc": "gh",
+  "tld": ".gh",
+  "wmo": "GH"
+}

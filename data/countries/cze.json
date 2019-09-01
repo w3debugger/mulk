@@ -1,0 +1,31 @@
+{
+  "capital": "Prague",
+  "continent": "EU",
+  "name": "Czech Republic",
+  "officialName": "Czechia",
+  "distSign": "CZ",
+  "dialCode": "420",
+  "edgar": null,
+  "fifa": "CZE",
+  "fips": "EZ",
+  "gaul": "65",
+  "geoNameId": "3077311",
+  "olympicsId": "CZE",
+  "iso2": "CZ",
+  "iso3": "CZE",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "CZE",
+  "isIndependent": "Yes",
+  "languages": [
+    "cs",
+    "sk"
+  ],
+  "m49": 203,
+  "marc": "xr",
+  "tld": ".cz",
+  "wmo": "CZ"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Kinshasa",
+  "continent": "AF",
+  "name": "Congo - Kinshasa",
+  "officialName": "Democratic Republic of the Congo",
+  "distSign": "ZRE",
+  "dialCode": "243",
+  "edgar": null,
+  "fifa": "COD",
+  "fips": "CG",
+  "gaul": "68",
+  "geoNameId": "203312",
+  "olympicsId": "COD",
+  "iso2": "CD",
+  "iso3": "COD",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "COD",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-CD",
+    "ln",
+    "kg"
+  ],
+  "m49": 180,
+  "marc": "cg",
+  "tld": ".cd",
+  "wmo": "ZR"
+}

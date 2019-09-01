@@ -1,0 +1,30 @@
+{
+  "capital": "Bridgetown",
+  "continent": "NA",
+  "name": "Barbados",
+  "officialName": "Barbados",
+  "distSign": "BDS",
+  "dialCode": "1-246",
+  "edgar": "C8",
+  "fifa": "BRB",
+  "fips": "BB",
+  "gaul": "24",
+  "geoNameId": "3374084",
+  "olympicsId": "BAR",
+  "iso2": "BB",
+  "iso3": "BRB",
+  "currencyCode": "BBD",
+  "currencyCountryName": "BARBADOS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Barbados Dollar",
+  "currencyNumericCode": 52,
+  "itu": "BRB",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-BB"
+  ],
+  "m49": 52,
+  "marc": "bb",
+  "tld": ".bb",
+  "wmo": "BR"
+}

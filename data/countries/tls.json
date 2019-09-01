@@ -1,0 +1,33 @@
+{
+  "capital": "Dili",
+  "continent": "OC",
+  "name": "Timor-Leste",
+  "officialName": "Timor-Leste",
+  "distSign": "RI",
+  "dialCode": "670",
+  "edgar": "Z3",
+  "fifa": "TLS",
+  "fips": "TT",
+  "gaul": "242",
+  "geoNameId": "1966436",
+  "olympicsId": "TLS",
+  "iso2": "TL",
+  "iso3": "TLS",
+  "currencyCode": "USD",
+  "currencyCountryName": "TIMOR-LESTE",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "TLS",
+  "isIndependent": "Yes",
+  "languages": [
+    "tet",
+    "pt-TL",
+    "id",
+    "en"
+  ],
+  "m49": 626,
+  "marc": "em",
+  "tld": ".tl",
+  "wmo": "TM"
+}

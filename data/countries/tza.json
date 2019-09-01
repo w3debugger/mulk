@@ -1,0 +1,32 @@
+{
+  "capital": "Dodoma",
+  "continent": "AF",
+  "name": "Tanzania",
+  "officialName": "United Republic of Tanzania",
+  "distSign": "EAT",
+  "dialCode": "255",
+  "edgar": "W0",
+  "fifa": "TAN",
+  "fips": "TZ",
+  "gaul": "257",
+  "geoNameId": "149590",
+  "olympicsId": "TAN",
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "currencyCode": "TZS",
+  "currencyCountryName": "TANZANIA, UNITED REPUBLIC OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "Tanzanian Shilling",
+  "currencyNumericCode": 834,
+  "itu": "TZA",
+  "isIndependent": "Yes",
+  "languages": [
+    "sw-TZ",
+    "en",
+    "ar"
+  ],
+  "m49": 834,
+  "marc": "tz",
+  "tld": ".tz",
+  "wmo": "TN"
+}

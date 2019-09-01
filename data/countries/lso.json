@@ -1,0 +1,33 @@
+{
+  "capital": "Maseru",
+  "continent": "AF",
+  "name": "Lesotho",
+  "officialName": "Lesotho",
+  "distSign": "LS",
+  "dialCode": "266",
+  "edgar": "M9",
+  "fifa": "LES",
+  "fips": "LT",
+  "gaul": "142",
+  "geoNameId": "932692",
+  "olympicsId": "LES",
+  "iso2": "LS",
+  "iso3": "LSO",
+  "currencyCode": "ZAR",
+  "currencyCountryName": "LESOTHO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Rand",
+  "currencyNumericCode": 710,
+  "itu": "LSO",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-LS",
+    "st",
+    "zu",
+    "xh"
+  ],
+  "m49": 426,
+  "marc": "lo",
+  "tld": ".ls",
+  "wmo": "LS"
+}

@@ -1,0 +1,31 @@
+{
+  "capital": "Dhaka",
+  "continent": "AS",
+  "name": "Bangladesh",
+  "officialName": "Bangladesh",
+  "distSign": "BD",
+  "dialCode": "880",
+  "edgar": "C7",
+  "fifa": "BAN",
+  "fips": "BG",
+  "gaul": "23",
+  "geoNameId": "1210997",
+  "olympicsId": "BAN",
+  "iso2": "BD",
+  "iso3": "BGD",
+  "currencyCode": "BDT",
+  "currencyCountryName": "BANGLADESH",
+  "currencyMinorUnit": 2,
+  "currencyName": "Taka",
+  "currencyNumericCode": 50,
+  "itu": "BGD",
+  "isIndependent": "Yes",
+  "languages": [
+    "bn-BD",
+    "en"
+  ],
+  "m49": 50,
+  "marc": "bg",
+  "tld": ".bd",
+  "wmo": "BW"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Tegucigalpa",
+  "continent": "NA",
+  "name": "Honduras",
+  "officialName": "Honduras",
+  "distSign": null,
+  "dialCode": "504",
+  "edgar": "K2",
+  "fifa": "HON",
+  "fips": "HO",
+  "gaul": "111",
+  "geoNameId": "3608932",
+  "olympicsId": "HON",
+  "iso2": "HN",
+  "iso3": "HND",
+  "currencyCode": "HNL",
+  "currencyCountryName": "HONDURAS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Lempira",
+  "currencyNumericCode": 340,
+  "itu": "HND",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-HN"
+  ],
+  "m49": 340,
+  "marc": "ho",
+  "tld": ".hn",
+  "wmo": "HO"
+}

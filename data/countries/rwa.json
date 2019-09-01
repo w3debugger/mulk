@@ -1,0 +1,33 @@
+{
+  "capital": "Kigali",
+  "continent": "AF",
+  "name": "Rwanda",
+  "officialName": "Rwanda",
+  "distSign": "RWA",
+  "dialCode": "250",
+  "edgar": "S6",
+  "fifa": "RWA",
+  "fips": "RW",
+  "gaul": "205",
+  "geoNameId": "49518",
+  "olympicsId": "RWA",
+  "iso2": "RW",
+  "iso3": "RWA",
+  "currencyCode": "RWF",
+  "currencyCountryName": "RWANDA",
+  "currencyMinorUnit": 0,
+  "currencyName": "Rwanda Franc",
+  "currencyNumericCode": 646,
+  "itu": "RRW",
+  "isIndependent": "Yes",
+  "languages": [
+    "rw",
+    "en-RW",
+    "fr-RW",
+    "sw"
+  ],
+  "m49": 646,
+  "marc": "rw",
+  "tld": ".rw",
+  "wmo": "RW"
+}

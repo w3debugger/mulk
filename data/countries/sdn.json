@@ -1,0 +1,32 @@
+{
+  "capital": "Khartoum",
+  "continent": "AF",
+  "name": "Sudan",
+  "officialName": "Sudan",
+  "distSign": "SUD",
+  "dialCode": "249",
+  "edgar": "V2",
+  "fifa": "SUD",
+  "fips": "SU",
+  "gaul": "40764",
+  "geoNameId": "366755",
+  "olympicsId": "SUD",
+  "iso2": "SD",
+  "iso3": "SDN",
+  "currencyCode": "SDG",
+  "currencyCountryName": "SUDAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Sudanese Pound",
+  "currencyNumericCode": 938,
+  "itu": "SDN",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-SD",
+    "en",
+    "fia"
+  ],
+  "m49": 729,
+  "marc": "sj",
+  "tld": ".sd",
+  "wmo": "SU"
+}

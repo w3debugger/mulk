@@ -1,0 +1,33 @@
+{
+  "capital": "Niamey",
+  "continent": "AF",
+  "name": "Niger",
+  "officialName": "Niger",
+  "distSign": "RN",
+  "dialCode": "227",
+  "edgar": "Q4",
+  "fifa": "NIG",
+  "fips": "NG",
+  "gaul": "181",
+  "geoNameId": "2440476",
+  "olympicsId": "NIG",
+  "iso2": "NE",
+  "iso3": "NER",
+  "currencyCode": "XOF",
+  "currencyCountryName": "NIGER",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "NGR",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-NE",
+    "ha",
+    "kr",
+    "dje"
+  ],
+  "m49": 562,
+  "marc": "ng",
+  "tld": ".ne",
+  "wmo": "NR"
+}

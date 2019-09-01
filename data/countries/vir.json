@@ -1,0 +1,30 @@
+{
+  "capital": "Charlotte Amalie",
+  "continent": "NA",
+  "name": "U.S. Virgin Islands",
+  "officialName": "United States Virgin Islands",
+  "distSign": "USA",
+  "dialCode": "1-340",
+  "edgar": null,
+  "fifa": "VIR",
+  "fips": "VQ",
+  "gaul": "258",
+  "geoNameId": "4796775",
+  "olympicsId": "ISV",
+  "iso2": "VI",
+  "iso3": "VIR",
+  "currencyCode": "USD",
+  "currencyCountryName": "VIRGIN ISLANDS (U.S.)",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "VIR",
+  "isIndependent": "Territory of US",
+  "languages": [
+    "en-VI"
+  ],
+  "m49": 850,
+  "marc": "vi",
+  "tld": ".vi",
+  "wmo": "VI"
+}

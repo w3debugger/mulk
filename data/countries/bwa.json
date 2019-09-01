@@ -1,0 +1,31 @@
+{
+  "capital": "Gaborone",
+  "continent": "AF",
+  "name": "Botswana",
+  "officialName": "Botswana",
+  "distSign": "BW",
+  "dialCode": "267",
+  "edgar": "B1",
+  "fifa": "BOT",
+  "fips": "BC",
+  "gaul": "35",
+  "geoNameId": "933860",
+  "olympicsId": "BOT",
+  "iso2": "BW",
+  "iso3": "BWA",
+  "currencyCode": "BWP",
+  "currencyCountryName": "BOTSWANA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pula",
+  "currencyNumericCode": 72,
+  "itu": "BOT",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-BW",
+    "tn-BW"
+  ],
+  "m49": 72,
+  "marc": "bs",
+  "tld": ".bw",
+  "wmo": "BC"
+}

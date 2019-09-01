@@ -1,0 +1,31 @@
+{
+  "capital": "Tarawa",
+  "continent": "OC",
+  "name": "Kiribati",
+  "officialName": "Kiribati",
+  "distSign": null,
+  "dialCode": "686",
+  "edgar": "J2",
+  "fifa": "KIR",
+  "fips": "KR",
+  "gaul": "135",
+  "geoNameId": "4030945",
+  "olympicsId": "KIR",
+  "iso2": "KI",
+  "iso3": "KIR",
+  "currencyCode": "AUD",
+  "currencyCountryName": "KIRIBATI",
+  "currencyMinorUnit": 2,
+  "currencyName": "Australian Dollar",
+  "currencyNumericCode": 36,
+  "itu": "KIR",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-KI",
+    "gil"
+  ],
+  "m49": 296,
+  "marc": "gb",
+  "tld": ".ki",
+  "wmo": "KB"
+}

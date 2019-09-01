@@ -1,0 +1,30 @@
+{
+  "capital": "Yamoussoukro",
+  "continent": "AF",
+  "name": "Côte d'Ivoire",
+  "officialName": "Côte d'Ivoire",
+  "distSign": "CI",
+  "dialCode": "225",
+  "edgar": null,
+  "fifa": "CIV",
+  "fips": "IV",
+  "gaul": "66",
+  "geoNameId": "2287781",
+  "olympicsId": "CIV",
+  "iso2": "CI",
+  "iso3": "CIV",
+  "currencyCode": "XOF",
+  "currencyCountryName": "CÔTE D'IVOIRE",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "CTI",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-CI"
+  ],
+  "m49": 384,
+  "marc": "iv",
+  "tld": ".ci",
+  "wmo": "IV"
+}

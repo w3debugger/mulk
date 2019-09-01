@@ -1,0 +1,31 @@
+{
+  "capital": "Tirana",
+  "continent": "EU",
+  "name": "Albania",
+  "officialName": "Albania",
+  "distSign": "AL",
+  "dialCode": "355",
+  "edgar": "B3",
+  "fifa": "ALB",
+  "fips": "AL",
+  "gaul": "3",
+  "geoNameId": "783754",
+  "olympicsId": "ALB",
+  "iso2": "AL",
+  "iso3": "ALB",
+  "currencyCode": "ALL",
+  "currencyCountryName": "ALBANIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Lek",
+  "currencyNumericCode": 8,
+  "itu": "ALB",
+  "isIndependent": "Yes",
+  "languages": [
+    "sq",
+    "el"
+  ],
+  "m49": 8,
+  "marc": "aa",
+  "tld": ".al",
+  "wmo": "AB"
+}

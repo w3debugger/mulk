@@ -1,0 +1,32 @@
+{
+  "capital": "Cairo",
+  "continent": "AF",
+  "name": "Egypt",
+  "officialName": "Egypt",
+  "distSign": "ET",
+  "dialCode": "20",
+  "edgar": "H2",
+  "fifa": "EGY",
+  "fips": "EG",
+  "gaul": "40765",
+  "geoNameId": "357994",
+  "olympicsId": "EGY",
+  "iso2": "EG",
+  "iso3": "EGY",
+  "currencyCode": "EGP",
+  "currencyCountryName": "EGYPT",
+  "currencyMinorUnit": 2,
+  "currencyName": "Egyptian Pound",
+  "currencyNumericCode": 818,
+  "itu": "EGY",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-EG",
+    "en",
+    "fr"
+  ],
+  "m49": 818,
+  "marc": "ua",
+  "tld": ".eg",
+  "wmo": "EG"
+}

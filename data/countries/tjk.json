@@ -1,0 +1,31 @@
+{
+  "capital": "Dushanbe",
+  "continent": "AS",
+  "name": "Tajikistan",
+  "officialName": "Tajikistan",
+  "distSign": "TJ",
+  "dialCode": "992",
+  "edgar": "2D",
+  "fifa": "TJK",
+  "fips": "TI",
+  "gaul": "239",
+  "geoNameId": "1220409",
+  "olympicsId": "TJK",
+  "iso2": "TJ",
+  "iso3": "TJK",
+  "currencyCode": "TJS",
+  "currencyCountryName": "TAJIKISTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Somoni",
+  "currencyNumericCode": 972,
+  "itu": "TJK",
+  "isIndependent": "Yes",
+  "languages": [
+    "tg",
+    "ru"
+  ],
+  "m49": 762,
+  "marc": "ta",
+  "tld": ".tj",
+  "wmo": "TA"
+}

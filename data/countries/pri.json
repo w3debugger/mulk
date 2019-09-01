@@ -1,0 +1,31 @@
+{
+  "capital": "San Juan",
+  "continent": "NA",
+  "name": "Puerto Rico",
+  "officialName": "Puerto Rico",
+  "distSign": "USA",
+  "dialCode": "1",
+  "edgar": "PR",
+  "fifa": "PUR",
+  "fips": "RQ",
+  "gaul": "200",
+  "geoNameId": "4566966",
+  "olympicsId": "PUR",
+  "iso2": "PR",
+  "iso3": "PRI",
+  "currencyCode": "USD",
+  "currencyCountryName": "PUERTO RICO",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "PTR",
+  "isIndependent": "Commonwealth of US",
+  "languages": [
+    "en-PR",
+    "es-PR"
+  ],
+  "m49": 630,
+  "marc": "pr",
+  "tld": ".pr",
+  "wmo": "PU"
+}

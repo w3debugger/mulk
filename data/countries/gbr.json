@@ -1,0 +1,32 @@
+{
+  "capital": "London",
+  "continent": "EU",
+  "name": "UK",
+  "officialName": "United Kingdom of Great Britain and Northern Ireland",
+  "distSign": "GB",
+  "dialCode": "44",
+  "edgar": "X0",
+  "fifa": "ENG,NIR,SCO,WAL",
+  "fips": "UK",
+  "gaul": "256",
+  "geoNameId": "2635167",
+  "olympicsId": "GBR",
+  "iso2": "GB",
+  "iso3": "GBR",
+  "currencyCode": "GBP",
+  "currencyCountryName": "UNITED KINGDOM",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pound Sterling",
+  "currencyNumericCode": 826,
+  "itu": "G",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-GB",
+    "cy-GB",
+    "gd"
+  ],
+  "m49": 826,
+  "marc": "xxk",
+  "tld": ".uk",
+  "wmo": "UK"
+}

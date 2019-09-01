@@ -1,0 +1,32 @@
+{
+  "capital": "Tashkent",
+  "continent": "AS",
+  "name": "Uzbekistan",
+  "officialName": "Uzbekistan",
+  "distSign": "UZ",
+  "dialCode": "998",
+  "edgar": "2K",
+  "fifa": "UZB",
+  "fips": "UZ",
+  "gaul": "261",
+  "geoNameId": "1512440",
+  "olympicsId": "UZB",
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "currencyCode": "UZS",
+  "currencyCountryName": "UZBEKISTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Uzbekistan Sum",
+  "currencyNumericCode": 860,
+  "itu": "UZB",
+  "isIndependent": "Yes",
+  "languages": [
+    "uz",
+    "ru",
+    "tg"
+  ],
+  "m49": 860,
+  "marc": "uz",
+  "tld": ".uz",
+  "wmo": "UZ"
+}

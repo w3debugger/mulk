@@ -1,0 +1,31 @@
+{
+  "capital": "Kathmandu",
+  "continent": "AS",
+  "name": "Nepal",
+  "officialName": "Nepal",
+  "distSign": "NEP",
+  "dialCode": "977",
+  "edgar": "P6",
+  "fifa": "NEP",
+  "fips": "NP",
+  "gaul": "175",
+  "geoNameId": "1282988",
+  "olympicsId": "NEP",
+  "iso2": "NP",
+  "iso3": "NPL",
+  "currencyCode": "NPR",
+  "currencyCountryName": "NEPAL",
+  "currencyMinorUnit": 2,
+  "currencyName": "Nepalese Rupee",
+  "currencyNumericCode": 524,
+  "itu": "NPL",
+  "isIndependent": "Yes",
+  "languages": [
+    "ne",
+    "en"
+  ],
+  "m49": 524,
+  "marc": "np",
+  "tld": ".np",
+  "wmo": "NP"
+}

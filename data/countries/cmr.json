@@ -1,0 +1,31 @@
+{
+  "capital": "Yaounde",
+  "continent": "AF",
+  "name": "Cameroon",
+  "officialName": "Cameroon",
+  "distSign": "CAM",
+  "dialCode": "237",
+  "edgar": "E4",
+  "fifa": "CMR",
+  "fips": "CM",
+  "gaul": "45",
+  "geoNameId": "2233387",
+  "olympicsId": "CMR",
+  "iso2": "CM",
+  "iso3": "CMR",
+  "currencyCode": "XAF",
+  "currencyCountryName": "CAMEROON",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "CME",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-CM",
+    "fr-CM"
+  ],
+  "m49": 120,
+  "marc": "cm",
+  "tld": ".cm",
+  "wmo": "CM"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "San Salvador",
+  "continent": "NA",
+  "name": "El Salvador",
+  "officialName": "El Salvador",
+  "distSign": "ES",
+  "dialCode": "503",
+  "edgar": "H3",
+  "fifa": "SLV",
+  "fips": "ES",
+  "gaul": "75",
+  "geoNameId": "3585968",
+  "olympicsId": "ESA",
+  "iso2": "SV",
+  "iso3": "SLV",
+  "currencyCode": "USD",
+  "currencyCountryName": "EL SALVADOR",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "SLV",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-SV"
+  ],
+  "m49": 222,
+  "marc": "es",
+  "tld": ".sv",
+  "wmo": "ES"
+}

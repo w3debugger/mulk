@@ -1,0 +1,30 @@
+{
+  "capital": "Mamoudzou",
+  "continent": "AF",
+  "name": "Mayotte",
+  "officialName": "Mayotte",
+  "distSign": null,
+  "dialCode": "262",
+  "edgar": "2P",
+  "fifa": "MYT",
+  "fips": "MF",
+  "gaul": "161",
+  "geoNameId": "1024031",
+  "olympicsId": "MAY",
+  "iso2": "YT",
+  "iso3": "MYT",
+  "currencyCode": "EUR",
+  "currencyCountryName": "MAYOTTE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "MYT",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-YT"
+  ],
+  "m49": 175,
+  "marc": "ot",
+  "tld": ".yt",
+  "wmo": null
+}

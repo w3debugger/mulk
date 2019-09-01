@@ -1,0 +1,33 @@
+{
+  "capital": "Dakar",
+  "continent": "AF",
+  "name": "Senegal",
+  "officialName": "Senegal",
+  "distSign": "SN",
+  "dialCode": "221",
+  "edgar": "T1",
+  "fifa": "SEN",
+  "fips": "SG",
+  "gaul": "217",
+  "geoNameId": "2245662",
+  "olympicsId": "SEN",
+  "iso2": "SN",
+  "iso3": "SEN",
+  "currencyCode": "XOF",
+  "currencyCountryName": "SENEGAL",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "SEN",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-SN",
+    "wo",
+    "fuc",
+    "mnk"
+  ],
+  "m49": 686,
+  "marc": "sg",
+  "tld": ".sn",
+  "wmo": "SG"
+}

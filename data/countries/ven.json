@@ -1,0 +1,30 @@
+{
+  "capital": "Caracas",
+  "continent": "SA",
+  "name": "Venezuela",
+  "officialName": "Venezuela (Bolivarian Republic of)",
+  "distSign": "YV",
+  "dialCode": "58",
+  "edgar": null,
+  "fifa": "VEN",
+  "fips": "VE",
+  "gaul": "263",
+  "geoNameId": "3625428",
+  "olympicsId": "VEN",
+  "iso2": "VE",
+  "iso3": "VEN",
+  "currencyCode": "VEF",
+  "currencyCountryName": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "Bolivar",
+  "currencyNumericCode": 937,
+  "itu": "VEN",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-VE"
+  ],
+  "m49": 862,
+  "marc": "ve",
+  "tld": ".ve",
+  "wmo": "VN"
+}

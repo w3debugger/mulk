@@ -1,0 +1,31 @@
+{
+  "capital": "Apia",
+  "continent": "OC",
+  "name": "Samoa",
+  "officialName": "Samoa",
+  "distSign": "WS",
+  "dialCode": "685",
+  "edgar": "Y0",
+  "fifa": "SAM",
+  "fips": "WS",
+  "gaul": "212",
+  "geoNameId": "4034894",
+  "olympicsId": "SAM",
+  "iso2": "WS",
+  "iso3": "WSM",
+  "currencyCode": "WST",
+  "currencyCountryName": "SAMOA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Tala",
+  "currencyNumericCode": 882,
+  "itu": "SMO",
+  "isIndependent": "Yes",
+  "languages": [
+    "sm",
+    "en-WS"
+  ],
+  "m49": 882,
+  "marc": "ws",
+  "tld": ".ws",
+  "wmo": "ZM"
+}

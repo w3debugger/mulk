@@ -1,0 +1,30 @@
+{
+  "capital": "Mariehamn",
+  "continent": "EU",
+  "name": "Ãland Islands",
+  "officialName": "Ãland Islands",
+  "distSign": "FIN",
+  "dialCode": "358",
+  "edgar": null,
+  "fifa": "ALD",
+  "fips": null,
+  "gaul": "1242",
+  "geoNameId": "661882",
+  "olympicsId": null,
+  "iso2": "AX",
+  "iso3": "ALA",
+  "currencyCode": "EUR",
+  "currencyCountryName": "ÃLAND ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": null,
+  "isIndependent": "Part of FI",
+  "languages": [
+    "sv-AX"
+  ],
+  "m49": 248,
+  "marc": null,
+  "tld": ".ax",
+  "wmo": null
+}

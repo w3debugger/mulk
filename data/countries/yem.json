@@ -1,0 +1,30 @@
+{
+  "capital": "Sanaa",
+  "continent": "AS",
+  "name": "Yemen",
+  "officialName": "Yemen",
+  "distSign": "YAR",
+  "dialCode": "967",
+  "edgar": "T7",
+  "fifa": "YEM",
+  "fips": "YM",
+  "gaul": "269",
+  "geoNameId": "69543",
+  "olympicsId": "YEM",
+  "iso2": "YE",
+  "iso3": "YEM",
+  "currencyCode": "YER",
+  "currencyCountryName": "YEMEN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Yemeni Rial",
+  "currencyNumericCode": 886,
+  "itu": "YEM",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-YE"
+  ],
+  "m49": 887,
+  "marc": "ye",
+  "tld": ".ye",
+  "wmo": "YE"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Adamstown",
+  "continent": "OC",
+  "name": "Pitcairn Islands",
+  "officialName": "Pitcairn",
+  "distSign": null,
+  "dialCode": "870",
+  "edgar": "R8",
+  "fifa": "PCN",
+  "fips": "PC",
+  "gaul": "197",
+  "geoNameId": "4030699",
+  "olympicsId": null,
+  "iso2": "PN",
+  "iso3": "PCN",
+  "currencyCode": "NZD",
+  "currencyCountryName": "PITCAIRN",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Zealand Dollar",
+  "currencyNumericCode": 554,
+  "itu": "PTC",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-PN"
+  ],
+  "m49": 612,
+  "marc": "pc",
+  "tld": ".pn",
+  "wmo": "PT"
+}

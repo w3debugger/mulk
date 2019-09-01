@@ -1,0 +1,30 @@
+{
+  "capital": "Santiago",
+  "continent": "SA",
+  "name": "Chile",
+  "officialName": "Chile",
+  "distSign": "RCH",
+  "dialCode": "56",
+  "edgar": "F3",
+  "fifa": "CHI",
+  "fips": "CI",
+  "gaul": "51",
+  "geoNameId": "3895114",
+  "olympicsId": "CHI",
+  "iso2": "CL",
+  "iso3": "CHL",
+  "currencyCode": "CLP",
+  "currencyCountryName": "CHILE",
+  "currencyMinorUnit": 0,
+  "currencyName": "Chilean Peso",
+  "currencyNumericCode": 152,
+  "itu": "CHL",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-CL"
+  ],
+  "m49": 152,
+  "marc": "cl",
+  "tld": ".cl",
+  "wmo": "CH"
+}

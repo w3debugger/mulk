@@ -1,0 +1,32 @@
+{
+  "capital": "Manila",
+  "continent": "AS",
+  "name": "Philippines",
+  "officialName": "Philippines",
+  "distSign": "RP",
+  "dialCode": "63",
+  "edgar": "R6",
+  "fifa": "PHI",
+  "fips": "RP",
+  "gaul": "196",
+  "geoNameId": "1694008",
+  "olympicsId": "PHI",
+  "iso2": "PH",
+  "iso3": "PHL",
+  "currencyCode": "PHP",
+  "currencyCountryName": "PHILIPPINES",
+  "currencyMinorUnit": 2,
+  "currencyName": "Philippine Peso",
+  "currencyNumericCode": 608,
+  "itu": "PHL",
+  "isIndependent": "Yes",
+  "languages": [
+    "tl",
+    "en-PH",
+    "fil"
+  ],
+  "m49": 608,
+  "marc": "ph",
+  "tld": ".ph",
+  "wmo": "PH"
+}

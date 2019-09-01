@@ -1,0 +1,30 @@
+{
+  "capital": "Sao Tome",
+  "continent": "AF",
+  "name": "Sao Tome and Principe",
+  "officialName": "Sao Tome and Principe",
+  "distSign": "ST",
+  "dialCode": "239",
+  "edgar": "S9",
+  "fifa": "STP",
+  "fips": "TP",
+  "gaul": "214",
+  "geoNameId": "2410758",
+  "olympicsId": "STP",
+  "iso2": "ST",
+  "iso3": "STP",
+  "currencyCode": "STD",
+  "currencyCountryName": "SAO TOME AND PRINCIPE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Dobra",
+  "currencyNumericCode": 678,
+  "itu": "STP",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-ST"
+  ],
+  "m49": 678,
+  "marc": "sf",
+  "tld": ".st",
+  "wmo": "TP"
+}

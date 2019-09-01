@@ -1,0 +1,30 @@
+{
+  "capital": "Stanley",
+  "continent": "SA",
+  "name": "Falkland Islands",
+  "officialName": "Falkland Islands (Malvinas)",
+  "distSign": null,
+  "dialCode": "500",
+  "edgar": "H7",
+  "fifa": "FLK",
+  "fips": "FK",
+  "gaul": "81",
+  "geoNameId": "3474414",
+  "olympicsId": "FLK",
+  "iso2": "FK",
+  "iso3": "FLK",
+  "currencyCode": "FKP",
+  "currencyCountryName": "FALKLAND ISLANDS (MALVINAS)",
+  "currencyMinorUnit": 2,
+  "currencyName": "Falkland Islands Pound",
+  "currencyNumericCode": 238,
+  "itu": "FLK",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-FK"
+  ],
+  "m49": 238,
+  "marc": "fk",
+  "tld": ".fk",
+  "wmo": "FK"
+}

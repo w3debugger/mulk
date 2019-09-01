@@ -1,0 +1,30 @@
+{
+  "capital": null,
+  "continent": "AN",
+  "name": "Heard & McDonald Islands",
+  "officialName": null,
+  "distSign": "AUS",
+  "dialCode": "672",
+  "edgar": null,
+  "fifa": null,
+  "fips": "HM",
+  "gaul": "109",
+  "geoNameId": "1547314",
+  "olympicsId": null,
+  "iso2": "HM",
+  "iso3": "HMD",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": null,
+  "isIndependent": "Territory of AU",
+  "languages": [
+    ""
+  ],
+  "m49": 334,
+  "marc": "hm",
+  "tld": ".hm",
+  "wmo": null
+}

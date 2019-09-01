@@ -1,0 +1,31 @@
+{
+  "capital": "Tehran",
+  "continent": "AS",
+  "name": "Iran",
+  "officialName": "Iran (Islamic Republic of)",
+  "distSign": "IR",
+  "dialCode": "98",
+  "edgar": "K9",
+  "fifa": "IRN",
+  "fips": "IR",
+  "gaul": "117",
+  "geoNameId": "130758",
+  "olympicsId": "IRI",
+  "iso2": "IR",
+  "iso3": "IRN",
+  "currencyCode": "IRR",
+  "currencyCountryName": "IRAN, ISLAMIC REPUBLIC OF",
+  "currencyMinorUnit": 2,
+  "currencyName": "Iranian Rial",
+  "currencyNumericCode": 364,
+  "itu": "IRN",
+  "isIndependent": "Yes",
+  "languages": [
+    "fa-IR",
+    "ku"
+  ],
+  "m49": 364,
+  "marc": "ir",
+  "tld": ".ir",
+  "wmo": "IR"
+}

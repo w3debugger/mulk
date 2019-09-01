@@ -1,0 +1,30 @@
+{
+  "capital": "Saint-Pierre",
+  "continent": "NA",
+  "name": "St. Pierre & Miquelon",
+  "officialName": "Saint Pierre and Miquelon",
+  "distSign": "F",
+  "dialCode": "508",
+  "edgar": "V0",
+  "fifa": "SPM",
+  "fips": "SB",
+  "gaul": "210",
+  "geoNameId": "3424932",
+  "olympicsId": "SPM",
+  "iso2": "PM",
+  "iso3": "SPM",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SAINT PIERRE AND MIQUELON",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "SPM",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-PM"
+  ],
+  "m49": 666,
+  "marc": "xl",
+  "tld": ".pm",
+  "wmo": "FP"
+}

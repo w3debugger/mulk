@@ -1,0 +1,31 @@
+{
+  "capital": "Maputo",
+  "continent": "AF",
+  "name": "Mozambique",
+  "officialName": "Mozambique",
+  "distSign": "MOC",
+  "dialCode": "258",
+  "edgar": "P3",
+  "fifa": "MOZ",
+  "fips": "MZ",
+  "gaul": "170",
+  "geoNameId": "1036973",
+  "olympicsId": "MOZ",
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "currencyCode": "MZN",
+  "currencyCountryName": "MOZAMBIQUE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Mozambique Metical",
+  "currencyNumericCode": 943,
+  "itu": "MOZ",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-MZ",
+    "vmw"
+  ],
+  "m49": 508,
+  "marc": "mz",
+  "tld": ".mz",
+  "wmo": "MZ"
+}

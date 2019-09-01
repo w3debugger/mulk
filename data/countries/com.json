@@ -1,0 +1,31 @@
+{
+  "capital": "Moroni",
+  "continent": "AF",
+  "name": "Comoros",
+  "officialName": "Comoros",
+  "distSign": "KM",
+  "dialCode": "269",
+  "edgar": "F9",
+  "fifa": "COM",
+  "fips": "CN",
+  "gaul": "58",
+  "geoNameId": "921929",
+  "olympicsId": "COM",
+  "iso2": "KM",
+  "iso3": "COM",
+  "currencyCode": "KMF",
+  "currencyCountryName": "COMOROS",
+  "currencyMinorUnit": 0,
+  "currencyName": "Comoro Franc",
+  "currencyNumericCode": 174,
+  "itu": "COM",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar",
+    "fr-KM"
+  ],
+  "m49": 174,
+  "marc": "cq",
+  "tld": ".km",
+  "wmo": "IC"
+}

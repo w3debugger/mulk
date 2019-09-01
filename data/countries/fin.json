@@ -1,0 +1,32 @@
+{
+  "capital": "Helsinki",
+  "continent": "EU",
+  "name": "Finland",
+  "officialName": "Finland",
+  "distSign": "FIN",
+  "dialCode": "358",
+  "edgar": "H9",
+  "fifa": "FIN",
+  "fips": "FI",
+  "gaul": "84",
+  "geoNameId": "660013",
+  "olympicsId": "FIN",
+  "iso2": "FI",
+  "iso3": "FIN",
+  "currencyCode": "EUR",
+  "currencyCountryName": "FINLAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "FIN",
+  "isIndependent": "Yes",
+  "languages": [
+    "fi-FI",
+    "sv-FI",
+    "smn"
+  ],
+  "m49": 246,
+  "marc": "fi",
+  "tld": ".fi",
+  "wmo": "FI"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Macao",
+  "continent": "AS",
+  "name": "Macau",
+  "officialName": "China, Macao Special Administrative Region",
+  "distSign": "MO",
+  "dialCode": "853",
+  "edgar": null,
+  "fifa": "MAC",
+  "fips": "MC",
+  "gaul": "149",
+  "geoNameId": "1821275",
+  "olympicsId": "MAC",
+  "iso2": "MO",
+  "iso3": "MAC",
+  "currencyCode": "MOP",
+  "currencyCountryName": "MACAO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pataca",
+  "currencyNumericCode": 446,
+  "itu": "MAC",
+  "isIndependent": "Part of CN",
+  "languages": [
+    "zh",
+    "zh-MO",
+    "pt"
+  ],
+  "m49": 446,
+  "marc": null,
+  "tld": ".mo",
+  "wmo": "MU"
+}

@@ -1,0 +1,33 @@
+{
+  "capital": "Jakarta",
+  "continent": "AS",
+  "name": "Indonesia",
+  "officialName": "Indonesia",
+  "distSign": "RI",
+  "dialCode": "62",
+  "edgar": "K8",
+  "fifa": "IDN",
+  "fips": "ID",
+  "gaul": "116",
+  "geoNameId": "1643084",
+  "olympicsId": "INA",
+  "iso2": "ID",
+  "iso3": "IDN",
+  "currencyCode": "IDR",
+  "currencyCountryName": "INDONESIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Rupiah",
+  "currencyNumericCode": 360,
+  "itu": "INS",
+  "isIndependent": "Yes",
+  "languages": [
+    "id",
+    "en",
+    "nl",
+    "jv"
+  ],
+  "m49": 360,
+  "marc": "io",
+  "tld": ".id",
+  "wmo": "ID"
+}

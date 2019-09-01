@@ -1,0 +1,31 @@
+{
+  "capital": "Bratislava",
+  "continent": "EU",
+  "name": "Slovakia",
+  "officialName": "Slovakia",
+  "distSign": "SK",
+  "dialCode": "421",
+  "edgar": "2B",
+  "fifa": "SVK",
+  "fips": "LO",
+  "gaul": "223",
+  "geoNameId": "3057568",
+  "olympicsId": "SVK",
+  "iso2": "SK",
+  "iso3": "SVK",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SLOVAKIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "SVK",
+  "isIndependent": "Yes",
+  "languages": [
+    "sk",
+    "hu"
+  ],
+  "m49": 703,
+  "marc": "xo",
+  "tld": ".sk",
+  "wmo": "SQ"
+}

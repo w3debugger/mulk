@@ -1,0 +1,31 @@
+{
+  "capital": "Zagreb",
+  "continent": "EU",
+  "name": "Croatia",
+  "officialName": "Croatia",
+  "distSign": "HR",
+  "dialCode": "385",
+  "edgar": "1M",
+  "fifa": "CRO",
+  "fips": "HR",
+  "gaul": "62",
+  "geoNameId": "3202326",
+  "olympicsId": "CRO",
+  "iso2": "HR",
+  "iso3": "HRV",
+  "currencyCode": "HRK",
+  "currencyCountryName": "CROATIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Croatian Kuna",
+  "currencyNumericCode": 191,
+  "itu": "HRV",
+  "isIndependent": "Yes",
+  "languages": [
+    "hr-HR",
+    "sr"
+  ],
+  "m49": 191,
+  "marc": "ci",
+  "tld": ".hr",
+  "wmo": "RH"
+}

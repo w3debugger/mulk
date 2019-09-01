@@ -1,0 +1,33 @@
+{
+  "capital": "Belgrade",
+  "continent": "EU",
+  "name": "Serbia",
+  "officialName": "Serbia",
+  "distSign": "SRB",
+  "dialCode": "381 p",
+  "edgar": "Z2",
+  "fifa": "SRB",
+  "fips": "RI,KV",
+  "gaul": "2648",
+  "geoNameId": "6290252",
+  "olympicsId": "SRB",
+  "iso2": "RS",
+  "iso3": "SRB",
+  "currencyCode": "RSD",
+  "currencyCountryName": "SERBIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Serbian Dinar",
+  "currencyNumericCode": 941,
+  "itu": "SRB",
+  "isIndependent": "Yes",
+  "languages": [
+    "sr",
+    "hu",
+    "bs",
+    "rom"
+  ],
+  "m49": 688,
+  "marc": "rb",
+  "tld": ".rs",
+  "wmo": "YG"
+}

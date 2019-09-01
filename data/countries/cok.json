@@ -1,0 +1,31 @@
+{
+  "capital": "Avarua",
+  "continent": "OC",
+  "name": "Cook Islands",
+  "officialName": "Cook Islands",
+  "distSign": "NZ",
+  "dialCode": "682",
+  "edgar": "G1",
+  "fifa": "COK",
+  "fips": "CW",
+  "gaul": "60",
+  "geoNameId": "1899402",
+  "olympicsId": "COK",
+  "iso2": "CK",
+  "iso3": "COK",
+  "currencyCode": "NZD",
+  "currencyCountryName": "COOK ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Zealand Dollar",
+  "currencyNumericCode": 554,
+  "itu": "CKH",
+  "isIndependent": "Associated with NZ",
+  "languages": [
+    "en-CK",
+    "mi"
+  ],
+  "m49": 184,
+  "marc": "cw",
+  "tld": ".ck",
+  "wmo": "KU"
+}

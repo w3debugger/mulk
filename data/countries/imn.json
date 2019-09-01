@@ -1,0 +1,31 @@
+{
+  "capital": "Douglas",
+  "continent": "EU",
+  "name": "Isle of Man",
+  "officialName": "Isle of Man",
+  "distSign": "GBM",
+  "dialCode": "44",
+  "edgar": "Y8",
+  "fifa": "GBM",
+  "fips": "IM",
+  "gaul": "120",
+  "geoNameId": "3042225",
+  "olympicsId": null,
+  "iso2": "IM",
+  "iso3": "IMN",
+  "currencyCode": "GBP",
+  "currencyCountryName": "ISLE OF MAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pound Sterling",
+  "currencyNumericCode": 826,
+  "itu": null,
+  "isIndependent": "Crown dependency of GB",
+  "languages": [
+    "en",
+    "gv"
+  ],
+  "m49": 833,
+  "marc": "uik",
+  "tld": ".im",
+  "wmo": null
+}

@@ -1,0 +1,33 @@
+{
+  "capital": "Brasilia",
+  "continent": "SA",
+  "name": "Brazil",
+  "officialName": "Brazil",
+  "distSign": "BR",
+  "dialCode": "55",
+  "edgar": "D5",
+  "fifa": "BRA",
+  "fips": "BR",
+  "gaul": "37",
+  "geoNameId": "3469034",
+  "olympicsId": "BRA",
+  "iso2": "BR",
+  "iso3": "BRA",
+  "currencyCode": "BRL",
+  "currencyCountryName": "BRAZIL",
+  "currencyMinorUnit": 2,
+  "currencyName": "Brazilian Real",
+  "currencyNumericCode": 986,
+  "itu": "B",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-BR",
+    "es",
+    "en",
+    "fr"
+  ],
+  "m49": 76,
+  "marc": "bl",
+  "tld": ".br",
+  "wmo": "BZ"
+}

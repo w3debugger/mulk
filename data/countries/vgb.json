@@ -1,0 +1,30 @@
+{
+  "capital": "Road Town",
+  "continent": "NA",
+  "name": "British Virgin Islands",
+  "officialName": "British Virgin Islands",
+  "distSign": "BVI",
+  "dialCode": "1-284",
+  "edgar": null,
+  "fifa": "VGB",
+  "fips": "VI",
+  "gaul": "39",
+  "geoNameId": "3577718",
+  "olympicsId": "IVB",
+  "iso2": "VG",
+  "iso3": "VGB",
+  "currencyCode": "USD",
+  "currencyCountryName": "VIRGIN ISLANDS (BRITISH)",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "VRG",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-VG"
+  ],
+  "m49": 92,
+  "marc": "vb",
+  "tld": ".vg",
+  "wmo": "VI"
+}

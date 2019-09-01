@@ -1,0 +1,30 @@
+{
+  "capital": "Ouagadougou",
+  "continent": "AF",
+  "name": "Burkina Faso",
+  "officialName": "Burkina Faso",
+  "distSign": "BF",
+  "dialCode": "226",
+  "edgar": "X2",
+  "fifa": "BFA",
+  "fips": "UV",
+  "gaul": "42",
+  "geoNameId": "2361809",
+  "olympicsId": "BUR",
+  "iso2": "BF",
+  "iso3": "BFA",
+  "currencyCode": "XOF",
+  "currencyCountryName": "BURKINA FASO",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "BFA",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-BF"
+  ],
+  "m49": 854,
+  "marc": "uv",
+  "tld": ".bf",
+  "wmo": "HV"
+}

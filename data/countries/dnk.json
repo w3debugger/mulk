@@ -1,0 +1,33 @@
+{
+  "capital": "Copenhagen",
+  "continent": "EU",
+  "name": "Denmark",
+  "officialName": "Denmark",
+  "distSign": "DK",
+  "dialCode": "45",
+  "edgar": "G7",
+  "fifa": "DEN",
+  "fips": "DA",
+  "gaul": "69",
+  "geoNameId": "2623032",
+  "olympicsId": "DEN",
+  "iso2": "DK",
+  "iso3": "DNK",
+  "currencyCode": "DKK",
+  "currencyCountryName": "DENMARK",
+  "currencyMinorUnit": 2,
+  "currencyName": "Danish Krone",
+  "currencyNumericCode": 208,
+  "itu": "DNK",
+  "isIndependent": "Yes",
+  "languages": [
+    "da-DK",
+    "en",
+    "fo",
+    "de-DK"
+  ],
+  "m49": 208,
+  "marc": "dk",
+  "tld": ".dk",
+  "wmo": "DN"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Riyadh",
+  "continent": "AS",
+  "name": "Saudi Arabia",
+  "officialName": "Saudi Arabia",
+  "distSign": "SA",
+  "dialCode": "966",
+  "edgar": "T0",
+  "fifa": "KSA",
+  "fips": "SA",
+  "gaul": "215",
+  "geoNameId": "102358",
+  "olympicsId": "KSA",
+  "iso2": "SA",
+  "iso3": "SAU",
+  "currencyCode": "SAR",
+  "currencyCountryName": "SAUDI ARABIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Saudi Riyal",
+  "currencyNumericCode": 682,
+  "itu": "ARS",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-SA"
+  ],
+  "m49": 682,
+  "marc": "su",
+  "tld": ".sa",
+  "wmo": "SD"
+}

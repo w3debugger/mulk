@@ -1,0 +1,33 @@
+{
+  "capital": "Kampala",
+  "continent": "AF",
+  "name": "Uganda",
+  "officialName": "Uganda",
+  "distSign": "EAU",
+  "dialCode": "256",
+  "edgar": "W9",
+  "fifa": "UGA",
+  "fips": "UG",
+  "gaul": "253",
+  "geoNameId": "226074",
+  "olympicsId": "UGA",
+  "iso2": "UG",
+  "iso3": "UGA",
+  "currencyCode": "UGX",
+  "currencyCountryName": "UGANDA",
+  "currencyMinorUnit": 0,
+  "currencyName": "Uganda Shilling",
+  "currencyNumericCode": 800,
+  "itu": "UGA",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-UG",
+    "lg",
+    "sw",
+    "ar"
+  ],
+  "m49": 800,
+  "marc": "ug",
+  "tld": ".ug",
+  "wmo": "UG"
+}

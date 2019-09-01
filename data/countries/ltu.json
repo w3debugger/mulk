@@ -1,0 +1,32 @@
+{
+  "capital": "Vilnius",
+  "continent": "EU",
+  "name": "Lithuania",
+  "officialName": "Lithuania",
+  "distSign": "LT",
+  "dialCode": "370",
+  "edgar": "1Q",
+  "fifa": "LTU",
+  "fips": "LH",
+  "gaul": "147",
+  "geoNameId": "597427",
+  "olympicsId": "LTU",
+  "iso2": "LT",
+  "iso3": "LTU",
+  "currencyCode": "EUR",
+  "currencyCountryName": "LITHUANIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "LTU",
+  "isIndependent": "Yes",
+  "languages": [
+    "lt",
+    "ru",
+    "pl"
+  ],
+  "m49": 440,
+  "marc": "li",
+  "tld": ".lt",
+  "wmo": "LT"
+}

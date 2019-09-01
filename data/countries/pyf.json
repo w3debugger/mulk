@@ -1,0 +1,31 @@
+{
+  "capital": "Papeete",
+  "continent": "OC",
+  "name": "French Polynesia",
+  "officialName": "French Polynesia",
+  "distSign": "F",
+  "dialCode": "689",
+  "edgar": "I4",
+  "fifa": "TAH",
+  "fips": "FP",
+  "gaul": "87",
+  "geoNameId": "4030656",
+  "olympicsId": "FPO",
+  "iso2": "PF",
+  "iso3": "PYF",
+  "currencyCode": "XPF",
+  "currencyCountryName": "FRENCH POLYNESIA",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFP Franc",
+  "currencyNumericCode": 953,
+  "itu": "OCE",
+  "isIndependent": "Territory of FR",
+  "languages": [
+    "fr-PF",
+    "ty"
+  ],
+  "m49": 258,
+  "marc": "fp",
+  "tld": ".pf",
+  "wmo": "PF"
+}

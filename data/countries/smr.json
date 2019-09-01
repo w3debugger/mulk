@@ -1,0 +1,30 @@
+{
+  "capital": "San Marino",
+  "continent": "EU",
+  "name": "San Marino",
+  "officialName": "San Marino",
+  "distSign": "RSM",
+  "dialCode": "378",
+  "edgar": "S8",
+  "fifa": "SMR",
+  "fips": "SM",
+  "gaul": "213",
+  "geoNameId": "3168068",
+  "olympicsId": "SMR",
+  "iso2": "SM",
+  "iso3": "SMR",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SAN MARINO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "SMR",
+  "isIndependent": "Yes",
+  "languages": [
+    "it-SM"
+  ],
+  "m49": 674,
+  "marc": "sm",
+  "tld": ".sm",
+  "wmo": null
+}

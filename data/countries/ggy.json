@@ -1,0 +1,31 @@
+{
+  "capital": "St Peter Port",
+  "continent": "EU",
+  "name": "Guernsey",
+  "officialName": "Guernsey",
+  "distSign": "GBG",
+  "dialCode": "44",
+  "edgar": "Y7",
+  "fifa": "GBG",
+  "fips": "GK",
+  "gaul": "104",
+  "geoNameId": "3042362",
+  "olympicsId": null,
+  "iso2": "GG",
+  "iso3": "GGY",
+  "currencyCode": "GBP",
+  "currencyCountryName": "GUERNSEY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Pound Sterling",
+  "currencyNumericCode": 826,
+  "itu": null,
+  "isIndependent": "Crown dependency of GB",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "m49": 831,
+  "marc": "uik",
+  "tld": ".gg",
+  "wmo": null
+}

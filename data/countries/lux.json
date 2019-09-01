@@ -1,0 +1,32 @@
+{
+  "capital": "Luxembourg",
+  "continent": "EU",
+  "name": "Luxembourg",
+  "officialName": "Luxembourg",
+  "distSign": "L",
+  "dialCode": "352",
+  "edgar": "N4",
+  "fifa": "LUX",
+  "fips": "LU",
+  "gaul": "148",
+  "geoNameId": "2960313",
+  "olympicsId": "LUX",
+  "iso2": "LU",
+  "iso3": "LUX",
+  "currencyCode": "EUR",
+  "currencyCountryName": "LUXEMBOURG",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "LUX",
+  "isIndependent": "Yes",
+  "languages": [
+    "lb",
+    "de-LU",
+    "fr-LU"
+  ],
+  "m49": 442,
+  "marc": "lu",
+  "tld": ".lu",
+  "wmo": "BX"
+}

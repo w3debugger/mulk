@@ -1,0 +1,30 @@
+{
+  "capital": "Conakry",
+  "continent": "AF",
+  "name": "Guinea",
+  "officialName": "Guinea",
+  "distSign": "RG",
+  "dialCode": "224",
+  "edgar": "J9",
+  "fifa": "GUI",
+  "fips": "GV",
+  "gaul": "106",
+  "geoNameId": "2420477",
+  "olympicsId": "GUI",
+  "iso2": "GN",
+  "iso3": "GIN",
+  "currencyCode": "GNF",
+  "currencyCountryName": "GUINEA",
+  "currencyMinorUnit": 0,
+  "currencyName": "Guinea Franc",
+  "currencyNumericCode": 324,
+  "itu": "GUI",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-GN"
+  ],
+  "m49": 324,
+  "marc": "gv",
+  "tld": ".gn",
+  "wmo": "GN"
+}

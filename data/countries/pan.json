@@ -1,0 +1,31 @@
+{
+  "capital": "Panama City",
+  "continent": "NA",
+  "name": "Panama",
+  "officialName": "Panama",
+  "distSign": "PA",
+  "dialCode": "507",
+  "edgar": "R1",
+  "fifa": "PAN",
+  "fips": "PM",
+  "gaul": "191",
+  "geoNameId": "3703430",
+  "olympicsId": "PAN",
+  "iso2": "PA",
+  "iso3": "PAN",
+  "currencyCode": "USD",
+  "currencyCountryName": "PANAMA",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "PNR",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-PA",
+    "en"
+  ],
+  "m49": 591,
+  "marc": "pn",
+  "tld": ".pa",
+  "wmo": "PM"
+}

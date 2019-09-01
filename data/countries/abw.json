@@ -1,0 +1,32 @@
+{
+  "capital": "Oranjestad",
+  "continent": "NA",
+  "name": "Aruba",
+  "officialName": "Aruba",
+  "distSign": "AW",
+  "dialCode": "297",
+  "edgar": "1C",
+  "fifa": "ARU",
+  "fips": "AA",
+  "gaul": "14",
+  "geoNameId": "3577279",
+  "olympicsId": "ARU",
+  "iso2": "AW",
+  "iso3": "ABW",
+  "currencyCode": "AWG",
+  "currencyCountryName": "ARUBA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Aruban Florin",
+  "currencyNumericCode": 533,
+  "itu": "ABW",
+  "isIndependent": "Part of NL",
+  "languages": [
+    "nl-AW",
+    "es",
+    "en"
+  ],
+  "m49": 533,
+  "marc": "aw",
+  "tld": ".aw",
+  "wmo": "NU"
+}

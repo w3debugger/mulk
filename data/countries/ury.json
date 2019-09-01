@@ -1,0 +1,30 @@
+{
+  "capital": "Montevideo",
+  "continent": "SA",
+  "name": "Uruguay",
+  "officialName": "Uruguay",
+  "distSign": "ROU",
+  "dialCode": "598",
+  "edgar": "X3",
+  "fifa": "URU",
+  "fips": "UY",
+  "gaul": "260",
+  "geoNameId": "3439705",
+  "olympicsId": "URU",
+  "iso2": "UY",
+  "iso3": "URY",
+  "currencyCode": "UYU",
+  "currencyCountryName": "URUGUAY",
+  "currencyMinorUnit": 2,
+  "currencyName": "Peso Uruguayo",
+  "currencyNumericCode": 858,
+  "itu": "URG",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-UY"
+  ],
+  "m49": 858,
+  "marc": "uy",
+  "tld": ".uy",
+  "wmo": "UY"
+}

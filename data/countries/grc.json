@@ -1,0 +1,32 @@
+{
+  "capital": "Athens",
+  "continent": "EU",
+  "name": "Greece",
+  "officialName": "Greece",
+  "distSign": "GR",
+  "dialCode": "30",
+  "edgar": "J3",
+  "fifa": "GRE",
+  "fips": "GR",
+  "gaul": "97",
+  "geoNameId": "390903",
+  "olympicsId": "GRE",
+  "iso2": "GR",
+  "iso3": "GRC",
+  "currencyCode": "EUR",
+  "currencyCountryName": "GREECE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "GRC",
+  "isIndependent": "Yes",
+  "languages": [
+    "el-GR",
+    "en",
+    "fr"
+  ],
+  "m49": 300,
+  "marc": "gr",
+  "tld": ".gr",
+  "wmo": "GR"
+}

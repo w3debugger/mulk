@@ -1,0 +1,32 @@
+{
+  "capital": "Port Louis",
+  "continent": "AF",
+  "name": "Mauritius",
+  "officialName": "Mauritius",
+  "distSign": "MS",
+  "dialCode": "230",
+  "edgar": "O4",
+  "fifa": "MRI",
+  "fips": "MP",
+  "gaul": "160",
+  "geoNameId": "934292",
+  "olympicsId": "MRI",
+  "iso2": "MU",
+  "iso3": "MUS",
+  "currencyCode": "MUR",
+  "currencyCountryName": "MAURITIUS",
+  "currencyMinorUnit": 2,
+  "currencyName": "Mauritius Rupee",
+  "currencyNumericCode": 480,
+  "itu": "MAU",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-MU",
+    "bho",
+    "fr"
+  ],
+  "m49": 480,
+  "marc": "mf",
+  "tld": ".mu",
+  "wmo": "MA"
+}

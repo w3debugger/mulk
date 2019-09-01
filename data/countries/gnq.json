@@ -1,0 +1,31 @@
+{
+  "capital": "Malabo",
+  "continent": "AF",
+  "name": "Equatorial Guinea",
+  "officialName": "Equatorial Guinea",
+  "distSign": "EQ",
+  "dialCode": "240",
+  "edgar": "H4",
+  "fifa": "EQG",
+  "fips": "EK",
+  "gaul": "76",
+  "geoNameId": "2309096",
+  "olympicsId": "GEQ",
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "currencyCode": "XAF",
+  "currencyCountryName": "EQUATORIAL GUINEA",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "GNE",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-GQ",
+    "fr"
+  ],
+  "m49": 226,
+  "marc": "eg",
+  "tld": ".gq",
+  "wmo": "GQ"
+}

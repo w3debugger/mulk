@@ -1,0 +1,2067 @@
+[
+  {
+    "fileName": "abw.json",
+    "match": [
+      "aruba",
+      "aw",
+      "abw"
+    ]
+  },
+  {
+    "fileName": "afg.json",
+    "match": [
+      "afghanistan",
+      "af",
+      "afg"
+    ]
+  },
+  {
+    "fileName": "ago.json",
+    "match": [
+      "angola",
+      "ao",
+      "ago",
+      "agl"
+    ]
+  },
+  {
+    "fileName": "aia.json",
+    "match": [
+      "anguilla",
+      "ai",
+      "aia"
+    ]
+  },
+  {
+    "fileName": "ala.json",
+    "match": [
+      "ãland islands",
+      "ax",
+      "ala"
+    ]
+  },
+  {
+    "fileName": "alb.json",
+    "match": [
+      "albania",
+      "al",
+      "alb"
+    ]
+  },
+  {
+    "fileName": "and.json",
+    "match": [
+      "andorra",
+      "ad",
+      "and"
+    ]
+  },
+  {
+    "fileName": "are.json",
+    "match": [
+      "united arab emirates",
+      "ae",
+      "are",
+      "uae"
+    ]
+  },
+  {
+    "fileName": "arg.json",
+    "match": [
+      "argentina",
+      "ar",
+      "arg"
+    ]
+  },
+  {
+    "fileName": "arm.json",
+    "match": [
+      "armenia",
+      "am",
+      "arm"
+    ]
+  },
+  {
+    "fileName": "asm.json",
+    "match": [
+      "american samoa",
+      "as",
+      "asm",
+      "sma"
+    ]
+  },
+  {
+    "fileName": "ata.json",
+    "match": [
+      "antarctica",
+      "aq",
+      "ata"
+    ]
+  },
+  {
+    "fileName": "atf.json",
+    "match": [
+      "french southern territories",
+      "tf",
+      "atf"
+    ]
+  },
+  {
+    "fileName": "atg.json",
+    "match": [
+      "antigua & barbuda",
+      "ag",
+      "atg"
+    ]
+  },
+  {
+    "fileName": "aus.json",
+    "match": [
+      "australia",
+      "au",
+      "aus"
+    ]
+  },
+  {
+    "fileName": "aut.json",
+    "match": [
+      "austria",
+      "at",
+      "aut"
+    ]
+  },
+  {
+    "fileName": "aze.json",
+    "match": [
+      "azerbaijan",
+      "az",
+      "aze"
+    ]
+  },
+  {
+    "fileName": "bdi.json",
+    "match": [
+      "burundi",
+      "bi",
+      "bdi"
+    ]
+  },
+  {
+    "fileName": "bel.json",
+    "match": [
+      "belgium",
+      "be",
+      "bel"
+    ]
+  },
+  {
+    "fileName": "ben.json",
+    "match": [
+      "benin",
+      "bj",
+      "ben"
+    ]
+  },
+  {
+    "fileName": "bes.json",
+    "match": [
+      "caribbean netherlands",
+      "bq",
+      "bes",
+      "atn"
+    ]
+  },
+  {
+    "fileName": "bfa.json",
+    "match": [
+      "burkina faso",
+      "bf",
+      "bfa"
+    ]
+  },
+  {
+    "fileName": "bgd.json",
+    "match": [
+      "bangladesh",
+      "bd",
+      "bgd"
+    ]
+  },
+  {
+    "fileName": "bgr.json",
+    "match": [
+      "bulgaria",
+      "bg",
+      "bgr",
+      "bul"
+    ]
+  },
+  {
+    "fileName": "bhr.json",
+    "match": [
+      "bahrain",
+      "bh",
+      "bhr"
+    ]
+  },
+  {
+    "fileName": "bhs.json",
+    "match": [
+      "bahamas",
+      "bs",
+      "bhs",
+      "bah"
+    ]
+  },
+  {
+    "fileName": "bih.json",
+    "match": [
+      "bosnia",
+      "ba",
+      "bih"
+    ]
+  },
+  {
+    "fileName": "blm.json",
+    "match": [
+      "saint barthélemy",
+      "bl",
+      "blm"
+    ]
+  },
+  {
+    "fileName": "blr.json",
+    "match": [
+      "belarus",
+      "by",
+      "blr"
+    ]
+  },
+  {
+    "fileName": "blz.json",
+    "match": [
+      "belize",
+      "bz",
+      "blz"
+    ]
+  },
+  {
+    "fileName": "bmu.json",
+    "match": [
+      "bermuda",
+      "bm",
+      "bmu",
+      "ber"
+    ]
+  },
+  {
+    "fileName": "bol.json",
+    "match": [
+      "bolivia",
+      "bo",
+      "bol"
+    ]
+  },
+  {
+    "fileName": "bra.json",
+    "match": [
+      "brazil",
+      "br",
+      "bra",
+      "b"
+    ]
+  },
+  {
+    "fileName": "brb.json",
+    "match": [
+      "barbados",
+      "bb",
+      "brb"
+    ]
+  },
+  {
+    "fileName": "brn.json",
+    "match": [
+      "brunei",
+      "bn",
+      "brn",
+      "bru"
+    ]
+  },
+  {
+    "fileName": "btn.json",
+    "match": [
+      "bhutan",
+      "bt",
+      "btn"
+    ]
+  },
+  {
+    "fileName": "bvt.json",
+    "match": [
+      "bouvet island",
+      "bv",
+      "bvt"
+    ]
+  },
+  {
+    "fileName": "bwa.json",
+    "match": [
+      "botswana",
+      "bw",
+      "bwa",
+      "bot"
+    ]
+  },
+  {
+    "fileName": "caf.json",
+    "match": [
+      "central african republic",
+      "cf",
+      "caf"
+    ]
+  },
+  {
+    "fileName": "can.json",
+    "match": [
+      "canada",
+      "ca",
+      "can"
+    ]
+  },
+  {
+    "fileName": "cck.json",
+    "match": [
+      "cocos (keeling) islands",
+      "cc",
+      "cck",
+      "ico"
+    ]
+  },
+  {
+    "fileName": "che.json",
+    "match": [
+      "switzerland",
+      "ch",
+      "che",
+      "sui"
+    ]
+  },
+  {
+    "fileName": "chl.json",
+    "match": [
+      "chile",
+      "cl",
+      "chl"
+    ]
+  },
+  {
+    "fileName": "chn.json",
+    "match": [
+      "china",
+      "cn",
+      "chn"
+    ]
+  },
+  {
+    "fileName": "civ.json",
+    "match": [
+      "côte d'ivoire",
+      "ci",
+      "civ",
+      "cti"
+    ]
+  },
+  {
+    "fileName": "cmr.json",
+    "match": [
+      "cameroon",
+      "cm",
+      "cmr",
+      "cme"
+    ]
+  },
+  {
+    "fileName": "cod.json",
+    "match": [
+      "congo - kinshasa",
+      "cd",
+      "cod"
+    ]
+  },
+  {
+    "fileName": "cog.json",
+    "match": [
+      "congo - brazzaville",
+      "cg",
+      "cog"
+    ]
+  },
+  {
+    "fileName": "cok.json",
+    "match": [
+      "cook islands",
+      "ck",
+      "cok",
+      "ckh"
+    ]
+  },
+  {
+    "fileName": "col.json",
+    "match": [
+      "colombia",
+      "co",
+      "col",
+      "clm"
+    ]
+  },
+  {
+    "fileName": "com.json",
+    "match": [
+      "comoros",
+      "km",
+      "com"
+    ]
+  },
+  {
+    "fileName": "cpv.json",
+    "match": [
+      "cape verde",
+      "cv",
+      "cpv"
+    ]
+  },
+  {
+    "fileName": "cri.json",
+    "match": [
+      "costa rica",
+      "cr",
+      "cri",
+      "ctr"
+    ]
+  },
+  {
+    "fileName": "cub.json",
+    "match": [
+      "cuba",
+      "cu",
+      "cub"
+    ]
+  },
+  {
+    "fileName": "cuw.json",
+    "match": [
+      "curaçao",
+      "cw",
+      "cuw"
+    ]
+  },
+  {
+    "fileName": "cxr.json",
+    "match": [
+      "christmas island",
+      "cx",
+      "cxr",
+      "chr"
+    ]
+  },
+  {
+    "fileName": "cym.json",
+    "match": [
+      "cayman islands",
+      "ky",
+      "cym"
+    ]
+  },
+  {
+    "fileName": "cyp.json",
+    "match": [
+      "cyprus",
+      "cy",
+      "cyp"
+    ]
+  },
+  {
+    "fileName": "cze.json",
+    "match": [
+      "czech republic",
+      "cz",
+      "cze"
+    ]
+  },
+  {
+    "fileName": "deu.json",
+    "match": [
+      "germany",
+      "de",
+      "deu",
+      "d"
+    ]
+  },
+  {
+    "fileName": "dji.json",
+    "match": [
+      "djibouti",
+      "dj",
+      "dji"
+    ]
+  },
+  {
+    "fileName": "dma.json",
+    "match": [
+      "dominica",
+      "dm",
+      "dma"
+    ]
+  },
+  {
+    "fileName": "dnk.json",
+    "match": [
+      "denmark",
+      "dk",
+      "dnk"
+    ]
+  },
+  {
+    "fileName": "dom.json",
+    "match": [
+      "dominican republic",
+      "do",
+      "dom"
+    ]
+  },
+  {
+    "fileName": "dza.json",
+    "match": [
+      "algeria",
+      "dz",
+      "dza",
+      "alg"
+    ]
+  },
+  {
+    "fileName": "ecu.json",
+    "match": [
+      "ecuador",
+      "ec",
+      "ecu",
+      "eqa"
+    ]
+  },
+  {
+    "fileName": "egy.json",
+    "match": [
+      "egypt",
+      "eg",
+      "egy"
+    ]
+  },
+  {
+    "fileName": "eri.json",
+    "match": [
+      "eritrea",
+      "er",
+      "eri"
+    ]
+  },
+  {
+    "fileName": "esh.json",
+    "match": [
+      "western sahara",
+      "eh",
+      "esh",
+      "aoe"
+    ]
+  },
+  {
+    "fileName": "esp.json",
+    "match": [
+      "spain",
+      "es",
+      "esp",
+      "e"
+    ]
+  },
+  {
+    "fileName": "est.json",
+    "match": [
+      "estonia",
+      "ee",
+      "est"
+    ]
+  },
+  {
+    "fileName": "eth.json",
+    "match": [
+      "ethiopia",
+      "et",
+      "eth"
+    ]
+  },
+  {
+    "fileName": "fin.json",
+    "match": [
+      "finland",
+      "fi",
+      "fin"
+    ]
+  },
+  {
+    "fileName": "fji.json",
+    "match": [
+      "fiji",
+      "fj",
+      "fji"
+    ]
+  },
+  {
+    "fileName": "flk.json",
+    "match": [
+      "falkland islands",
+      "fk",
+      "flk"
+    ]
+  },
+  {
+    "fileName": "fra.json",
+    "match": [
+      "france",
+      "fr",
+      "fra",
+      "f"
+    ]
+  },
+  {
+    "fileName": "fro.json",
+    "match": [
+      "faroe islands",
+      "fo",
+      "fro"
+    ]
+  },
+  {
+    "fileName": "fsm.json",
+    "match": [
+      "micronesia",
+      "fm",
+      "fsm"
+    ]
+  },
+  {
+    "fileName": "gab.json",
+    "match": [
+      "gabon",
+      "ga",
+      "gab"
+    ]
+  },
+  {
+    "fileName": "gbr.json",
+    "match": [
+      "uk",
+      "gb",
+      "gbr",
+      "g"
+    ]
+  },
+  {
+    "fileName": "geo.json",
+    "match": [
+      "georgia",
+      "ge",
+      "geo"
+    ]
+  },
+  {
+    "fileName": "ggy.json",
+    "match": [
+      "guernsey",
+      "gg",
+      "ggy"
+    ]
+  },
+  {
+    "fileName": "gha.json",
+    "match": [
+      "ghana",
+      "gh",
+      "gha"
+    ]
+  },
+  {
+    "fileName": "gib.json",
+    "match": [
+      "gibraltar",
+      "gi",
+      "gib"
+    ]
+  },
+  {
+    "fileName": "gin.json",
+    "match": [
+      "guinea",
+      "gn",
+      "gin",
+      "gui"
+    ]
+  },
+  {
+    "fileName": "glp.json",
+    "match": [
+      "guadeloupe",
+      "gp",
+      "glp",
+      "gdl"
+    ]
+  },
+  {
+    "fileName": "gmb.json",
+    "match": [
+      "gambia",
+      "gm",
+      "gmb"
+    ]
+  },
+  {
+    "fileName": "gnb.json",
+    "match": [
+      "guinea-bissau",
+      "gw",
+      "gnb"
+    ]
+  },
+  {
+    "fileName": "gnq.json",
+    "match": [
+      "equatorial guinea",
+      "gq",
+      "gnq",
+      "gne"
+    ]
+  },
+  {
+    "fileName": "grc.json",
+    "match": [
+      "greece",
+      "gr",
+      "grc"
+    ]
+  },
+  {
+    "fileName": "grd.json",
+    "match": [
+      "grenada",
+      "gd",
+      "grd"
+    ]
+  },
+  {
+    "fileName": "grl.json",
+    "match": [
+      "greenland",
+      "gl",
+      "grl"
+    ]
+  },
+  {
+    "fileName": "gtm.json",
+    "match": [
+      "guatemala",
+      "gt",
+      "gtm"
+    ]
+  },
+  {
+    "fileName": "guf.json",
+    "match": [
+      "french guiana",
+      "gf",
+      "guf"
+    ]
+  },
+  {
+    "fileName": "gum.json",
+    "match": [
+      "guam",
+      "gu",
+      "gum"
+    ]
+  },
+  {
+    "fileName": "guy.json",
+    "match": [
+      "guyana",
+      "gy",
+      "guy"
+    ]
+  },
+  {
+    "fileName": "hkg.json",
+    "match": [
+      "hong kong",
+      "hk",
+      "hkg"
+    ]
+  },
+  {
+    "fileName": "hmd.json",
+    "match": [
+      "heard & mcdonald islands",
+      "hm",
+      "hmd"
+    ]
+  },
+  {
+    "fileName": "hnd.json",
+    "match": [
+      "honduras",
+      "hn",
+      "hnd"
+    ]
+  },
+  {
+    "fileName": "hrv.json",
+    "match": [
+      "croatia",
+      "hr",
+      "hrv"
+    ]
+  },
+  {
+    "fileName": "hti.json",
+    "match": [
+      "haiti",
+      "ht",
+      "hti"
+    ]
+  },
+  {
+    "fileName": "hun.json",
+    "match": [
+      "hungary",
+      "hu",
+      "hun",
+      "hng"
+    ]
+  },
+  {
+    "fileName": "idn.json",
+    "match": [
+      "indonesia",
+      "id",
+      "idn",
+      "ins"
+    ]
+  },
+  {
+    "fileName": "imn.json",
+    "match": [
+      "isle of man",
+      "im",
+      "imn"
+    ]
+  },
+  {
+    "fileName": "ind.json",
+    "match": [
+      "india",
+      "in",
+      "ind"
+    ]
+  },
+  {
+    "fileName": "iot.json",
+    "match": [
+      "british indian ocean territory",
+      "io",
+      "iot",
+      "bio"
+    ]
+  },
+  {
+    "fileName": "irl.json",
+    "match": [
+      "ireland",
+      "ie",
+      "irl"
+    ]
+  },
+  {
+    "fileName": "irn.json",
+    "match": [
+      "iran",
+      "ir",
+      "irn"
+    ]
+  },
+  {
+    "fileName": "irq.json",
+    "match": [
+      "iraq",
+      "iq",
+      "irq"
+    ]
+  },
+  {
+    "fileName": "isl.json",
+    "match": [
+      "iceland",
+      "is",
+      "isl"
+    ]
+  },
+  {
+    "fileName": "isr.json",
+    "match": [
+      "israel",
+      "il",
+      "isr"
+    ]
+  },
+  {
+    "fileName": "ita.json",
+    "match": [
+      "italy",
+      "it",
+      "ita",
+      "i"
+    ]
+  },
+  {
+    "fileName": "jam.json",
+    "match": [
+      "jamaica",
+      "jm",
+      "jam",
+      "jmc"
+    ]
+  },
+  {
+    "fileName": "jey.json",
+    "match": [
+      "jersey",
+      "je",
+      "jey"
+    ]
+  },
+  {
+    "fileName": "jor.json",
+    "match": [
+      "jordan",
+      "jo",
+      "jor"
+    ]
+  },
+  {
+    "fileName": "jpn.json",
+    "match": [
+      "japan",
+      "jp",
+      "jpn",
+      "j"
+    ]
+  },
+  {
+    "fileName": "kaz.json",
+    "match": [
+      "kazakhstan",
+      "kz",
+      "kaz"
+    ]
+  },
+  {
+    "fileName": "ken.json",
+    "match": [
+      "kenya",
+      "ke",
+      "ken"
+    ]
+  },
+  {
+    "fileName": "kgz.json",
+    "match": [
+      "kyrgyzstan",
+      "kg",
+      "kgz"
+    ]
+  },
+  {
+    "fileName": "khm.json",
+    "match": [
+      "cambodia",
+      "kh",
+      "khm",
+      "cbg"
+    ]
+  },
+  {
+    "fileName": "kir.json",
+    "match": [
+      "kiribati",
+      "ki",
+      "kir"
+    ]
+  },
+  {
+    "fileName": "kna.json",
+    "match": [
+      "st. kitts & nevis",
+      "kn",
+      "kna"
+    ]
+  },
+  {
+    "fileName": "kor.json",
+    "match": [
+      "south korea",
+      "kr",
+      "kor"
+    ]
+  },
+  {
+    "fileName": "kwt.json",
+    "match": [
+      "kuwait",
+      "kw",
+      "kwt"
+    ]
+  },
+  {
+    "fileName": "lao.json",
+    "match": [
+      "laos",
+      "la",
+      "lao"
+    ]
+  },
+  {
+    "fileName": "lbn.json",
+    "match": [
+      "lebanon",
+      "lb",
+      "lbn"
+    ]
+  },
+  {
+    "fileName": "lbr.json",
+    "match": [
+      "liberia",
+      "lr",
+      "lbr"
+    ]
+  },
+  {
+    "fileName": "lby.json",
+    "match": [
+      "libya",
+      "ly",
+      "lby"
+    ]
+  },
+  {
+    "fileName": "lca.json",
+    "match": [
+      "st. lucia",
+      "lc",
+      "lca"
+    ]
+  },
+  {
+    "fileName": "lie.json",
+    "match": [
+      "liechtenstein",
+      "li",
+      "lie"
+    ]
+  },
+  {
+    "fileName": "lka.json",
+    "match": [
+      "sri lanka",
+      "lk",
+      "lka",
+      "cln"
+    ]
+  },
+  {
+    "fileName": "lso.json",
+    "match": [
+      "lesotho",
+      "ls",
+      "lso"
+    ]
+  },
+  {
+    "fileName": "ltu.json",
+    "match": [
+      "lithuania",
+      "lt",
+      "ltu"
+    ]
+  },
+  {
+    "fileName": "lux.json",
+    "match": [
+      "luxembourg",
+      "lu",
+      "lux"
+    ]
+  },
+  {
+    "fileName": "lva.json",
+    "match": [
+      "latvia",
+      "lv",
+      "lva"
+    ]
+  },
+  {
+    "fileName": "mac.json",
+    "match": [
+      "macau",
+      "mo",
+      "mac"
+    ]
+  },
+  {
+    "fileName": "maf.json",
+    "match": [
+      "st. martin",
+      "mf",
+      "maf"
+    ]
+  },
+  {
+    "fileName": "mar.json",
+    "match": [
+      "morocco",
+      "ma",
+      "mar",
+      "mrc"
+    ]
+  },
+  {
+    "fileName": "mco.json",
+    "match": [
+      "monaco",
+      "mc",
+      "mco"
+    ]
+  },
+  {
+    "fileName": "mda.json",
+    "match": [
+      "moldova",
+      "md",
+      "mda"
+    ]
+  },
+  {
+    "fileName": "mdg.json",
+    "match": [
+      "madagascar",
+      "mg",
+      "mdg"
+    ]
+  },
+  {
+    "fileName": "mdv.json",
+    "match": [
+      "maldives",
+      "mv",
+      "mdv",
+      "mld"
+    ]
+  },
+  {
+    "fileName": "mex.json",
+    "match": [
+      "mexico",
+      "mx",
+      "mex"
+    ]
+  },
+  {
+    "fileName": "mhl.json",
+    "match": [
+      "marshall islands",
+      "mh",
+      "mhl"
+    ]
+  },
+  {
+    "fileName": "mkd.json",
+    "match": [
+      "macedonia",
+      "mk",
+      "mkd"
+    ]
+  },
+  {
+    "fileName": "mli.json",
+    "match": [
+      "mali",
+      "ml",
+      "mli"
+    ]
+  },
+  {
+    "fileName": "mlt.json",
+    "match": [
+      "malta",
+      "mt",
+      "mlt"
+    ]
+  },
+  {
+    "fileName": "mmr.json",
+    "match": [
+      "myanmar",
+      "mm",
+      "mmr",
+      "mya"
+    ]
+  },
+  {
+    "fileName": "mne.json",
+    "match": [
+      "montenegro",
+      "me",
+      "mne"
+    ]
+  },
+  {
+    "fileName": "mng.json",
+    "match": [
+      "mongolia",
+      "mn",
+      "mng"
+    ]
+  },
+  {
+    "fileName": "mnp.json",
+    "match": [
+      "northern mariana islands",
+      "mp",
+      "mnp",
+      "mra"
+    ]
+  },
+  {
+    "fileName": "moz.json",
+    "match": [
+      "mozambique",
+      "mz",
+      "moz"
+    ]
+  },
+  {
+    "fileName": "mrt.json",
+    "match": [
+      "mauritania",
+      "mr",
+      "mrt",
+      "mtn"
+    ]
+  },
+  {
+    "fileName": "msr.json",
+    "match": [
+      "montserrat",
+      "ms",
+      "msr"
+    ]
+  },
+  {
+    "fileName": "mtq.json",
+    "match": [
+      "martinique",
+      "mq",
+      "mtq",
+      "mrt"
+    ]
+  },
+  {
+    "fileName": "mus.json",
+    "match": [
+      "mauritius",
+      "mu",
+      "mus",
+      "mau"
+    ]
+  },
+  {
+    "fileName": "mwi.json",
+    "match": [
+      "malawi",
+      "mw",
+      "mwi"
+    ]
+  },
+  {
+    "fileName": "mys.json",
+    "match": [
+      "malaysia",
+      "my",
+      "mys",
+      "mla"
+    ]
+  },
+  {
+    "fileName": "myt.json",
+    "match": [
+      "mayotte",
+      "yt",
+      "myt"
+    ]
+  },
+  {
+    "fileName": "nam.json",
+    "match": [
+      "namibia",
+      "na",
+      "nam",
+      "nmb"
+    ]
+  },
+  {
+    "fileName": "ncl.json",
+    "match": [
+      "new caledonia",
+      "nc",
+      "ncl"
+    ]
+  },
+  {
+    "fileName": "ner.json",
+    "match": [
+      "niger",
+      "ne",
+      "ner",
+      "ngr"
+    ]
+  },
+  {
+    "fileName": "nfk.json",
+    "match": [
+      "norfolk island",
+      "nf",
+      "nfk"
+    ]
+  },
+  {
+    "fileName": "nga.json",
+    "match": [
+      "nigeria",
+      "ng",
+      "nga",
+      "nig"
+    ]
+  },
+  {
+    "fileName": "nic.json",
+    "match": [
+      "nicaragua",
+      "ni",
+      "nic",
+      "ncg"
+    ]
+  },
+  {
+    "fileName": "niu.json",
+    "match": [
+      "niue",
+      "nu",
+      "niu"
+    ]
+  },
+  {
+    "fileName": "nld.json",
+    "match": [
+      "netherlands",
+      "nl",
+      "nld",
+      "hol"
+    ]
+  },
+  {
+    "fileName": "nor.json",
+    "match": [
+      "norway",
+      "no",
+      "nor"
+    ]
+  },
+  {
+    "fileName": "npl.json",
+    "match": [
+      "nepal",
+      "np",
+      "npl"
+    ]
+  },
+  {
+    "fileName": "nru.json",
+    "match": [
+      "nauru",
+      "nr",
+      "nru"
+    ]
+  },
+  {
+    "fileName": "nzl.json",
+    "match": [
+      "new zealand",
+      "nz",
+      "nzl"
+    ]
+  },
+  {
+    "fileName": "omn.json",
+    "match": [
+      "oman",
+      "om",
+      "omn",
+      "oma"
+    ]
+  },
+  {
+    "fileName": "pak.json",
+    "match": [
+      "pakistan",
+      "pk",
+      "pak"
+    ]
+  },
+  {
+    "fileName": "pan.json",
+    "match": [
+      "panama",
+      "pa",
+      "pan",
+      "pnr"
+    ]
+  },
+  {
+    "fileName": "pcn.json",
+    "match": [
+      "pitcairn islands",
+      "pn",
+      "pcn",
+      "ptc"
+    ]
+  },
+  {
+    "fileName": "per.json",
+    "match": [
+      "peru",
+      "pe",
+      "per",
+      "pru"
+    ]
+  },
+  {
+    "fileName": "phl.json",
+    "match": [
+      "philippines",
+      "ph",
+      "phl"
+    ]
+  },
+  {
+    "fileName": "plw.json",
+    "match": [
+      "palau",
+      "pw",
+      "plw"
+    ]
+  },
+  {
+    "fileName": "png.json",
+    "match": [
+      "papua new guinea",
+      "pg",
+      "png"
+    ]
+  },
+  {
+    "fileName": "pol.json",
+    "match": [
+      "poland",
+      "pl",
+      "pol"
+    ]
+  },
+  {
+    "fileName": "pri.json",
+    "match": [
+      "puerto rico",
+      "pr",
+      "pri",
+      "ptr"
+    ]
+  },
+  {
+    "fileName": "prk.json",
+    "match": [
+      "north korea",
+      "kp",
+      "prk",
+      "kre"
+    ]
+  },
+  {
+    "fileName": "prt.json",
+    "match": [
+      "portugal",
+      "pt",
+      "prt",
+      "por"
+    ]
+  },
+  {
+    "fileName": "pry.json",
+    "match": [
+      "paraguay",
+      "py",
+      "pry",
+      "prg"
+    ]
+  },
+  {
+    "fileName": "pse.json",
+    "match": [
+      "palestine",
+      "ps",
+      "pse"
+    ]
+  },
+  {
+    "fileName": "pyf.json",
+    "match": [
+      "french polynesia",
+      "pf",
+      "pyf",
+      "oce"
+    ]
+  },
+  {
+    "fileName": "qat.json",
+    "match": [
+      "qatar",
+      "qa",
+      "qat"
+    ]
+  },
+  {
+    "fileName": "reu.json",
+    "match": [
+      "réunion",
+      "re",
+      "reu"
+    ]
+  },
+  {
+    "fileName": "rou.json",
+    "match": [
+      "romania",
+      "ro",
+      "rou"
+    ]
+  },
+  {
+    "fileName": "rus.json",
+    "match": [
+      "russia",
+      "ru",
+      "rus"
+    ]
+  },
+  {
+    "fileName": "rwa.json",
+    "match": [
+      "rwanda",
+      "rw",
+      "rwa",
+      "rrw"
+    ]
+  },
+  {
+    "fileName": "sau.json",
+    "match": [
+      "saudi arabia",
+      "sa",
+      "sau",
+      "ars"
+    ]
+  },
+  {
+    "fileName": "sdn.json",
+    "match": [
+      "sudan",
+      "sd",
+      "sdn"
+    ]
+  },
+  {
+    "fileName": "sen.json",
+    "match": [
+      "senegal",
+      "sn",
+      "sen"
+    ]
+  },
+  {
+    "fileName": "sgp.json",
+    "match": [
+      "singapore",
+      "sg",
+      "sgp",
+      "sng"
+    ]
+  },
+  {
+    "fileName": "sgs.json",
+    "match": [
+      "south georgia & south sandwich islands",
+      "gs",
+      "sgs"
+    ]
+  },
+  {
+    "fileName": "shn.json",
+    "match": [
+      "st. helena",
+      "sh",
+      "shn"
+    ]
+  },
+  {
+    "fileName": "sjm.json",
+    "match": [
+      "svalbard & jan mayen",
+      "sj",
+      "sjm",
+      "nor"
+    ]
+  },
+  {
+    "fileName": "slb.json",
+    "match": [
+      "solomon islands",
+      "sb",
+      "slb",
+      "slm"
+    ]
+  },
+  {
+    "fileName": "sle.json",
+    "match": [
+      "sierra leone",
+      "sl",
+      "sle",
+      "srl"
+    ]
+  },
+  {
+    "fileName": "slv.json",
+    "match": [
+      "el salvador",
+      "sv",
+      "slv"
+    ]
+  },
+  {
+    "fileName": "smr.json",
+    "match": [
+      "san marino",
+      "sm",
+      "smr"
+    ]
+  },
+  {
+    "fileName": "som.json",
+    "match": [
+      "somalia",
+      "so",
+      "som"
+    ]
+  },
+  {
+    "fileName": "spm.json",
+    "match": [
+      "st. pierre & miquelon",
+      "pm",
+      "spm"
+    ]
+  },
+  {
+    "fileName": "srb.json",
+    "match": [
+      "serbia",
+      "rs",
+      "srb"
+    ]
+  },
+  {
+    "fileName": "ssd.json",
+    "match": [
+      "south sudan",
+      "ss",
+      "ssd"
+    ]
+  },
+  {
+    "fileName": "stp.json",
+    "match": [
+      "sao tome and principe",
+      "st",
+      "stp"
+    ]
+  },
+  {
+    "fileName": "sur.json",
+    "match": [
+      "suriname",
+      "sr",
+      "sur"
+    ]
+  },
+  {
+    "fileName": "svk.json",
+    "match": [
+      "slovakia",
+      "sk",
+      "svk"
+    ]
+  },
+  {
+    "fileName": "svn.json",
+    "match": [
+      "slovenia",
+      "si",
+      "svn"
+    ]
+  },
+  {
+    "fileName": "swe.json",
+    "match": [
+      "sweden",
+      "se",
+      "swe",
+      "s"
+    ]
+  },
+  {
+    "fileName": "swz.json",
+    "match": [
+      "swaziland",
+      "sz",
+      "swz"
+    ]
+  },
+  {
+    "fileName": "sxm.json",
+    "match": [
+      "sint maarten",
+      "sx",
+      "sxm"
+    ]
+  },
+  {
+    "fileName": "syc.json",
+    "match": [
+      "seychelles",
+      "sc",
+      "syc",
+      "sey"
+    ]
+  },
+  {
+    "fileName": "syr.json",
+    "match": [
+      "syria",
+      "sy",
+      "syr"
+    ]
+  },
+  {
+    "fileName": "tca.json",
+    "match": [
+      "turks & caicos islands",
+      "tc",
+      "tca"
+    ]
+  },
+  {
+    "fileName": "tcd.json",
+    "match": [
+      "chad",
+      "td",
+      "tcd"
+    ]
+  },
+  {
+    "fileName": "tgo.json",
+    "match": [
+      "togo",
+      "tg",
+      "tgo"
+    ]
+  },
+  {
+    "fileName": "tha.json",
+    "match": [
+      "thailand",
+      "th",
+      "tha"
+    ]
+  },
+  {
+    "fileName": "tjk.json",
+    "match": [
+      "tajikistan",
+      "tj",
+      "tjk"
+    ]
+  },
+  {
+    "fileName": "tkl.json",
+    "match": [
+      "tokelau",
+      "tk",
+      "tkl"
+    ]
+  },
+  {
+    "fileName": "tkm.json",
+    "match": [
+      "turkmenistan",
+      "tm",
+      "tkm"
+    ]
+  },
+  {
+    "fileName": "tls.json",
+    "match": [
+      "timor-leste",
+      "tl",
+      "tls"
+    ]
+  },
+  {
+    "fileName": "ton.json",
+    "match": [
+      "tonga",
+      "to",
+      "ton"
+    ]
+  },
+  {
+    "fileName": "tto.json",
+    "match": [
+      "trinidad & tobago",
+      "tt",
+      "tto",
+      "trd"
+    ]
+  },
+  {
+    "fileName": "tun.json",
+    "match": [
+      "tunisia",
+      "tn",
+      "tun"
+    ]
+  },
+  {
+    "fileName": "tur.json",
+    "match": [
+      "turkey",
+      "tr",
+      "tur"
+    ]
+  },
+  {
+    "fileName": "tuv.json",
+    "match": [
+      "tuvalu",
+      "tv",
+      "tuv"
+    ]
+  },
+  {
+    "fileName": "twn.json",
+    "match": [
+      "taiwan",
+      "tw",
+      "twn"
+    ]
+  },
+  {
+    "fileName": "tza.json",
+    "match": [
+      "tanzania",
+      "tz",
+      "tza"
+    ]
+  },
+  {
+    "fileName": "uga.json",
+    "match": [
+      "uganda",
+      "ug",
+      "uga"
+    ]
+  },
+  {
+    "fileName": "ukr.json",
+    "match": [
+      "ukraine",
+      "ua",
+      "ukr"
+    ]
+  },
+  {
+    "fileName": "umi.json",
+    "match": [
+      "u.s. outlying islands",
+      "um",
+      "umi"
+    ]
+  },
+  {
+    "fileName": "ury.json",
+    "match": [
+      "uruguay",
+      "uy",
+      "ury",
+      "urg"
+    ]
+  },
+  {
+    "fileName": "usa.json",
+    "match": [
+      "us",
+      "usa"
+    ]
+  },
+  {
+    "fileName": "uzb.json",
+    "match": [
+      "uzbekistan",
+      "uz",
+      "uzb"
+    ]
+  },
+  {
+    "fileName": "vat.json",
+    "match": [
+      "vatican city",
+      "va",
+      "vat",
+      "cva"
+    ]
+  },
+  {
+    "fileName": "vct.json",
+    "match": [
+      "st. vincent & grenadines",
+      "vc",
+      "vct"
+    ]
+  },
+  {
+    "fileName": "ven.json",
+    "match": [
+      "venezuela",
+      "ve",
+      "ven"
+    ]
+  },
+  {
+    "fileName": "vgb.json",
+    "match": [
+      "british virgin islands",
+      "vg",
+      "vgb",
+      "vrg"
+    ]
+  },
+  {
+    "fileName": "vir.json",
+    "match": [
+      "u.s. virgin islands",
+      "vi",
+      "vir"
+    ]
+  },
+  {
+    "fileName": "vnm.json",
+    "match": [
+      "vietnam",
+      "vn",
+      "vnm",
+      "vtn"
+    ]
+  },
+  {
+    "fileName": "vut.json",
+    "match": [
+      "vanuatu",
+      "vu",
+      "vut"
+    ]
+  },
+  {
+    "fileName": "wlf.json",
+    "match": [
+      "wallis & futuna",
+      "wf",
+      "wlf",
+      "wal"
+    ]
+  },
+  {
+    "fileName": "wsm.json",
+    "match": [
+      "samoa",
+      "ws",
+      "wsm",
+      "smo"
+    ]
+  },
+  {
+    "fileName": "yem.json",
+    "match": [
+      "yemen",
+      "ye",
+      "yem"
+    ]
+  },
+  {
+    "fileName": "zaf.json",
+    "match": [
+      "south africa",
+      "za",
+      "zaf",
+      "afs"
+    ]
+  },
+  {
+    "fileName": "zmb.json",
+    "match": [
+      "zambia",
+      "zm",
+      "zmb"
+    ]
+  },
+  {
+    "fileName": "zwe.json",
+    "match": [
+      "zimbabwe",
+      "zw",
+      "zwe"
+    ]
+  }
+]

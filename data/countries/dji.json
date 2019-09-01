@@ -1,0 +1,33 @@
+{
+  "capital": "Djibouti",
+  "continent": "AF",
+  "name": "Djibouti",
+  "officialName": "Djibouti",
+  "distSign": "F",
+  "dialCode": "253",
+  "edgar": "1G",
+  "fifa": "DJI",
+  "fips": "DJ",
+  "gaul": "70",
+  "geoNameId": "223816",
+  "olympicsId": "DJI",
+  "iso2": "DJ",
+  "iso3": "DJI",
+  "currencyCode": "DJF",
+  "currencyCountryName": "DJIBOUTI",
+  "currencyMinorUnit": 0,
+  "currencyName": "Djibouti Franc",
+  "currencyNumericCode": 262,
+  "itu": "DJI",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-DJ",
+    "ar",
+    "so-DJ",
+    "aa"
+  ],
+  "m49": 262,
+  "marc": "ft",
+  "tld": ".dj",
+  "wmo": "DJ"
+}

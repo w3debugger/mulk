@@ -1,0 +1,33 @@
+{
+  "capital": "Lilongwe",
+  "continent": "AF",
+  "name": "Malawi",
+  "officialName": "Malawi",
+  "distSign": "MW",
+  "dialCode": "265",
+  "edgar": "N7",
+  "fifa": "MWI",
+  "fips": "MI",
+  "gaul": "152",
+  "geoNameId": "927384",
+  "olympicsId": "MAW",
+  "iso2": "MW",
+  "iso3": "MWI",
+  "currencyCode": "MWK",
+  "currencyCountryName": "MALAWI",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kwacha",
+  "currencyNumericCode": 454,
+  "itu": "MWI",
+  "isIndependent": "Yes",
+  "languages": [
+    "ny",
+    "yao",
+    "tum",
+    "swk"
+  ],
+  "m49": 454,
+  "marc": "mw",
+  "tld": ".mw",
+  "wmo": "MW"
+}

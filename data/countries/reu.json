@@ -1,0 +1,30 @@
+{
+  "capital": "Saint-Denis",
+  "continent": "AF",
+  "name": "Réunion",
+  "officialName": "Réunion",
+  "distSign": "F",
+  "dialCode": "262",
+  "edgar": null,
+  "fifa": "REU",
+  "fips": "RE",
+  "gaul": "206",
+  "geoNameId": "935317",
+  "olympicsId": "REU",
+  "iso2": "RE",
+  "iso3": "REU",
+  "currencyCode": "EUR",
+  "currencyCountryName": "RÉUNION",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "REU",
+  "isIndependent": "Part of FR",
+  "languages": [
+    "fr-RE"
+  ],
+  "m49": 638,
+  "marc": "re",
+  "tld": ".re",
+  "wmo": "RE"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Port Vila",
+  "continent": "OC",
+  "name": "Vanuatu",
+  "officialName": "Vanuatu",
+  "distSign": "VU",
+  "dialCode": "678",
+  "edgar": "2L",
+  "fifa": "VAN",
+  "fips": "NH",
+  "gaul": "262",
+  "geoNameId": "2134431",
+  "olympicsId": "VAN",
+  "iso2": "VU",
+  "iso3": "VUT",
+  "currencyCode": "VUV",
+  "currencyCountryName": "VANUATU",
+  "currencyMinorUnit": 0,
+  "currencyName": "Vatu",
+  "currencyNumericCode": 548,
+  "itu": "VUT",
+  "isIndependent": "Yes",
+  "languages": [
+    "bi",
+    "en-VU",
+    "fr-VU"
+  ],
+  "m49": 548,
+  "marc": "nn",
+  "tld": ".vu",
+  "wmo": "NV"
+}

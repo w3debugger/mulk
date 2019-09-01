@@ -1,0 +1,30 @@
+{
+  "capital": "Praia",
+  "continent": "AF",
+  "name": "Cape Verde",
+  "officialName": "Cabo Verde",
+  "distSign": "CV",
+  "dialCode": "238",
+  "edgar": null,
+  "fifa": "CPV",
+  "fips": "CV",
+  "gaul": "47",
+  "geoNameId": "3374766",
+  "olympicsId": "CPV",
+  "iso2": "CV",
+  "iso3": "CPV",
+  "currencyCode": "CVE",
+  "currencyCountryName": "CABO VERDE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Cabo Verde Escudo",
+  "currencyNumericCode": 132,
+  "itu": "CPV",
+  "isIndependent": "Yes",
+  "languages": [
+    "pt-CV"
+  ],
+  "m49": 132,
+  "marc": "cv",
+  "tld": ".cv",
+  "wmo": "CV"
+}

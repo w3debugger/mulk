@@ -1,0 +1,31 @@
+{
+  "capital": "Majuro",
+  "continent": "OC",
+  "name": "Marshall Islands",
+  "officialName": "Marshall Islands",
+  "distSign": null,
+  "dialCode": "692",
+  "edgar": "1T",
+  "fifa": "MHL",
+  "fips": "RM",
+  "gaul": "157",
+  "geoNameId": "2080185",
+  "olympicsId": "MSH",
+  "iso2": "MH",
+  "iso3": "MHL",
+  "currencyCode": "USD",
+  "currencyCountryName": "MARSHALL ISLANDS",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "MHL",
+  "isIndependent": "Yes",
+  "languages": [
+    "mh",
+    "en-MH"
+  ],
+  "m49": 584,
+  "marc": "xe",
+  "tld": ".mh",
+  "wmo": "MH"
+}

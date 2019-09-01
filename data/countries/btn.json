@@ -1,0 +1,30 @@
+{
+  "capital": "Thimphu",
+  "continent": "AS",
+  "name": "Bhutan",
+  "officialName": "Bhutan",
+  "distSign": "BT",
+  "dialCode": "975",
+  "edgar": "D2",
+  "fifa": "BHU",
+  "fips": "BT",
+  "gaul": "31",
+  "geoNameId": "1252634",
+  "olympicsId": "BHU",
+  "iso2": "BT",
+  "iso3": "BTN",
+  "currencyCode": "INR",
+  "currencyCountryName": "BHUTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Indian Rupee",
+  "currencyNumericCode": 356,
+  "itu": "BTN",
+  "isIndependent": "Yes",
+  "languages": [
+    "dz"
+  ],
+  "m49": 64,
+  "marc": "bt",
+  "tld": ".bt",
+  "wmo": null
+}

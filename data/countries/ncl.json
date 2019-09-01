@@ -1,0 +1,30 @@
+{
+  "capital": "Noumea",
+  "continent": "OC",
+  "name": "New Caledonia",
+  "officialName": "New Caledonia",
+  "distSign": "F",
+  "dialCode": "687",
+  "edgar": "1W",
+  "fifa": "NCL",
+  "fips": "NC",
+  "gaul": "178",
+  "geoNameId": "2139685",
+  "olympicsId": "NCD",
+  "iso2": "NC",
+  "iso3": "NCL",
+  "currencyCode": "XPF",
+  "currencyCountryName": "NEW CALEDONIA",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFP Franc",
+  "currencyNumericCode": 953,
+  "itu": "NCL",
+  "isIndependent": "Territory of FR",
+  "languages": [
+    "fr-NC"
+  ],
+  "m49": 540,
+  "marc": "nl",
+  "tld": ".nc",
+  "wmo": "NC"
+}

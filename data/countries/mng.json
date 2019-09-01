@@ -1,0 +1,31 @@
+{
+  "capital": "Ulan Bator",
+  "continent": "AS",
+  "name": "Mongolia",
+  "officialName": "Mongolia",
+  "distSign": "MGL",
+  "dialCode": "976",
+  "edgar": "P0",
+  "fifa": "MNG",
+  "fips": "MG",
+  "gaul": "167",
+  "geoNameId": "2029969",
+  "olympicsId": "MGL",
+  "iso2": "MN",
+  "iso3": "MNG",
+  "currencyCode": "MNT",
+  "currencyCountryName": "MONGOLIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Tugrik",
+  "currencyNumericCode": 496,
+  "itu": "MNG",
+  "isIndependent": "Yes",
+  "languages": [
+    "mn",
+    "ru"
+  ],
+  "m49": 496,
+  "marc": "mp",
+  "tld": ".mn",
+  "wmo": "MO"
+}

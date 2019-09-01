@@ -1,0 +1,33 @@
+{
+  "capital": "Stockholm",
+  "continent": "EU",
+  "name": "Sweden",
+  "officialName": "Sweden",
+  "distSign": "S",
+  "dialCode": "46",
+  "edgar": "V7",
+  "fifa": "SWE",
+  "fips": "SW",
+  "gaul": "236",
+  "geoNameId": "2661886",
+  "olympicsId": "SWE",
+  "iso2": "SE",
+  "iso3": "SWE",
+  "currencyCode": "SEK",
+  "currencyCountryName": "SWEDEN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Swedish Krona",
+  "currencyNumericCode": 752,
+  "itu": "S",
+  "isIndependent": "Yes",
+  "languages": [
+    "sv-SE",
+    "se",
+    "sma",
+    "fi-SE"
+  ],
+  "m49": 752,
+  "marc": "sw",
+  "tld": ".se",
+  "wmo": "SN"
+}

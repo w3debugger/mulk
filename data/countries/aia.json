@@ -1,0 +1,30 @@
+{
+  "capital": "The Valley",
+  "continent": "NA",
+  "name": "Anguilla",
+  "officialName": "Anguilla",
+  "distSign": null,
+  "dialCode": "1-264",
+  "edgar": "1A",
+  "fifa": "AIA",
+  "fips": "AV",
+  "gaul": "9",
+  "geoNameId": "3573511",
+  "olympicsId": "AIA",
+  "iso2": "AI",
+  "iso3": "AIA",
+  "currencyCode": "XCD",
+  "currencyCountryName": "ANGUILLA",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "AIA",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-AI"
+  ],
+  "m49": 660,
+  "marc": "am",
+  "tld": ".ai",
+  "wmo": null
+}

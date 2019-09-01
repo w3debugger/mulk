@@ -1,0 +1,32 @@
+{
+  "capital": "Sofia",
+  "continent": "EU",
+  "name": "Bulgaria",
+  "officialName": "Bulgaria",
+  "distSign": "BG",
+  "dialCode": "359",
+  "edgar": "E0",
+  "fifa": "BUL",
+  "fips": "BU",
+  "gaul": "41",
+  "geoNameId": "732800",
+  "olympicsId": "BUL",
+  "iso2": "BG",
+  "iso3": "BGR",
+  "currencyCode": "BGN",
+  "currencyCountryName": "BULGARIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Bulgarian Lev",
+  "currencyNumericCode": 975,
+  "itu": "BUL",
+  "isIndependent": "Yes",
+  "languages": [
+    "bg",
+    "tr-BG",
+    "rom"
+  ],
+  "m49": 100,
+  "marc": "bu",
+  "tld": ".bg",
+  "wmo": "BU"
+}

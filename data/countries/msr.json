@@ -1,0 +1,30 @@
+{
+  "capital": "Plymouth",
+  "continent": "NA",
+  "name": "Montserrat",
+  "officialName": "Montserrat",
+  "distSign": null,
+  "dialCode": "1-664",
+  "edgar": "P1",
+  "fifa": "MSR",
+  "fips": "MH",
+  "gaul": "168",
+  "geoNameId": "3578097",
+  "olympicsId": "MNT",
+  "iso2": "MS",
+  "iso3": "MSR",
+  "currencyCode": "XCD",
+  "currencyCountryName": "MONTSERRAT",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "MSR",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-MS"
+  ],
+  "m49": 500,
+  "marc": "mj",
+  "tld": ".ms",
+  "wmo": null
+}

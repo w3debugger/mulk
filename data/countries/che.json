@@ -1,0 +1,33 @@
+{
+  "capital": "Bern",
+  "continent": "EU",
+  "name": "Switzerland",
+  "officialName": "Switzerland",
+  "distSign": "CH",
+  "dialCode": "41",
+  "edgar": "V8",
+  "fifa": "SUI",
+  "fips": "SZ",
+  "gaul": "237",
+  "geoNameId": "2658434",
+  "olympicsId": "SUI",
+  "iso2": "CH",
+  "iso3": "CHE",
+  "currencyCode": "CHF",
+  "currencyCountryName": "SWITZERLAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Swiss Franc",
+  "currencyNumericCode": 756,
+  "itu": "SUI",
+  "isIndependent": "Yes",
+  "languages": [
+    "de-CH",
+    "fr-CH",
+    "it-CH",
+    "rm"
+  ],
+  "m49": 756,
+  "marc": "sz",
+  "tld": ".ch",
+  "wmo": "SW"
+}

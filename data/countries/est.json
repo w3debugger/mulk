@@ -1,0 +1,31 @@
+{
+  "capital": "Tallinn",
+  "continent": "EU",
+  "name": "Estonia",
+  "officialName": "Estonia",
+  "distSign": "EST",
+  "dialCode": "372",
+  "edgar": "1H",
+  "fifa": "EST",
+  "fips": "EN",
+  "gaul": "78",
+  "geoNameId": "453733",
+  "olympicsId": "EST",
+  "iso2": "EE",
+  "iso3": "EST",
+  "currencyCode": "EUR",
+  "currencyCountryName": "ESTONIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "EST",
+  "isIndependent": "Yes",
+  "languages": [
+    "et",
+    "ru"
+  ],
+  "m49": 233,
+  "marc": "er",
+  "tld": ".ee",
+  "wmo": "EO"
+}

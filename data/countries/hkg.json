@@ -1,0 +1,33 @@
+{
+  "capital": "Hong Kong",
+  "continent": "AS",
+  "name": "Hong Kong",
+  "officialName": "China, Hong Kong Special Administrative Region",
+  "distSign": "HK",
+  "dialCode": "852",
+  "edgar": null,
+  "fifa": "HKG",
+  "fips": "HK",
+  "gaul": "33364",
+  "geoNameId": "1819730",
+  "olympicsId": "HKG",
+  "iso2": "HK",
+  "iso3": "HKG",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "HKG",
+  "isIndependent": "Part of CN",
+  "languages": [
+    "zh-HK",
+    "yue",
+    "zh",
+    "en"
+  ],
+  "m49": 344,
+  "marc": null,
+  "tld": ".hk",
+  "wmo": "HK"
+}

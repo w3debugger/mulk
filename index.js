@@ -1,4 +1,4 @@
-const mapping = require('./mapping.json');
+const mapping = require('./data/countries/mapping.json');
 
 function mulk(name, format) {
   const nameToLowerCase = (name || '').toLowerCase();

@@ -1,0 +1,31 @@
+{
+  "capital": "Bamako",
+  "continent": "AF",
+  "name": "Mali",
+  "officialName": "Mali",
+  "distSign": "RMM",
+  "dialCode": "223",
+  "edgar": "O0",
+  "fifa": "MLI",
+  "fips": "ML",
+  "gaul": "155",
+  "geoNameId": "2453866",
+  "olympicsId": "MLI",
+  "iso2": "ML",
+  "iso3": "MLI",
+  "currencyCode": "XOF",
+  "currencyCountryName": "MALI",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BCEAO",
+  "currencyNumericCode": 952,
+  "itu": "MLI",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-ML",
+    "bm"
+  ],
+  "m49": 466,
+  "marc": "ml",
+  "tld": ".ml",
+  "wmo": "MI"
+}

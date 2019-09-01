@@ -1,0 +1,33 @@
+{
+  "capital": "Bangui",
+  "continent": "AF",
+  "name": "Central African Republic",
+  "officialName": "Central African Republic",
+  "distSign": "RCA",
+  "dialCode": "236",
+  "edgar": "F0",
+  "fifa": "CTA",
+  "fips": "CT",
+  "gaul": "49",
+  "geoNameId": "239880",
+  "olympicsId": "CAF",
+  "iso2": "CF",
+  "iso3": "CAF",
+  "currencyCode": "XAF",
+  "currencyCountryName": "CENTRAL AFRICAN REPUBLIC",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "CAF",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-CF",
+    "sg",
+    "ln",
+    "kg"
+  ],
+  "m49": 140,
+  "marc": "cx",
+  "tld": ".cf",
+  "wmo": "CE"
+}

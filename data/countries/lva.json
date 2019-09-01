@@ -1,0 +1,32 @@
+{
+  "capital": "Riga",
+  "continent": "EU",
+  "name": "Latvia",
+  "officialName": "Latvia",
+  "distSign": "LV",
+  "dialCode": "371",
+  "edgar": "1R",
+  "fifa": "LVA",
+  "fips": "LG",
+  "gaul": "140",
+  "geoNameId": "458258",
+  "olympicsId": "LAT",
+  "iso2": "LV",
+  "iso3": "LVA",
+  "currencyCode": "EUR",
+  "currencyCountryName": "LATVIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "LVA",
+  "isIndependent": "Yes",
+  "languages": [
+    "lv",
+    "ru",
+    "lt"
+  ],
+  "m49": 428,
+  "marc": "lv",
+  "tld": ".lv",
+  "wmo": "LV"
+}

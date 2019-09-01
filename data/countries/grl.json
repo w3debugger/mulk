@@ -1,0 +1,32 @@
+{
+  "capital": "Nuuk",
+  "continent": "NA",
+  "name": "Greenland",
+  "officialName": "Greenland",
+  "distSign": "DK",
+  "dialCode": "299",
+  "edgar": "J4",
+  "fifa": "GRL",
+  "fips": "GL",
+  "gaul": "98",
+  "geoNameId": "3425505",
+  "olympicsId": "GRL",
+  "iso2": "GL",
+  "iso3": "GRL",
+  "currencyCode": "DKK",
+  "currencyCountryName": "GREENLAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Danish Krone",
+  "currencyNumericCode": 208,
+  "itu": "GRL",
+  "isIndependent": "Part of DK",
+  "languages": [
+    "kl",
+    "da-GL",
+    "en"
+  ],
+  "m49": 304,
+  "marc": "gl",
+  "tld": ".gl",
+  "wmo": "GL"
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Jamestown",
+  "continent": "AF",
+  "name": "St. Helena",
+  "officialName": "Saint Helena",
+  "distSign": "SH",
+  "dialCode": "290 n",
+  "edgar": null,
+  "fifa": "SHN",
+  "fips": "SH",
+  "gaul": "207",
+  "geoNameId": "3370751",
+  "olympicsId": "HEL",
+  "iso2": "SH",
+  "iso3": "SHN",
+  "currencyCode": "SHP",
+  "currencyCountryName": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Saint Helena Pound",
+  "currencyNumericCode": 654,
+  "itu": "SHN",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-SH"
+  ],
+  "m49": 654,
+  "marc": "xj",
+  "tld": ".sh",
+  "wmo": "HE"
+}

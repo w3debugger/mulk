@@ -1,0 +1,30 @@
+{
+  "capital": "Quito",
+  "continent": "SA",
+  "name": "Ecuador",
+  "officialName": "Ecuador",
+  "distSign": "EC",
+  "dialCode": "593",
+  "edgar": "H1",
+  "fifa": "ECU",
+  "fips": "EC",
+  "gaul": "73",
+  "geoNameId": "3658394",
+  "olympicsId": "ECU",
+  "iso2": "EC",
+  "iso3": "ECU",
+  "currencyCode": "USD",
+  "currencyCountryName": "ECUADOR",
+  "currencyMinorUnit": 2,
+  "currencyName": "US Dollar",
+  "currencyNumericCode": 840,
+  "itu": "EQA",
+  "isIndependent": "Yes",
+  "languages": [
+    "es-EC"
+  ],
+  "m49": 218,
+  "marc": "ec",
+  "tld": ".ec",
+  "wmo": "EQ"
+}

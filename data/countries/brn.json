@@ -1,0 +1,31 @@
+{
+  "capital": "Bandar Seri Begawan",
+  "continent": "AS",
+  "name": "Brunei",
+  "officialName": "Brunei Darussalam",
+  "distSign": "BRU",
+  "dialCode": "673",
+  "edgar": "D9",
+  "fifa": "BRU",
+  "fips": "BX",
+  "gaul": "40",
+  "geoNameId": "1820814",
+  "olympicsId": "BRU",
+  "iso2": "BN",
+  "iso3": "BRN",
+  "currencyCode": "BND",
+  "currencyCountryName": "BRUNEI DARUSSALAM",
+  "currencyMinorUnit": 2,
+  "currencyName": "Brunei Dollar",
+  "currencyNumericCode": 96,
+  "itu": "BRU",
+  "isIndependent": "Yes",
+  "languages": [
+    "ms-BN",
+    "en-BN"
+  ],
+  "m49": 96,
+  "marc": "bx",
+  "tld": ".bn",
+  "wmo": "BD"
+}

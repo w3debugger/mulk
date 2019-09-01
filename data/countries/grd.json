@@ -1,0 +1,30 @@
+{
+  "capital": "St. George's",
+  "continent": "NA",
+  "name": "Grenada",
+  "officialName": "Grenada",
+  "distSign": "WG",
+  "dialCode": "1-473",
+  "edgar": "J5",
+  "fifa": "GRN",
+  "fips": "GJ",
+  "gaul": "99",
+  "geoNameId": "3580239",
+  "olympicsId": "GRN",
+  "iso2": "GD",
+  "iso3": "GRD",
+  "currencyCode": "XCD",
+  "currencyCountryName": "GRENADA",
+  "currencyMinorUnit": 2,
+  "currencyName": "East Caribbean Dollar",
+  "currencyNumericCode": 951,
+  "itu": "GRD",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-GD"
+  ],
+  "m49": 308,
+  "marc": "gd",
+  "tld": ".gd",
+  "wmo": "GD"
+}

@@ -1,0 +1,32 @@
+{
+  "capital": "Monaco",
+  "continent": "EU",
+  "name": "Monaco",
+  "officialName": "Monaco",
+  "distSign": "MC",
+  "dialCode": "377",
+  "edgar": "O9",
+  "fifa": "MON",
+  "fips": "MN",
+  "gaul": "166",
+  "geoNameId": "2993457",
+  "olympicsId": "MON",
+  "iso2": "MC",
+  "iso3": "MCO",
+  "currencyCode": "EUR",
+  "currencyCountryName": "MONACO",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "MCO",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-MC",
+    "en",
+    "it"
+  ],
+  "m49": 492,
+  "marc": "mc",
+  "tld": ".mc",
+  "wmo": null
+}

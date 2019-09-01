@@ -1,0 +1,30 @@
+{
+  "capital": "Algiers",
+  "continent": "AF",
+  "name": "Algeria",
+  "officialName": "Algeria",
+  "distSign": "DZ",
+  "dialCode": "213",
+  "edgar": "B4",
+  "fifa": "ALG",
+  "fips": "AG",
+  "gaul": "4",
+  "geoNameId": "2589581",
+  "olympicsId": "ALG",
+  "iso2": "DZ",
+  "iso3": "DZA",
+  "currencyCode": "DZD",
+  "currencyCountryName": "ALGERIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Algerian Dinar",
+  "currencyNumericCode": 12,
+  "itu": "ALG",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-DZ"
+  ],
+  "m49": 12,
+  "marc": "ae",
+  "tld": ".dz",
+  "wmo": "AL"
+}

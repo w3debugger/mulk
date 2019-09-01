@@ -1,0 +1,30 @@
+{
+  "capital": "Canberra",
+  "continent": "OC",
+  "name": "Australia",
+  "officialName": "Australia",
+  "distSign": "AUS",
+  "dialCode": "61",
+  "edgar": "C3",
+  "fifa": "AUS",
+  "fips": "AS",
+  "gaul": "17",
+  "geoNameId": "2077456",
+  "olympicsId": "AUS",
+  "iso2": "AU",
+  "iso3": "AUS",
+  "currencyCode": "AUD",
+  "currencyCountryName": "AUSTRALIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Australian Dollar",
+  "currencyNumericCode": 36,
+  "itu": "AUS",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-AU"
+  ],
+  "m49": 36,
+  "marc": "at",
+  "tld": ".au",
+  "wmo": "AU"
+}

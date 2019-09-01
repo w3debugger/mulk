@@ -1,0 +1,31 @@
+{
+  "capital": "Dublin",
+  "continent": "EU",
+  "name": "Ireland",
+  "officialName": "Ireland",
+  "distSign": "IRL",
+  "dialCode": "353",
+  "edgar": "L2",
+  "fifa": "IRL",
+  "fips": "EI",
+  "gaul": "119",
+  "geoNameId": "2963597",
+  "olympicsId": "IRL",
+  "iso2": "IE",
+  "iso3": "IRL",
+  "currencyCode": "EUR",
+  "currencyCountryName": "IRELAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "IRL",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-IE",
+    "ga-IE"
+  ],
+  "m49": 372,
+  "marc": "ie",
+  "tld": ".ie",
+  "wmo": "IE"
+}

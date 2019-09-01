@@ -1,0 +1,33 @@
+{
+  "capital": "Manama",
+  "continent": "AS",
+  "name": "Bahrain",
+  "officialName": "Bahrain",
+  "distSign": "BRN",
+  "dialCode": "973",
+  "edgar": "C6",
+  "fifa": "BHR",
+  "fips": "BA",
+  "gaul": "21",
+  "geoNameId": "290291",
+  "olympicsId": "BRN",
+  "iso2": "BH",
+  "iso3": "BHR",
+  "currencyCode": "BHD",
+  "currencyCountryName": "BAHRAIN",
+  "currencyMinorUnit": 3,
+  "currencyName": "Bahraini Dinar",
+  "currencyNumericCode": 48,
+  "itu": "BHR",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-BH",
+    "en",
+    "fa",
+    "ur"
+  ],
+  "m49": 48,
+  "marc": "ba",
+  "tld": ".bh",
+  "wmo": "BN"
+}

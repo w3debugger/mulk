@@ -1,0 +1,32 @@
+{
+  "capital": "Freetown",
+  "continent": "AF",
+  "name": "Sierra Leone",
+  "officialName": "Sierra Leone",
+  "distSign": "WAL",
+  "dialCode": "232",
+  "edgar": "T8",
+  "fifa": "SLE",
+  "fips": "SL",
+  "gaul": "221",
+  "geoNameId": "2403846",
+  "olympicsId": "SLE",
+  "iso2": "SL",
+  "iso3": "SLE",
+  "currencyCode": "SLL",
+  "currencyCountryName": "SIERRA LEONE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Leone",
+  "currencyNumericCode": 694,
+  "itu": "SRL",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-SL",
+    "men",
+    "tem"
+  ],
+  "m49": 694,
+  "marc": "sl",
+  "tld": ".sl",
+  "wmo": "SL"
+}

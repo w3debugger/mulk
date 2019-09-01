@@ -1,0 +1,30 @@
+{
+  "capital": "Juba",
+  "continent": "AF",
+  "name": "South Sudan",
+  "officialName": "South Sudan",
+  "distSign": null,
+  "dialCode": "211",
+  "edgar": null,
+  "fifa": null,
+  "fips": "OD",
+  "gaul": null,
+  "geoNameId": "7909807",
+  "olympicsId": null,
+  "iso2": "SS",
+  "iso3": "SSD",
+  "currencyCode": "SSP",
+  "currencyCountryName": "SOUTH SUDAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "South Sudanese Pound",
+  "currencyNumericCode": 728,
+  "itu": "SSD",
+  "isIndependent": "Yes",
+  "languages": [
+    "en"
+  ],
+  "m49": 728,
+  "marc": "sd",
+  "tld": null,
+  "wmo": null
+}

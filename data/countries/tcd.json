@@ -1,0 +1,32 @@
+{
+  "capital": "N'Djamena",
+  "continent": "AF",
+  "name": "Chad",
+  "officialName": "Chad",
+  "distSign": "TCH",
+  "dialCode": "235",
+  "edgar": "F2",
+  "fifa": "CHA",
+  "fips": "CD",
+  "gaul": "50",
+  "geoNameId": "2434508",
+  "olympicsId": "CHA",
+  "iso2": "TD",
+  "iso3": "TCD",
+  "currencyCode": "XAF",
+  "currencyCountryName": "CHAD",
+  "currencyMinorUnit": 0,
+  "currencyName": "CFA Franc BEAC",
+  "currencyNumericCode": 950,
+  "itu": "TCD",
+  "isIndependent": "Yes",
+  "languages": [
+    "fr-TD",
+    "ar-TD",
+    "sre"
+  ],
+  "m49": 148,
+  "marc": "cd",
+  "tld": ".td",
+  "wmo": "CD"
+}

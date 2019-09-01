@@ -1,0 +1,33 @@
+{
+  "capital": "Port Moresby",
+  "continent": "OC",
+  "name": "Papua New Guinea",
+  "officialName": "Papua New Guinea",
+  "distSign": "PNG",
+  "dialCode": "675",
+  "edgar": "R2",
+  "fifa": "PNG",
+  "fips": "PP",
+  "gaul": "192",
+  "geoNameId": "2088628",
+  "olympicsId": "PNG",
+  "iso2": "PG",
+  "iso3": "PNG",
+  "currencyCode": "PGK",
+  "currencyCountryName": "PAPUA NEW GUINEA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Kina",
+  "currencyNumericCode": 598,
+  "itu": "PNG",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-PG",
+    "ho",
+    "meu",
+    "tpi"
+  ],
+  "m49": 598,
+  "marc": "pp",
+  "tld": ".pg",
+  "wmo": "NG"
+}

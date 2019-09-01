@@ -1,0 +1,31 @@
+{
+  "capital": "Ljubljana",
+  "continent": "EU",
+  "name": "Slovenia",
+  "officialName": "Slovenia",
+  "distSign": "SLO",
+  "dialCode": "386",
+  "edgar": "2A",
+  "fifa": "SVN",
+  "fips": "SI",
+  "gaul": "224",
+  "geoNameId": "3190538",
+  "olympicsId": "SLO",
+  "iso2": "SI",
+  "iso3": "SVN",
+  "currencyCode": "EUR",
+  "currencyCountryName": "SLOVENIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Euro",
+  "currencyNumericCode": 978,
+  "itu": "SVN",
+  "isIndependent": "Yes",
+  "languages": [
+    "sl",
+    "sh"
+  ],
+  "m49": 705,
+  "marc": "xv",
+  "tld": ".si",
+  "wmo": "LJ"
+}

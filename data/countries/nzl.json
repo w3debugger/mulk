@@ -1,0 +1,31 @@
+{
+  "capital": "Wellington",
+  "continent": "OC",
+  "name": "New Zealand",
+  "officialName": "New Zealand",
+  "distSign": "NZ",
+  "dialCode": "64",
+  "edgar": "Q2",
+  "fifa": "NZL",
+  "fips": "NZ",
+  "gaul": "179",
+  "geoNameId": "2186224",
+  "olympicsId": "NZL",
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "currencyCode": "NZD",
+  "currencyCountryName": "NEW ZEALAND",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Zealand Dollar",
+  "currencyNumericCode": 554,
+  "itu": "NZL",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-NZ",
+    "mi"
+  ],
+  "m49": 554,
+  "marc": "nz",
+  "tld": ".nz",
+  "wmo": "NZ"
+}

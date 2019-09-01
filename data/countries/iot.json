@@ -1,0 +1,30 @@
+{
+  "capital": "Diego Garcia",
+  "continent": "AS",
+  "name": "British Indian Ocean Territory",
+  "officialName": null,
+  "distSign": null,
+  "dialCode": "246",
+  "edgar": null,
+  "fifa": null,
+  "fips": "IO",
+  "gaul": "38",
+  "geoNameId": "1282588",
+  "olympicsId": null,
+  "iso2": "IO",
+  "iso3": "IOT",
+  "currencyCode": null,
+  "currencyCountryName": null,
+  "currencyMinorUnit": null,
+  "currencyName": null,
+  "currencyNumericCode": null,
+  "itu": "BIO",
+  "isIndependent": "Territory of GB",
+  "languages": [
+    "en-IO"
+  ],
+  "m49": 86,
+  "marc": "bi",
+  "tld": ".io",
+  "wmo": null
+}

@@ -1,0 +1,30 @@
+{
+  "capital": "Monrovia",
+  "continent": "AF",
+  "name": "Liberia",
+  "officialName": "Liberia",
+  "distSign": "LB",
+  "dialCode": "231",
+  "edgar": "N0",
+  "fifa": "LBR",
+  "fips": "LI",
+  "gaul": "144",
+  "geoNameId": "2275384",
+  "olympicsId": "LBR",
+  "iso2": "LR",
+  "iso3": "LBR",
+  "currencyCode": "LRD",
+  "currencyCountryName": "LIBERIA",
+  "currencyMinorUnit": 2,
+  "currencyName": "Liberian Dollar",
+  "currencyNumericCode": 430,
+  "itu": "LBR",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-LR"
+  ],
+  "m49": 430,
+  "marc": "lb",
+  "tld": ".lr",
+  "wmo": "LI"
+}

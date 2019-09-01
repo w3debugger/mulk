@@ -1,0 +1,31 @@
+{
+  "capital": "Belmopan",
+  "continent": "NA",
+  "name": "Belize",
+  "officialName": "Belize",
+  "distSign": "BH",
+  "dialCode": "501",
+  "edgar": "D1",
+  "fifa": "BLZ",
+  "fips": "BH",
+  "gaul": "28",
+  "geoNameId": "3582678",
+  "olympicsId": "BIZ",
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "currencyCode": "BZD",
+  "currencyCountryName": "BELIZE",
+  "currencyMinorUnit": 2,
+  "currencyName": "Belize Dollar",
+  "currencyNumericCode": 84,
+  "itu": "BLZ",
+  "isIndependent": "Yes",
+  "languages": [
+    "en-BZ",
+    "es"
+  ],
+  "m49": 84,
+  "marc": "bh",
+  "tld": ".bz",
+  "wmo": "BH"
+}

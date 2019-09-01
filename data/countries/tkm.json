@@ -1,0 +1,32 @@
+{
+  "capital": "Ashgabat",
+  "continent": "AS",
+  "name": "Turkmenistan",
+  "officialName": "Turkmenistan",
+  "distSign": "TM",
+  "dialCode": "993",
+  "edgar": "2E",
+  "fifa": "TKM",
+  "fips": "TX",
+  "gaul": "250",
+  "geoNameId": "1218197",
+  "olympicsId": "TKM",
+  "iso2": "TM",
+  "iso3": "TKM",
+  "currencyCode": "TMT",
+  "currencyCountryName": "TURKMENISTAN",
+  "currencyMinorUnit": 2,
+  "currencyName": "Turkmenistan New Manat",
+  "currencyNumericCode": 934,
+  "itu": "TKM",
+  "isIndependent": "Yes",
+  "languages": [
+    "tk",
+    "ru",
+    "uz"
+  ],
+  "m49": 795,
+  "marc": "tk",
+  "tld": ".tm",
+  "wmo": "TR"
+}

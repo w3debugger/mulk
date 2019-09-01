@@ -1,0 +1,33 @@
+{
+  "capital": "Beirut",
+  "continent": "AS",
+  "name": "Lebanon",
+  "officialName": "Lebanon",
+  "distSign": "RL",
+  "dialCode": "961",
+  "edgar": "M8",
+  "fifa": "LIB",
+  "fips": "LE",
+  "gaul": "141",
+  "geoNameId": "272103",
+  "olympicsId": "LIB",
+  "iso2": "LB",
+  "iso3": "LBN",
+  "currencyCode": "LBP",
+  "currencyCountryName": "LEBANON",
+  "currencyMinorUnit": 2,
+  "currencyName": "Lebanese Pound",
+  "currencyNumericCode": 422,
+  "itu": "LBN",
+  "isIndependent": "Yes",
+  "languages": [
+    "ar-LB",
+    "fr-LB",
+    "en",
+    "hy"
+  ],
+  "m49": 422,
+  "marc": "le",
+  "tld": ".lb",
+  "wmo": "LB"
+}

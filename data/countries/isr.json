@@ -1,0 +1,33 @@
+{
+  "capital": "Jerusalem",
+  "continent": "AS",
+  "name": "Israel",
+  "officialName": "Israel",
+  "distSign": "IL",
+  "dialCode": "972",
+  "edgar": "L3",
+  "fifa": "ISR",
+  "fips": "IS",
+  "gaul": "121",
+  "geoNameId": "294640",
+  "olympicsId": "ISR",
+  "iso2": "IL",
+  "iso3": "ISR",
+  "currencyCode": "ILS",
+  "currencyCountryName": "ISRAEL",
+  "currencyMinorUnit": 2,
+  "currencyName": "New Israeli Sheqel",
+  "currencyNumericCode": 376,
+  "itu": "ISR",
+  "isIndependent": "Yes",
+  "languages": [
+    "he",
+    "ar-IL",
+    "en-IL",
+    ""
+  ],
+  "m49": 376,
+  "marc": "is",
+  "tld": ".il",
+  "wmo": "IS"
+}
