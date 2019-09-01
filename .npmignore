@@ -1,0 +1,9 @@
+__tests__
+node_modules
+scripts
+.editorconfig
+.gitignore
+.npmignore
+.travis.yml
+license
+readme.md
