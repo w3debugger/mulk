@@ -10,7 +10,7 @@
   },
   "scripts": {
     "meta": "node scripts/generate-meta.js",
-    "test": "jest --coverage"
+    "test": "jest --coverage && codecov"
   },
   "keywords": [
     "country",
@@ -23,6 +23,7 @@
     "codes"
   ],
   "devDependencies": {
+    "codecov": "^3.5.0",
     "jest": "^24.9.0"
   }
 }

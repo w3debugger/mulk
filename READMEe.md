@@ -1,4 +1,10 @@
 # mulk
+
+[![npm](https://badge.fury.io/js/mulk.svg)](https://www.npmjs.com/package/mulk)
+[![](https://img.shields.io/travis/w3debugger/mulk/master.svg?style=flat-square)](http://travis-ci.org/w3debugger/mulk)
+[![](https://img.shields.io/codecov/c/github/w3debugger/mulk.svg?style=flat-square)](http://travis-ci.org/w3debugger/mulk)
+
+
 > Gets the country details by country name, ITU or ISO codes 
 
 ## Installation
