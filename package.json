@@ -1,6 +1,6 @@
 {
   "name": "mulk",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "description": "Get details for countries by country code or name",
   "main": "index.js",
   "license": "MIT",
