@@ -1,55 +1,85 @@
 # mulk
-Get data of all the countries
-
-# Usage
+> Gets the country details by country name, ITU or ISO codes 
 
 ## Installation
-`npm i mulk` / `yarn add mulk`
+> You can either install using `yarn` or using `npm`
 
-## In Node.js
-`const mulk = require('mulk');`
-or `import mulk from 'mulk';`
-
-## Get all the list of countries with data
-`mulk();`
-
-## Get single country
-`mulk('pakistan');`
-or `mulk('pk');`
-or `mulk('pak');`
-
-#### Output
-```
-{
-  Capital: 'Islamabad',
-  Continent: 'AS',
-  Country_Name: 'Pakistan',
-  DS: 'PK',
-  Dial: '92',
-  EDGAR: 'R0',
-  FIFA: 'PAK',
-  FIPS: 'PK',
-  GAUL: '188',
-  Geo_Name_ID: '1168579',
-  IOC: 'PAK',
-  ISO3166_1_Alpha_2: 'PK',
-  ISO3166_1_Alpha_3: 'PAK',
-  ISO4217_Currency_Alphabetic_Code: 'PKR',
-  ISO4217_Currency_Country_Name: 'PAKISTAN',
-  ISO4217_Currency_Minor_Unit: 2,
-  ISO4217_Currency_Name: 'Pakistan Rupee',
-  ISO4217_Currency_Numeric_Code: 586,
-  ITU: 'PAK',
-  Is_Independent: 'Yes',
-  Languages: 'ur-PK,en-PK,pa,sd,ps,brh',
-  M49: 586,
-  MARC: 'pk',
-  Official_Name_English: 'Pakistan',
-  TLD: '.pk',
-  WMO: 'PK'
-}
+```bash
+yarn add mulk
+npm i mulk
 ```
 
-## Get country's specific data
-`mulk('pakistan', 'Capital');`
-or `mulk('pakistan', 'Continent');`
+## Usage
+Import either using `require` or `import`
+
+```javascript
+const mulk = require('mulk');
+
+// Get country by country name/itu/ISO2/ISO3
+const countryByName = mulk('United Arab Emirates');
+const countryByItu = mulk('UAE');
+const countryByIso2 = mulk('AE');
+const countryByIso3 = mulk('ARE');
+
+// Resulting value for each of the calls above will be the country object
+// {
+//   "capital": "Islamabad",
+//  "continent": "AS",
+//  "name": "Pakistan",
+//  "officialName": "Pakistan",
+//  "distSign": "PK",
+//  "dialCode": "92",
+//  "edgar": "R0",
+//  "fifa": "PAK",
+//  "fips": "PK",
+//  "gaul": "188",
+//  "geoNameId": "1168579",
+//  "olympicsId": "PAK",
+//  "iso2": "PK",
+//  "iso3": "PAK",
+//  "currencyCode": "PKR",
+//  "currencyCountryName": "PAKISTAN",
+//  "currencyMinorUnit": 2,
+//  "currencyName": "Pakistan Rupee",
+//  "currencyNumericCode": 586,
+//  "itu": "PAK",
+//  "isIndependent": "Yes",
+//  "languages": [
+//    "ur-PK",
+//    "en-PK",
+//    "pa",
+//    "sd",
+//    "ps",
+//    "brh"
+//  ],
+//  "m49": 586,
+//  "marc": "pk",
+//  "tld": ".pk",
+//  "wmo": "PK"
+// }
+
+// Return default value if the country details are not found
+const country = mulk('non-existing-country', null, { 
+  id: 'non-existing', 
+  name: 'Default Country'
+});
+
+// Get single field instead of object
+const dialCode = mulk('UAE', 'dialCode');
+
+// Get default value for field if does not exist
+const dialCode = mulk('UAE', 'dialCode', '000');
+```
+
+Feel free to open an issue if you need help with some specific usecase.
+
+## Contributions
+
+* Report issues with problems and suggestions
+* Open pull request with improvements
+* Spread the word
+* Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/w3debugger.svg?style=social&label=Follow%20%40w3debugger)](https://twitter.com/w3debugger)
+
+## License
+
+MIT &copy; [Muhammad Umar Mehmood](https://twitter.com/w3debugger)
