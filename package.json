@@ -10,7 +10,7 @@
   },
   "scripts": {
     "meta": "node scripts/generate-meta.js",
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [
     "country",
