@@ -9,7 +9,8 @@
     "url": "https://github.com/w3debugger/mulk"
   },
   "scripts": {
-    "meta": "node scripts/generate-meta.js"
+    "meta": "node scripts/generate-meta.js",
+    "test": "jest"
   },
   "keywords": [
     "country",
@@ -20,5 +21,8 @@
     "dialing",
     "currency",
     "codes"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
